@@ -1,0 +1,220 @@
+2015-12-08 00:14:44.365 [main] INFO  c.i.b.b.u.ApplicationLoggingConfig - configure - application logging configured
+2015-12-08 00:14:44.372 [main] INFO  c.i.builder.bootstrap.ui.SwtUI - loopSWTDispatch - Starting the event loop dispatch
+2015-12-08 00:14:44.373 [Thread-2] INFO  c.i.b.bootstrap.BootstrapApplication - onStart - starting bootstrap, version:- 1.0.0.20150715115244
+2015-12-08 00:14:44.374 [Thread-2] INFO  c.i.b.bootstrap.BootstrapApplication - onStart - running launch configurer
+2015-12-08 00:14:44.379 [Thread-2] INFO  c.i.b.bootstrap.LaunchConfigurer - configure - launcher config is:- /Users/kirschbombe/Desktop/import.io.app/Contents/MacOS/import.io.ini
+2015-12-08 00:14:44.387 [Thread-2] INFO  c.i.b.bootstrap.BootstrapApplication - onStart - running updater
+2015-12-08 00:14:44.389 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - initialBundleSetup - app-dir:- /Users/kirschbombe/Desktop/import.io.app/Contents/Resources/Java
+2015-12-08 00:14:44.392 [Thread-2] INFO  c.i.b.bootstrap.utils.NetworkUtils - setupSystemProxy - detecting proxies
+2015-12-08 00:14:44.410 [Thread-2] INFO  c.i.b.bootstrap.utils.NetworkUtils - setupSystemProxy - proxy type : DIRECT
+2015-12-08 00:14:44.410 [Thread-2] INFO  c.i.b.bootstrap.utils.NetworkUtils - setupSystemProxy - No Proxy, direct connection
+2015-12-08 00:14:44.420 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Used bundles: [joda-time_2.7.0, org.eclipse.equinox.launcher_1.3.100.v20150511-1540, org.eclipse.equinox.frameworkadmin_2.0.200.v20150423-1455, com.importio.builder.bootstrap_1.0.0.20150715115244, com.google.guava_15.0.0, com.springsource.org.apache.xml.resolver_1.2.0, com.importio.systembundle_1.0.0.20150306155554, org.eclipse.equinox.app_1.3.300.v20150423-1356, com.fasterxml.jackson.core.jackson-core_2.5.1, javax.inject_1.0.0.v20091030, org.eclipse.swt_3.104.0.v20150528-0211, com.springsource.org.apache.commons.io_1.4.0, projectlombok_1.16.0, com.importio.builder_1.0.1.1437144645, org.slf4j.log4j_1.6.4, org.eclipse.core.runtime_3.11.0.v20150405-1723, osgi.enterprise_4.2.0.v201108120515, com.fasterxml.jackson.core.jackson-databind_2.5.1, org.eclipse.core.jobs_3.7.0.v20150330-2103, org.eclipse.equinox.frameworkadmin.equinox_1.0.600.v20150522-2234, org.eclipse.equinox.common_3.7.0.v20150402-1709, org.h2_1.3.172, nu.validator.htmlparser_1.0.0.20150326135404, org.eclipse.equinox.preferences_3.5.300.v20150408-1437, org.eclipse.equinox.launcher.cocoa.macosx.x86_64_1.1.300.v20150602-1417, org.eclipse.swt.cocoa.macosx.x86_64_3.104.0.v20150528-0211, com.fasterxml.jackson.datatype.jackson-datatype-guava_2.2.2, org.apache.httpcomponents.httpcore_4.3.2, ch.qos.logback.classic_1.0.0.v20111214-2030, ch.qos.logback.slf4j_1.0.0.v20120123-1500, net.sf.jtidy_1.0.0, com.fasterxml.jackson.core.jackson-annotations_2.5.1, jrobotx_0.2.0, net.javacrumbs.json2xml_4.1.0, org.apache.commons.lang_2.4.0, org.eclipse.osgi_3.10.100.v20150529-1857, com.importio.builder.logging_1.0.1.20150319160206, org.eclipse.equinox.registry_3.6.0.v20150318-1503, org.apache.servicemix.bundles.saxon_9.5.1.1_1, org.eclipse.core.contenttype_3.5.0.v20150421-2214, javax.servlet_3.1.0.v201410161800, org.slf4j.api_1.6.4, ch.qos.logback.core_1.0.0.v20111214-2030]
+2015-12-08 00:14:44.420 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if ch.qos.logback.classic_1.0.0.v20111214-2030.jar required
+2015-12-08 00:14:44.421 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if ch.qos.logback.core_1.0.0.v20111214-2030.jar required
+2015-12-08 00:14:44.421 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if ch.qos.logback.slf4j_1.0.0.v20120123-1500.jar required
+2015-12-08 00:14:44.421 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.fasterxml.jackson.core.jackson-annotations_2.5.1.jar required
+2015-12-08 00:14:44.421 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.fasterxml.jackson.core.jackson-core_2.5.1.jar required
+2015-12-08 00:14:44.421 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.fasterxml.jackson.core.jackson-databind_2.5.1.jar required
+2015-12-08 00:14:44.421 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.fasterxml.jackson.datatype.jackson-datatype-guava_2.2.2.jar required
+2015-12-08 00:14:44.422 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.google.guava_15.0.0.jar required
+2015-12-08 00:14:44.422 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.importio.builder.bootstrap_1.0.0.20150715115244.jar required
+2015-12-08 00:14:44.422 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.importio.builder.logging_1.0.1.20150319160206.jar required
+2015-12-08 00:14:44.422 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.importio.builder_1.0.1.1437144645.jar required
+2015-12-08 00:14:44.422 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.importio.systembundle_1.0.0.20150306155554.jar required
+2015-12-08 00:14:44.422 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.springsource.org.apache.commons.io_1.4.0.jar required
+2015-12-08 00:14:44.423 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.springsource.org.apache.xml.resolver_1.2.0.jar required
+2015-12-08 00:14:44.423 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if javax.inject_1.0.0.v20091030.jar required
+2015-12-08 00:14:44.423 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if javax.servlet_3.1.0.v201410161800.jar required
+2015-12-08 00:14:44.423 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if joda-time_2.7.0.jar required
+2015-12-08 00:14:44.423 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if jrobotx_0.2.0.jar required
+2015-12-08 00:14:44.423 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if net.javacrumbs.json2xml_4.1.0.jar required
+2015-12-08 00:14:44.423 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if net.sf.jtidy_1.0.0.jar required
+2015-12-08 00:14:44.424 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if nu.validator.htmlparser_1.0.0.20150326135404.jar required
+2015-12-08 00:14:44.424 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.apache.commons.lang_2.4.0 required
+2015-12-08 00:14:44.424 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.apache.httpcomponents.httpcore_4.3.2.jar required
+2015-12-08 00:14:44.424 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.apache.servicemix.bundles.saxon_9.5.1.1_1.jar required
+2015-12-08 00:14:44.424 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.core.contenttype_3.5.0.v20150421-2214.jar required
+2015-12-08 00:14:44.424 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.core.jobs_3.7.0.v20150330-2103.jar required
+2015-12-08 00:14:44.424 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.core.runtime_3.11.0.v20150405-1723.jar required
+2015-12-08 00:14:44.425 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.equinox.app_1.3.300.v20150423-1356.jar required
+2015-12-08 00:14:44.425 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.equinox.common_3.7.0.v20150402-1709.jar required
+2015-12-08 00:14:44.425 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.equinox.frameworkadmin.equinox_1.0.600.v20150522-2234.jar required
+2015-12-08 00:14:44.425 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.equinox.frameworkadmin_2.0.200.v20150423-1455.jar required
+2015-12-08 00:14:44.425 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.equinox.launcher.cocoa.macosx.x86_64_1.1.300.v20150602-1417 required
+2015-12-08 00:14:44.425 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.equinox.launcher_1.3.100.v20150511-1540.jar required
+2015-12-08 00:14:44.426 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.equinox.preferences_3.5.300.v20150408-1437.jar required
+2015-12-08 00:14:44.426 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.equinox.registry_3.6.0.v20150318-1503.jar required
+2015-12-08 00:14:44.426 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.osgi_3.10.100.v20150529-1857.jar required
+2015-12-08 00:14:44.426 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.swt.cocoa.macosx.x86_64_3.104.0.v20150528-0211.jar required
+2015-12-08 00:14:44.426 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.swt_3.104.0.v20150528-0211.jar required
+2015-12-08 00:14:44.426 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.h2_1.3.172.jar required
+2015-12-08 00:14:44.426 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.slf4j.api_1.6.4.jar required
+2015-12-08 00:14:44.427 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.slf4j.log4j_1.6.4.jar required
+2015-12-08 00:14:44.427 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if osgi.enterprise_4.2.0.v201108120515.jar required
+2015-12-08 00:14:44.427 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if projectlombok_1.16.0.jar required
+2015-12-08 00:14:44.427 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - currentConfig - update url is:- https://s3.amazonaws.com/importio-builder-updates/production
+2015-12-08 00:14:44.435 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - currentConfig - getting config:- https://s3.amazonaws.com/importio-builder-updates/production/macosx/cocoa/x86_64/configuration/config.ini
+2015-12-08 00:14:46.243 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - currentConfig - config read took 1808 ms
+2015-12-08 00:14:46.255 [Thread-2] WARN  c.i.b.bootstrap.LaunchConfigurer - currentJvmIsCorrectVersion - desired jvm version is:- 1.8.0_40
+2015-12-08 00:14:46.256 [Thread-2] WARN  c.i.b.bootstrap.LaunchConfigurer - currentJvmIsCorrectVersion - current jvm is:- /Users/kirschbombe/Desktop/import.io.app/Contents/Resources/Java/jre-versions/jre1.8.0_40/lib/jli/libjli.dylib
+2015-12-08 00:14:46.296 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Used bundles: [joda-time_2.7.0, org.eclipse.equinox.launcher_1.3.100.v20150511-1540, org.eclipse.equinox.frameworkadmin_2.0.200.v20150423-1455, com.importio.builder.bootstrap_1.0.0.20150715115244, com.google.guava_15.0.0, com.springsource.org.apache.xml.resolver_1.2.0, com.importio.systembundle_1.0.0.20150306155554, org.eclipse.equinox.app_1.3.300.v20150423-1356, com.fasterxml.jackson.core.jackson-core_2.5.1, javax.inject_1.0.0.v20091030, org.eclipse.swt_3.104.0.v20150528-0211, com.springsource.org.apache.commons.io_1.4.0, projectlombok_1.16.0, com.importio.builder_1.0.1.1437144645, org.slf4j.log4j_1.6.4, org.eclipse.core.runtime_3.11.0.v20150405-1723, osgi.enterprise_4.2.0.v201108120515, com.fasterxml.jackson.core.jackson-databind_2.5.1, org.eclipse.core.jobs_3.7.0.v20150330-2103, org.eclipse.equinox.frameworkadmin.equinox_1.0.600.v20150522-2234, org.eclipse.equinox.common_3.7.0.v20150402-1709, org.h2_1.3.172, nu.validator.htmlparser_1.0.0.20150326135404, org.eclipse.equinox.preferences_3.5.300.v20150408-1437, org.eclipse.equinox.launcher.cocoa.macosx.x86_64_1.1.300.v20150602-1417, org.eclipse.swt.cocoa.macosx.x86_64_3.104.0.v20150528-0211, com.fasterxml.jackson.datatype.jackson-datatype-guava_2.2.2, org.apache.httpcomponents.httpcore_4.3.2, ch.qos.logback.classic_1.0.0.v20111214-2030, ch.qos.logback.slf4j_1.0.0.v20120123-1500, net.sf.jtidy_1.0.0, com.fasterxml.jackson.core.jackson-annotations_2.5.1, jrobotx_0.2.0, net.javacrumbs.json2xml_4.1.0, org.apache.commons.lang_2.4.0, org.eclipse.osgi_3.10.100.v20150529-1857, com.importio.builder.logging_1.0.1.20150319160206, org.eclipse.equinox.registry_3.6.0.v20150318-1503, org.apache.servicemix.bundles.saxon_9.5.1.1_1, org.eclipse.core.contenttype_3.5.0.v20150421-2214, javax.servlet_3.1.0.v201410161800, org.slf4j.api_1.6.4, ch.qos.logback.core_1.0.0.v20111214-2030]
+2015-12-08 00:14:46.296 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if ch.qos.logback.classic_1.0.0.v20111214-2030.jar required
+2015-12-08 00:14:46.296 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if ch.qos.logback.core_1.0.0.v20111214-2030.jar required
+2015-12-08 00:14:46.297 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if ch.qos.logback.slf4j_1.0.0.v20120123-1500.jar required
+2015-12-08 00:14:46.297 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.fasterxml.jackson.core.jackson-annotations_2.5.1.jar required
+2015-12-08 00:14:46.297 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.fasterxml.jackson.core.jackson-core_2.5.1.jar required
+2015-12-08 00:14:46.297 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.fasterxml.jackson.core.jackson-databind_2.5.1.jar required
+2015-12-08 00:14:46.297 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.fasterxml.jackson.datatype.jackson-datatype-guava_2.2.2.jar required
+2015-12-08 00:14:46.297 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.google.guava_15.0.0.jar required
+2015-12-08 00:14:46.297 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.importio.builder.bootstrap_1.0.0.20150715115244.jar required
+2015-12-08 00:14:46.297 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.importio.builder.logging_1.0.1.20150319160206.jar required
+2015-12-08 00:14:46.297 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.importio.builder_1.0.1.1437144645.jar required
+2015-12-08 00:14:46.297 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.importio.systembundle_1.0.0.20150306155554.jar required
+2015-12-08 00:14:46.297 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.springsource.org.apache.commons.io_1.4.0.jar required
+2015-12-08 00:14:46.298 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.springsource.org.apache.xml.resolver_1.2.0.jar required
+2015-12-08 00:14:46.298 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if javax.inject_1.0.0.v20091030.jar required
+2015-12-08 00:14:46.298 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if javax.servlet_3.1.0.v201410161800.jar required
+2015-12-08 00:14:46.298 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if joda-time_2.7.0.jar required
+2015-12-08 00:14:46.298 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if jrobotx_0.2.0.jar required
+2015-12-08 00:14:46.298 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if net.javacrumbs.json2xml_4.1.0.jar required
+2015-12-08 00:14:46.298 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if net.sf.jtidy_1.0.0.jar required
+2015-12-08 00:14:46.298 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if nu.validator.htmlparser_1.0.0.20150326135404.jar required
+2015-12-08 00:14:46.298 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.apache.commons.lang_2.4.0 required
+2015-12-08 00:14:46.298 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.apache.httpcomponents.httpcore_4.3.2.jar required
+2015-12-08 00:14:46.298 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.apache.servicemix.bundles.saxon_9.5.1.1_1.jar required
+2015-12-08 00:14:46.298 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.core.contenttype_3.5.0.v20150421-2214.jar required
+2015-12-08 00:14:46.299 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.core.jobs_3.7.0.v20150330-2103.jar required
+2015-12-08 00:14:46.299 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.core.runtime_3.11.0.v20150405-1723.jar required
+2015-12-08 00:14:46.299 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.equinox.app_1.3.300.v20150423-1356.jar required
+2015-12-08 00:14:46.299 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.equinox.common_3.7.0.v20150402-1709.jar required
+2015-12-08 00:14:46.299 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.equinox.frameworkadmin.equinox_1.0.600.v20150522-2234.jar required
+2015-12-08 00:14:46.299 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.equinox.frameworkadmin_2.0.200.v20150423-1455.jar required
+2015-12-08 00:14:46.299 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.equinox.launcher.cocoa.macosx.x86_64_1.1.300.v20150602-1417 required
+2015-12-08 00:14:46.299 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.equinox.launcher_1.3.100.v20150511-1540.jar required
+2015-12-08 00:14:46.299 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.equinox.preferences_3.5.300.v20150408-1437.jar required
+2015-12-08 00:14:46.299 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.equinox.registry_3.6.0.v20150318-1503.jar required
+2015-12-08 00:14:46.299 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.osgi_3.10.100.v20150529-1857.jar required
+2015-12-08 00:14:46.300 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.swt.cocoa.macosx.x86_64_3.104.0.v20150528-0211.jar required
+2015-12-08 00:14:46.300 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.swt_3.104.0.v20150528-0211.jar required
+2015-12-08 00:14:46.300 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.h2_1.3.172.jar required
+2015-12-08 00:14:46.300 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.slf4j.api_1.6.4.jar required
+2015-12-08 00:14:46.300 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.slf4j.log4j_1.6.4.jar required
+2015-12-08 00:14:46.301 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if osgi.enterprise_4.2.0.v201108120515.jar required
+2015-12-08 00:14:46.301 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if projectlombok_1.16.0.jar required
+2015-12-08 00:14:46.302 [Thread-2] INFO  c.i.b.bootstrap.BootstrapApplication - onStart - normal start-up nothing changed...
+2015-12-08 00:14:46.302 [Thread-2] INFO  c.i.b.bootstrap.BootstrapApplication - onStart - running starter
+2015-12-08 00:14:46.727 [builder] WARN  m.cl - c - Using xul @ /Users/kirschbombe/Desktop/import.io.app/Contents/Resources/Java/xulrunner-versions/24/xulrunner
+2015-12-08 00:16:30.203 [pool-2-thread-5] WARN  l.h - a - You must specify some extractions.
+2015-12-08 00:16:30.703 [pool-2-thread-6] WARN  l.h - a - You must specify some extractions.
+2015-12-08 00:17:15.986 [pool-2-thread-3] WARN  l.h - a - You must specify some extractions.
+2015-12-08 00:17:34.005 [pool-2-thread-3] WARN  l.h - a - You must specify some extractions.
+2015-12-08 00:18:12.604 [SWT Thread] INFO  c.i.builder.bootstrap.ui.SwtUI - stop - Stopping the event loop
+2016-02-12 11:34:56.080 [main] INFO  c.i.b.b.u.ApplicationLoggingConfig - configure - application logging configured
+2016-02-12 11:34:56.094 [main] INFO  c.i.builder.bootstrap.ui.SwtUI - loopSWTDispatch - Starting the event loop dispatch
+2016-02-12 11:34:56.097 [Thread-2] INFO  c.i.b.bootstrap.BootstrapApplication - onStart - starting bootstrap, version:- 1.0.0.20150715115244
+2016-02-12 11:34:56.097 [Thread-2] INFO  c.i.b.bootstrap.BootstrapApplication - onStart - running launch configurer
+2016-02-12 11:34:56.102 [Thread-2] INFO  c.i.b.bootstrap.LaunchConfigurer - configure - launcher config is:- /Users/kirschbombe/Desktop/import.io.app/Contents/MacOS/import.io.ini
+2016-02-12 11:34:56.114 [Thread-2] INFO  c.i.b.bootstrap.BootstrapApplication - onStart - running updater
+2016-02-12 11:34:56.128 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - initialBundleSetup - app-dir:- /Users/kirschbombe/Desktop/import.io.app/Contents/Resources/Java
+2016-02-12 11:34:56.132 [Thread-2] INFO  c.i.b.bootstrap.utils.NetworkUtils - setupSystemProxy - detecting proxies
+2016-02-12 11:34:56.149 [Thread-2] INFO  c.i.b.bootstrap.utils.NetworkUtils - setupSystemProxy - proxy type : DIRECT
+2016-02-12 11:34:56.149 [Thread-2] INFO  c.i.b.bootstrap.utils.NetworkUtils - setupSystemProxy - No Proxy, direct connection
+2016-02-12 11:34:56.157 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Used bundles: [joda-time_2.7.0, org.eclipse.equinox.launcher_1.3.100.v20150511-1540, org.eclipse.equinox.frameworkadmin_2.0.200.v20150423-1455, com.importio.builder.bootstrap_1.0.0.20150715115244, com.google.guava_15.0.0, com.springsource.org.apache.xml.resolver_1.2.0, com.importio.systembundle_1.0.0.20150306155554, org.eclipse.equinox.app_1.3.300.v20150423-1356, com.fasterxml.jackson.core.jackson-core_2.5.1, javax.inject_1.0.0.v20091030, org.eclipse.swt_3.104.0.v20150528-0211, com.springsource.org.apache.commons.io_1.4.0, projectlombok_1.16.0, com.importio.builder_1.0.1.1437144645, org.slf4j.log4j_1.6.4, org.eclipse.core.runtime_3.11.0.v20150405-1723, osgi.enterprise_4.2.0.v201108120515, com.fasterxml.jackson.core.jackson-databind_2.5.1, org.eclipse.core.jobs_3.7.0.v20150330-2103, org.eclipse.equinox.frameworkadmin.equinox_1.0.600.v20150522-2234, org.eclipse.equinox.common_3.7.0.v20150402-1709, org.h2_1.3.172, nu.validator.htmlparser_1.0.0.20150326135404, org.eclipse.equinox.preferences_3.5.300.v20150408-1437, org.eclipse.equinox.launcher.cocoa.macosx.x86_64_1.1.300.v20150602-1417, org.eclipse.swt.cocoa.macosx.x86_64_3.104.0.v20150528-0211, com.fasterxml.jackson.datatype.jackson-datatype-guava_2.2.2, org.apache.httpcomponents.httpcore_4.3.2, ch.qos.logback.classic_1.0.0.v20111214-2030, ch.qos.logback.slf4j_1.0.0.v20120123-1500, net.sf.jtidy_1.0.0, com.fasterxml.jackson.core.jackson-annotations_2.5.1, jrobotx_0.2.0, net.javacrumbs.json2xml_4.1.0, org.apache.commons.lang_2.4.0, org.eclipse.osgi_3.10.100.v20150529-1857, com.importio.builder.logging_1.0.1.20150319160206, org.eclipse.equinox.registry_3.6.0.v20150318-1503, org.apache.servicemix.bundles.saxon_9.5.1.1_1, org.eclipse.core.contenttype_3.5.0.v20150421-2214, javax.servlet_3.1.0.v201410161800, org.slf4j.api_1.6.4, ch.qos.logback.core_1.0.0.v20111214-2030]
+2016-02-12 11:34:56.158 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if ch.qos.logback.classic_1.0.0.v20111214-2030.jar required
+2016-02-12 11:34:56.158 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if ch.qos.logback.core_1.0.0.v20111214-2030.jar required
+2016-02-12 11:34:56.158 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if ch.qos.logback.slf4j_1.0.0.v20120123-1500.jar required
+2016-02-12 11:34:56.158 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.fasterxml.jackson.core.jackson-annotations_2.5.1.jar required
+2016-02-12 11:34:56.158 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.fasterxml.jackson.core.jackson-core_2.5.1.jar required
+2016-02-12 11:34:56.158 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.fasterxml.jackson.core.jackson-databind_2.5.1.jar required
+2016-02-12 11:34:56.159 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.fasterxml.jackson.datatype.jackson-datatype-guava_2.2.2.jar required
+2016-02-12 11:34:56.159 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.google.guava_15.0.0.jar required
+2016-02-12 11:34:56.159 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.importio.builder.bootstrap_1.0.0.20150715115244.jar required
+2016-02-12 11:34:56.159 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.importio.builder.logging_1.0.1.20150319160206.jar required
+2016-02-12 11:34:56.159 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.importio.builder_1.0.1.1437144645.jar required
+2016-02-12 11:34:56.159 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.importio.systembundle_1.0.0.20150306155554.jar required
+2016-02-12 11:34:56.159 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.springsource.org.apache.commons.io_1.4.0.jar required
+2016-02-12 11:34:56.159 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.springsource.org.apache.xml.resolver_1.2.0.jar required
+2016-02-12 11:34:56.159 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if javax.inject_1.0.0.v20091030.jar required
+2016-02-12 11:34:56.160 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if javax.servlet_3.1.0.v201410161800.jar required
+2016-02-12 11:34:56.160 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if joda-time_2.7.0.jar required
+2016-02-12 11:34:56.160 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if jrobotx_0.2.0.jar required
+2016-02-12 11:34:56.160 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if net.javacrumbs.json2xml_4.1.0.jar required
+2016-02-12 11:34:56.160 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if net.sf.jtidy_1.0.0.jar required
+2016-02-12 11:34:56.161 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if nu.validator.htmlparser_1.0.0.20150326135404.jar required
+2016-02-12 11:34:56.161 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.apache.commons.lang_2.4.0 required
+2016-02-12 11:34:56.161 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.apache.httpcomponents.httpcore_4.3.2.jar required
+2016-02-12 11:34:56.162 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.apache.servicemix.bundles.saxon_9.5.1.1_1.jar required
+2016-02-12 11:34:56.162 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.core.contenttype_3.5.0.v20150421-2214.jar required
+2016-02-12 11:34:56.162 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.core.jobs_3.7.0.v20150330-2103.jar required
+2016-02-12 11:34:56.162 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.core.runtime_3.11.0.v20150405-1723.jar required
+2016-02-12 11:34:56.162 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.equinox.app_1.3.300.v20150423-1356.jar required
+2016-02-12 11:34:56.162 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.equinox.common_3.7.0.v20150402-1709.jar required
+2016-02-12 11:34:56.163 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.equinox.frameworkadmin.equinox_1.0.600.v20150522-2234.jar required
+2016-02-12 11:34:56.163 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.equinox.frameworkadmin_2.0.200.v20150423-1455.jar required
+2016-02-12 11:34:56.163 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.equinox.launcher.cocoa.macosx.x86_64_1.1.300.v20150602-1417 required
+2016-02-12 11:34:56.163 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.equinox.launcher_1.3.100.v20150511-1540.jar required
+2016-02-12 11:34:56.163 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.equinox.preferences_3.5.300.v20150408-1437.jar required
+2016-02-12 11:34:56.164 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.equinox.registry_3.6.0.v20150318-1503.jar required
+2016-02-12 11:34:56.164 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.osgi_3.10.100.v20150529-1857.jar required
+2016-02-12 11:34:56.164 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.swt.cocoa.macosx.x86_64_3.104.0.v20150528-0211.jar required
+2016-02-12 11:34:56.164 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.swt_3.104.0.v20150528-0211.jar required
+2016-02-12 11:34:56.164 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.h2_1.3.172.jar required
+2016-02-12 11:34:56.164 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.slf4j.api_1.6.4.jar required
+2016-02-12 11:34:56.164 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.slf4j.log4j_1.6.4.jar required
+2016-02-12 11:34:56.164 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if osgi.enterprise_4.2.0.v201108120515.jar required
+2016-02-12 11:34:56.165 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if projectlombok_1.16.0.jar required
+2016-02-12 11:34:56.165 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - currentConfig - update url is:- https://s3.amazonaws.com/importio-builder-updates/production
+2016-02-12 11:34:56.173 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - currentConfig - getting config:- https://s3.amazonaws.com/importio-builder-updates/production/macosx/cocoa/x86_64/configuration/config.ini
+2016-02-12 11:34:57.760 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - currentConfig - config read took 1587 ms
+2016-02-12 11:34:57.772 [Thread-2] WARN  c.i.b.bootstrap.LaunchConfigurer - currentJvmIsCorrectVersion - desired jvm version is:- 1.8.0_40
+2016-02-12 11:34:57.773 [Thread-2] WARN  c.i.b.bootstrap.LaunchConfigurer - currentJvmIsCorrectVersion - current jvm is:- /Users/kirschbombe/Desktop/import.io.app/Contents/Resources/Java/jre-versions/jre1.8.0_40/lib/jli/libjli.dylib
+2016-02-12 11:34:57.844 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Used bundles: [joda-time_2.7.0, org.eclipse.equinox.launcher_1.3.100.v20150511-1540, org.eclipse.equinox.frameworkadmin_2.0.200.v20150423-1455, com.importio.builder.bootstrap_1.0.0.20150715115244, com.google.guava_15.0.0, com.springsource.org.apache.xml.resolver_1.2.0, com.importio.systembundle_1.0.0.20150306155554, org.eclipse.equinox.app_1.3.300.v20150423-1356, com.fasterxml.jackson.core.jackson-core_2.5.1, javax.inject_1.0.0.v20091030, org.eclipse.swt_3.104.0.v20150528-0211, com.springsource.org.apache.commons.io_1.4.0, projectlombok_1.16.0, com.importio.builder_1.0.1.1437144645, org.slf4j.log4j_1.6.4, org.eclipse.core.runtime_3.11.0.v20150405-1723, osgi.enterprise_4.2.0.v201108120515, com.fasterxml.jackson.core.jackson-databind_2.5.1, org.eclipse.core.jobs_3.7.0.v20150330-2103, org.eclipse.equinox.frameworkadmin.equinox_1.0.600.v20150522-2234, org.eclipse.equinox.common_3.7.0.v20150402-1709, org.h2_1.3.172, nu.validator.htmlparser_1.0.0.20150326135404, org.eclipse.equinox.preferences_3.5.300.v20150408-1437, org.eclipse.equinox.launcher.cocoa.macosx.x86_64_1.1.300.v20150602-1417, org.eclipse.swt.cocoa.macosx.x86_64_3.104.0.v20150528-0211, com.fasterxml.jackson.datatype.jackson-datatype-guava_2.2.2, org.apache.httpcomponents.httpcore_4.3.2, ch.qos.logback.classic_1.0.0.v20111214-2030, ch.qos.logback.slf4j_1.0.0.v20120123-1500, net.sf.jtidy_1.0.0, com.fasterxml.jackson.core.jackson-annotations_2.5.1, jrobotx_0.2.0, net.javacrumbs.json2xml_4.1.0, org.apache.commons.lang_2.4.0, org.eclipse.osgi_3.10.100.v20150529-1857, com.importio.builder.logging_1.0.1.20150319160206, org.eclipse.equinox.registry_3.6.0.v20150318-1503, org.apache.servicemix.bundles.saxon_9.5.1.1_1, org.eclipse.core.contenttype_3.5.0.v20150421-2214, javax.servlet_3.1.0.v201410161800, org.slf4j.api_1.6.4, ch.qos.logback.core_1.0.0.v20111214-2030]
+2016-02-12 11:34:57.845 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if ch.qos.logback.classic_1.0.0.v20111214-2030.jar required
+2016-02-12 11:34:57.846 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if ch.qos.logback.core_1.0.0.v20111214-2030.jar required
+2016-02-12 11:34:57.846 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if ch.qos.logback.slf4j_1.0.0.v20120123-1500.jar required
+2016-02-12 11:34:57.846 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.fasterxml.jackson.core.jackson-annotations_2.5.1.jar required
+2016-02-12 11:34:57.846 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.fasterxml.jackson.core.jackson-core_2.5.1.jar required
+2016-02-12 11:34:57.847 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.fasterxml.jackson.core.jackson-databind_2.5.1.jar required
+2016-02-12 11:34:57.847 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.fasterxml.jackson.datatype.jackson-datatype-guava_2.2.2.jar required
+2016-02-12 11:34:57.847 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.google.guava_15.0.0.jar required
+2016-02-12 11:34:57.847 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.importio.builder.bootstrap_1.0.0.20150715115244.jar required
+2016-02-12 11:34:57.847 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.importio.builder.logging_1.0.1.20150319160206.jar required
+2016-02-12 11:34:57.848 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.importio.builder_1.0.1.1437144645.jar required
+2016-02-12 11:34:57.848 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.importio.systembundle_1.0.0.20150306155554.jar required
+2016-02-12 11:34:57.848 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.springsource.org.apache.commons.io_1.4.0.jar required
+2016-02-12 11:34:57.848 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if com.springsource.org.apache.xml.resolver_1.2.0.jar required
+2016-02-12 11:34:57.849 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if javax.inject_1.0.0.v20091030.jar required
+2016-02-12 11:34:57.849 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if javax.servlet_3.1.0.v201410161800.jar required
+2016-02-12 11:34:57.849 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if joda-time_2.7.0.jar required
+2016-02-12 11:34:57.849 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if jrobotx_0.2.0.jar required
+2016-02-12 11:34:57.849 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if net.javacrumbs.json2xml_4.1.0.jar required
+2016-02-12 11:34:57.850 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if net.sf.jtidy_1.0.0.jar required
+2016-02-12 11:34:57.850 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if nu.validator.htmlparser_1.0.0.20150326135404.jar required
+2016-02-12 11:34:57.850 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.apache.commons.lang_2.4.0 required
+2016-02-12 11:34:57.850 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.apache.httpcomponents.httpcore_4.3.2.jar required
+2016-02-12 11:34:57.850 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.apache.servicemix.bundles.saxon_9.5.1.1_1.jar required
+2016-02-12 11:34:57.850 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.core.contenttype_3.5.0.v20150421-2214.jar required
+2016-02-12 11:34:57.851 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.core.jobs_3.7.0.v20150330-2103.jar required
+2016-02-12 11:34:57.851 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.core.runtime_3.11.0.v20150405-1723.jar required
+2016-02-12 11:34:57.851 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.equinox.app_1.3.300.v20150423-1356.jar required
+2016-02-12 11:34:57.851 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.equinox.common_3.7.0.v20150402-1709.jar required
+2016-02-12 11:34:57.851 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.equinox.frameworkadmin.equinox_1.0.600.v20150522-2234.jar required
+2016-02-12 11:34:57.852 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.equinox.frameworkadmin_2.0.200.v20150423-1455.jar required
+2016-02-12 11:34:57.852 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.equinox.launcher.cocoa.macosx.x86_64_1.1.300.v20150602-1417 required
+2016-02-12 11:34:57.852 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.equinox.launcher_1.3.100.v20150511-1540.jar required
+2016-02-12 11:34:57.852 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.equinox.preferences_3.5.300.v20150408-1437.jar required
+2016-02-12 11:34:57.853 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.equinox.registry_3.6.0.v20150318-1503.jar required
+2016-02-12 11:34:57.853 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.osgi_3.10.100.v20150529-1857.jar required
+2016-02-12 11:34:57.854 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.swt.cocoa.macosx.x86_64_3.104.0.v20150528-0211.jar required
+2016-02-12 11:34:57.854 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.eclipse.swt_3.104.0.v20150528-0211.jar required
+2016-02-12 11:34:57.854 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.h2_1.3.172.jar required
+2016-02-12 11:34:57.854 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.slf4j.api_1.6.4.jar required
+2016-02-12 11:34:57.855 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if org.slf4j.log4j_1.6.4.jar required
+2016-02-12 11:34:57.855 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if osgi.enterprise_4.2.0.v201108120515.jar required
+2016-02-12 11:34:57.855 [Thread-2] INFO  c.importio.builder.bootstrap.Updater - uninstallAndDeletePlugins - Checking if projectlombok_1.16.0.jar required
+2016-02-12 11:34:57.856 [Thread-2] INFO  c.i.b.bootstrap.BootstrapApplication - onStart - normal start-up nothing changed...
+2016-02-12 11:34:57.857 [Thread-2] INFO  c.i.b.bootstrap.BootstrapApplication - onStart - running starter
+2016-02-12 11:34:58.330 [builder] WARN  m.cl - c - Using xul @ /Users/kirschbombe/Desktop/import.io.app/Contents/Resources/Java/xulrunner-versions/24/xulrunner
+2016-02-12 11:37:27.248 [pool-2-thread-7] WARN  l.h - a - You must specify some extractions.
+2016-02-12 11:37:27.786 [pool-2-thread-10] WARN  l.h - a - You must specify some extractions.
+2016-02-12 11:38:20.794 [SWT Thread] INFO  c.i.builder.bootstrap.ui.SwtUI - stop - Stopping the event loop

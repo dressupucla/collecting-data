@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width; user-scalable=false;">
+  <title>about:buildconfig</title>
+  <link rel="stylesheet" href="chrome://global/skin/about.css" type="text/css">
+  <style type="text/css">
+    th { text-align: start; }
+    h2 { margin-top: 1.5em; }
+    th, td { vertical-align: top; }
+  </style>
+</head>
+<body class="aboutPageWideContainer">
+<h1>about:buildconfig</h1>
+<h2>Build Machine</h2>
+<p>Matthews-MacBook-Pro</p>
+<h2>Build platform</h2>
+<table>
+  <tbody>
+    <tr>
+      <th>target</th>
+    </tr>
+    <tr>
+      <td>x86_64-apple-darwin14.0.0</td>
+    </tr>
+  </tbody>
+</table>
+<h2>Build tools</h2>
+<table>
+  <tbody>
+    <tr>
+      <th>Compiler</th>
+      <th>Version</th>
+      <th>Compiler flags</th>
+    </tr>
+    <tr>
+      <td> /usr/local/opt/ccache/libexec/clang</td>
+      <td></td>
+      <td>-Qunused-arguments  -Qunused-arguments -Wall -Wpointer-arith -Wdeclaration-after-statement -Werror=return-type -Wtype-limits -Wempty-body -Wsign-compare -Wno-unused -std=gnu99 -fno-strict-aliasing -ffunction-sections -fdata-sections -pthread -DNO_X11 -pipe  -DNDEBUG -DTRIMMED -g -O3 -fomit-frame-pointer</td>
+    </tr>
+    <tr>
+      <td> /usr/local/opt/ccache/libexec/clang++</td>
+      <td></td>
+      <td>-Qunused-arguments  -Qunused-arguments -Wall -Wpointer-arith -Woverloaded-virtual -Werror=return-type -Wtype-limits -Wempty-body -Wsign-compare -Wno-invalid-offsetof -Wno-c++0x-extensions -Wno-extended-offsetof -Wno-unknown-warning-option -Wno-return-type-c-linkage -Wno-mismatched-tags -fno-exceptions -fno-strict-aliasing -fno-rtti -ffunction-sections -fdata-sections -fno-exceptions -std=gnu++0x -pthread -DNO_X11 -pipe  -DNDEBUG -DTRIMMED -g -O3 -fomit-frame-pointer -Qunused-arguments </td>
+    </tr>
+  </tbody>
+</table>
+<h2>Configure arguments</h2>
+<p>--enable-application=xulrunner --disable-debug --disable-tests</p>
+</body>
+</html>
