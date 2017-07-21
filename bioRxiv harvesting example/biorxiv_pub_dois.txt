@@ -1,0 +1,2516 @@
+10.1101/000968	Frontiers in Human Neuroscience	10.3389/fnhum.2013.00880
+10.1101/056770	Oncogene	10.1038/onc.2016.397
+10.1101/018788	Nature Genetics	10.1038/ng.3467
+10.1101/049031	American Journal of Infectious Diseases and Microbiology	10.12691/ajidm-4-6-1
+10.1101/017954	Ecology Letters	10.1111/ele.12475
+10.1101/063636	Translational Psychiatry	10.1038/tp.2016.246
+10.1101/054452	Journal of Structural Biology	10.1016/j.jsb.2016.06.009
+10.1101/003723	Bioinformatics	10.1093/bioinformatics/btu533
+10.1101/024620	Cell Reports	10.1016/j.celrep.2016.04.085
+10.1101/000380	Biochimie	10.1016/j.biochi.2012.05.024
+10.1101/072660	Psychophysiology	10.1111/psyp.12798
+10.1101/005603	Nature Communications	10.1038/ncomms5689
+10.1101/048348	PeerJ	10.7717/peerj.2617
+10.1101/014787	PNAS	10.1073/pnas.1416533112
+10.1101/068536	Bioinformatics	10.1093/bioinformatics/btw643
+10.1101/022285	PLOS Genetics	10.1371/journal.pgen.1005972
+10.1101/024976	Mobile DNA	10.1186/s13100-016-0061-0
+10.1101/026666	Frontiers in Systems Neuroscience	10.3389/fnsys.2016.00011
+10.1101/002899	Molecular Biology and Evolution	10.1093/molbev/msu173
+10.1101/015784	Genome Research	10.1101/gr.190868.115
+10.1101/062588	Genome Research	10.1101/gr.211854.116
+10.1101/011445	Scientific Reports	10.1038/srep13373
+10.1101/036103	PLOS Biology	10.1371/journal.pbio.1002533
+10.1101/004804	Neuron	10.1016/j.neuron.2014.12.018
+10.1101/020453	Nature Communications	10.1038/ncomms10162
+10.1101/039909	MSystems	10.1128/mSystems.00020-16
+10.1101/030338	Nature	10.1038/nature19057
+10.1101/023903	Biology Direct	10.1186/s13062-016-0120-y
+10.1101/077248	Journal of Computer-Aided Molecular Design	10.1007/s10822-016-9977-1
+10.1101/017137	Neuron	10.1016/j.neuron.2015.09.008
+10.1101/025361	New Phytologist	10.1111/nph.14033
+10.1101/005041	eLife	10.7554/eLife.03300
+10.1101/064535	Nature Methods	10.1038/nmeth.4083
+10.1101/011866	Theoretical Population Biology	10.1016/j.tpb.2015.06.003
+10.1101/084483	Molecular Plant Pathology	10.1111/mpp.12505
+10.1101/051714	Journal of Vision	10.1167/16.11.4
+10.1101/051243	Journal of Neuroscience Methods	10.1016/j.jneumeth.2016.07.016
+10.1101/008839	Journal of Theoretical Biology	10.1016/j.jtbi.2014.09.018
+10.1101/001602	eLife	10.7554/eLife.01856.001
+10.1101/006387	Trends in Genetics	10.1016/j.tig.2014.07.008
+10.1101/057166	Developmental Cell	10.1016/j.devcel.2016.06.012
+10.1101/070086	eLife	10.7554/eLife.19920
+10.1101/038364	Virus Evolution	10.1093/ve/vew026
+10.1101/035907	American Journal of Human Genetics	10.1016/j.ajhg.2016.05.013
+10.1101/024364	eLife	10.7554/eLife.10696
+10.1101/043265	PLOS Neglected Tropical Diseases	10.1371/journal.pntd.0005173
+10.1101/018317	eLife	10.7554/eLife.09771
+10.1101/018648	Human Molecular Genetics	10.1093/hmg/ddv309
+10.1101/032276	PLOS ONE	10.1371/journal.pone.0149035
+10.1101/008763	RNA	10.1261/rna.051557.115
+10.1101/074260	Scientific Reports	10.1038/srep37237
+10.1101/070979	NeuroImage	10.1016/j.neuroimage.2016.11.037
+10.1101/043190	Molecular Ecology	10.1111/mec.13677
+10.1101/012880	Nature Methods	10.1038/nmeth.3312
+10.1101/028100	Nucleic Acids Research	10.1093/nar/gkw333
+10.1101/008490	eLife	10.7554/eLife.04729
+10.1101/043992	PLOS ONE	10.1371/journal.pone.0162026
+10.1101/010017	European Journal Of Human Genetics	10.1038/ejhg.2015.68
+10.1101/058388	American Journal of Human Genetics	10.1016/j.ajhg.2016.09.002
+10.1101/045690	BMC Bioinformatics	10.1186/s12859-016-1288-y
+10.1101/027458	eLife	10.7554/eLife.11147
+10.1101/020339	Viruses	10.3390/v7062773
+10.1101/023341	PNAS	10.1073/pnas.1514696113
+10.1101/006890	Proceedings B	10.1098/rspb.2014.0296
+10.1101/008003	Nature Biotechnology	10.1038/nbt.3238
+10.1101/019067	Bioinformatics	10.1093/bioinformatics/btw575
+10.1101/021881	Biology Open	10.1242/bio.013714
+10.1101/011270	PLOS ONE	10.1371/journal.pone.0120758
+10.1101/010900	The Pharmacogenomics Journal	10.1038/tpj.2015.5
+10.1101/061069	Journal of Molecular Graphics and Modelling	10.1016/j.jmgm.2016.08.009
+10.1101/005819	PeerJ	10.7717/peerj.900
+10.1101/014571	Genetic Epidemiology	10.1002/gepi.21893
+10.1101/063370	Frontiers In Microbiology	10.3389/fmicb.2016.01632
+10.1101/081794	Open Biology	10.1098/rsob.160139
+10.1101/040311	The American Naturalist	10.1086/688764
+10.1101/050435	Virus Evolution	10.1093/ve/vew029
+10.1101/061283	Frontiers in Neuroscience	10.3389/fnins.2016.00426
+10.1101/031815	Bioinformatics	10.1093/bioinformatics/btw327
+10.1101/015115	Philosophical Transactions B	10.1098/rstb.2014.0243
+10.1101/030437	Bioinformatics	10.1093/bioinformatics/btw237
+10.1101/015198	Nature Neuroscience	10.1038/nn.4268
+10.1101/038992	BMC Bioinformatics	10.1186/s12859-016-1286-0
+10.1101/021261	Genetics	10.1534/genetics.115.179606
+10.1101/051524	Human Molecular Genetics	10.1093/hmg/ddw160
+10.1101/033522	Antimicrobial Agents and Chemotherapy	10.1128/AAC.00464-16
+10.1101/013029	Scientific Reports	10.1038/srep09597
+10.1101/034330	Nature Methods	10.1038/nmeth.3885
+10.1101/034991	Nature Microbiology	10.1038/nmicrobiol.2016.212
+10.1101/015222	Human Immunology	10.1016/j.humimm.2015.09.016
+10.1101/062026	Plant Methods	10.1186/s13007-016-0148-0
+10.1101/066878	Nature Communications	10.1038/ncomms13838
+10.1101/052670	Nature Neuroscience	10.1038/nn.4352
+10.1101/070763	Biology Open	10.1242/bio.021402
+10.1101/039578	PLOS ONE	10.1371/journal.pone.0156293
+10.1101/030296	The Plant Cell	10.1105/tpc.15.00637
+10.1101/047332	Physical Review E	10.1103/PhysRevE.93.062417
+10.1101/016881	Genetics	10.1534/genetics.115.178160
+10.1101/000943	Frontiers in Neural Circuits	10.3389/fncir.2014.00028
+10.1101/035063	Bioinformatics	10.1093/bioinformatics/btw632
+10.1101/004259	PLOS ONE	10.1371/journal.pone.0121607
+10.1101/009373	eLife	10.7554/eLife.02504
+10.1101/023135	Royal Society Open Science	10.1098/rsos.160239
+10.1101/035246	Theoretical Population Biology	10.1016/j.tpb.2016.11.005
+10.1101/046003	PLOS Genetics	10.1371/journal.pgen.1006074
+10.1101/043034	Scientific Reports	10.1038/srep31125
+10.1101/025999	Bioinformatics	10.1093/bioinformatics/btw073
+10.1101/017681	Infection, Genetics and Evolution	10.1016/j.meegid.2016.04.028
+10.1101/014373	Science Advances	10.1126/sciadv.1500229
+10.1101/052381	Frontiers in Genetics	10.3389/fgene.2016.00217
+10.1101/052126	Heliyon	10.1016/j.heliyon.2016.e00161
+10.1101/008029	The Condor: Ornithological Applications	10.1650/CONDOR-13-142.1
+10.1101/008532	eLife	10.7554/eLife.09178
+10.1101/003707	Evolution	10.1111/evo.12420
+10.1101/054437	Molecular Psychiatry	10.1038/mp.2016.194
+10.1101/005660	Journal of Theoretical Biology	10.1016/j.jtbi.2015.03.003
+10.1101/054387	Epigenetics & Chromatin	10.1186/s13072-016-0100-6
+10.1101/042929	NeuroImage	10.1016/j.neuroimage.2016.09.021
+10.1101/026468	Scientific Data	10.1038/sdata.2016.25
+10.1101/041962	Scientific Reports	10.1038/srep28103
+10.1101/022772	Biotechnology and Bioengineering	10.1002/bit.25693
+10.1101/002642	Scientific Reports	10.1038/srep06207
+10.1101/036293	Physical Biology	10.1088/1478-3975/13/6/066011
+10.1101/053520	Biosystems	10.1016/j.biosystems.2016.06.001
+10.1101/086249	Frontiers in Microbiology	10.3389/fmicb.2016.01970
+10.1101/062562	Philosophical Transactions B	10.1098/rstb.2015.0528
+10.1101/022616	Bioinformatics	10.1093/bioinformatics/btw518
+10.1101/019216	Genetics	10.1534/genetics.115.177980
+10.1101/056929	MycoKeys	10.3897/mycokeys.16.9646
+10.1101/004820	Journal of Ecology	10.1111/1365-2745.12259
+10.1101/044339	Nucleic Acids Research	10.1093/nar/gkw715
+10.1101/041780	eLife	10.7554/eLife.12727
+10.1101/023697	Journal of the Royal Society Interface	10.1098/rsif.2015.0597
+10.1101/036129	Scientific Reports	10.1038/srep28517
+10.1101/025205	G3: Genes|Genomes|Genetics	10.1534/g3.115.025106
+10.1101/017111	Bioinformatics	10.1093/bioinformatics/btw585
+10.1101/061549	Journal of Animal Ecology	10.1111/1365-2656.12598
+10.1101/064733	Bioinformatics	10.1093/bioinformatics/btw663
+10.1101/023846	Open Biology	10.1098/rsob.160229
+10.1101/064881	ELife	10.7554/eLife.19607
+10.1101/047787	PLOS Biology	10.1371/journal.pbio.2000638
+10.1101/003087	PLOS Computational Biology	10.1371/journal.pcbi.1003867
+10.1101/001834	PLOS ONE	10.1371/journal.pone.0106689
+10.1101/013359	PeerJ	10.7717/peerj.911
+10.1101/025346	PNAS	10.1073/pnas.151650311
+10.1101/034298	Philosophical Transactions B	10.1098/rstb.2015.0137
+10.1101/001958	Journal of Computational Biology	10.1089/cmb.2014.0029
+10.1101/005066	eLife	10.7554/eLife.03542
+10.1101/002287	PLOS ONE	10.1371/journal.pone.0114608
+10.1101/048959	Genome Biology	10.1186/s13059-016-1054-5
+10.1101/008854	Frontiers in Zoology	10.1186/s12983-014-0093-6
+10.1101/016345	BMC Genomics	10.1186/s12864-015-1860-2
+10.1101/003889	Chinese Science Bulletin	10.1007/s11434-014-0499-8
+10.1101/018481	Journal of the Royal Society Interface	10.1098/rsif.2015.0468
+10.1101/031005	PLOS ONE	10.1371/journal.pone.0152316
+10.1101/029470	Journal of Theoretical Biology	10.1016/j.jtbi.2015.09.027
+10.1101/043208	Ecology and Evolution	10.1002/ece3.2350
+10.1101/024349	PLOS Pathogens	10.1371/journal.ppat.1005379
+10.1101/025833	Science Of The Total Environment	10.1016/j.scitotenv.2015.10.042
+10.1101/008706	Scientific Data	10.1038/sdata.2014.54
+10.1101/022368	PNAS	10.1073/pnas.1511912112
+10.1101/046490	Genetics	10.1534/genetics.116.192336
+10.1101/044925	Bioinformatics	10.1093/bioinformatics/btw369
+10.1101/042002	Neuron	10.1016/j.neuron.2016.03.011
+10.1101/046276	Cognitive, Affective & Behavioral Neuroscience	10.3758/s13415-016-0458-8
+10.1101/041202	PLOS ONE	10.1371/journal.pone.0161702
+10.1101/029801	PeerJ	10.7717/peerj.2646
+10.1101/027474	Bioinformatics	10.1093/bioinformatics/btw035
+10.1101/072363	American Journal of Human Genetics	10.1016/j.ajhg.2016.09.016
+10.1101/056465	Molecular Biology Of The Cell	10.1091/mbc.E16-07-0506
+10.1101/019042	Nucleic Acids Research	10.1093/nar/gkv526
+10.1101/011213	Journal of Experimental Zoology Part B: Molecular and Developmental Evolution	10.1002/jez.b.22618
+10.1101/081554	F1000Research	10.12688/f1000research.9912.1
+10.1101/010926	BMC Genomics	10.1186/s12864-015-1245-6
+10.1101/005835	PLOS Pathogens	10.1371/journal.ppat.1004325
+10.1101/063396	Scientific Reports	10.1038/srep31561
+10.1101/003160	Human Genetics	10.1007/s00439-014-1441-5
+10.1101/040337	Molecular Biology Of The Cell	10.1091/mbc.E15-08-056
+10.1101/037408	The Journal of Physical Chemistry B	10.1021/acs.jpcb.5b11153
+10.1101/012740	Evolution	10.1111/evo.12646
+10.1101/021204	Science Advances	10.1126/science.1500816
+10.1101/033548	Journal of Neuroscience	10.1523/JNEUROSCI.2511-15.2016
+10.1101/033894	Biochemical Society Transactions	10.1042/BST20150136
+10.1101/062042	Nature Neuroscience	10.1038/nn.4465
+10.1101/007088	Bioinformatics	10.1093/bioinformatics/btv488
+10.1101/047647	Nucleic Acids Research	10.1093/nar/gkw521
+10.1101/013169	Journal of Neuroinflammation	10.1186/s12974-016-0567-x
+10.1101/010587	PLOS Computational Biology	10.1371/journal.pcbi.1004080
+10.1101/050674	PLOS Neglected Tropical Diseases	10.1371/journal.pntd.0004877
+10.1101/055285	PNAS	10.1073/pnas.1606731113
+10.1101/020552	Genetics	10.1534/genetics.115.177931
+10.1101/029868	Nature Communications	10.1038/ncomms11512
+10.1101/035006	Cellular Microbiology	10.1111/cmi.12628
+10.1101/031492	American Journal of Human Genetics	10.1016/j.ajhg.2016.04.016
+10.1101/018879	PLOS Computational Biology	10.1371/journal.pcbi.1004507
+10.1101/039735	Scientific Reports	10.1038/srep24826
+10.1101/063552	Scientific Reports	10.1038/srep39259
+10.1101/014357	PeerJ Computer Science	10.7717/peerj.1214
+10.1101/023119	Molecular Biology Of The Cell	10.1091/mbc.E15-07-0525
+10.1101/006023	Genome Biology and Evolution	10.1093/gbe/evu166
+10.1101/001032	PLOS ONE	10.1371/journal.pone.0091768
+10.1101/005231	Genes to Cells	10.1111/gtc.12190
+10.1101/017913	Journal of Comparative Neurology	10.1002/cne.23993
+10.1101/008516	Journal of Insect Physiology	10.1016/j.jinsphys.2014.05.025
+10.1101/043547	Frontiers in Human Neuroscience	10.3389/fnhum.2016.00422
+10.1101/043018	Immunogenetics	10.1007/s00251-016-0914-1
+10.1101/018291	New Phytologist	10.1111/nph.13754
+10.1101/028803	BMC Cancer	10.1186/s12885-016-2128-1
+10.1101/032714	Science Advances	10.1126/sciadv.1501632
+10.1101/026401	Journal of Neuroscience Methods	10.1016/j.jneumeth.2015.09.022
+10.1101/015404	Development	10.1242/dev.127530
+10.1101/041947	ACS Chemical Biology	10.1021/acschembio.6b00358
+10.1101/062547	Applied Microbiology and Biotechnology	10.1007/s00253-016-7771-6
+10.1101/007864	G3: Genes|Genomes|Genetics	10.1534/g3.114.013979
+10.1101/022798	PLOS ONE	10.1371/journal.pone.0142050
+10.1101/024935	PLOS ONE	10.1371/journal.pone.0150002
+10.1101/000075	American Control Conference	10.1109/ACC.2014.6859452
+10.1101/067389	Hippocampus	10.1002/hipo.22675
+10.1101/032516	RNA	10.1261/rna.057273.116
+10.1101/014431	Mathematical Biosciences	10.1016/j.mbs.2015.03.012
+10.1101/025221	Genome Biology	10.1186/s13059-015-0802-2
+10.1101/061564	Genetics	10.1534/genetics.116.193359
+10.1101/075697	Journal of Neurophysiology	10.1152/jn.00880.2016
+10.1101/064717	Neural Computation	10.1162/NECO_a_00910
+10.1101/012179	Nature Methods	10.1038/nmeth.3505
+10.1101/022897	PLOS ONE	10.1371/journal.pone.0147229
+10.1101/013375	PLOS Computational Biology	10.1371/journal.pcbi.1004266
+10.1101/013805	PLOS ONE	10.1371/journal.pone.0145857
+10.1101/001933	Molecular Ecology	10.1111/mec.12755
+10.1101/006619	Journal of Neuroscience	10.1523/JNEUROSCI.2636-14.2015
+10.1101/005009	Environmental Modelling & Software	10.1016/j.envsoft.2015.01.010
+10.1101/048686	Biophysical Journal	10.1016/j.bpj.2016.04.020
+10.1101/048934	Evolution	10.1111/evo.13041
+10.1101/018465	Genome Biology	10.1186/s13059-015-0834-7
+10.1101/034017	PLOS Genetics	10.1371/journal.pgen.1005738
+10.1101/007690	Genetics	10.1534/genetics.114.173807
+10.1101/071332	Nature Structural & Molecular Biology	10.1038/nsmb.3337
+10.1101/024323	GigaScience	10.1186/s13742-015-0101-6
+10.1101/060160	G3: Genes|Genomes|Genetics	10.1534/g3.116.032672
+10.1101/002006	BMC Genomics	10.1186/1471-2164-15-962
+10.1101/010058	PLOS ONE	10.1371/journal.pone.0116955
+10.1101/053751	Cellular Logistics	10.1080/21592799.2016.1204848
+10.1101/028142	PLOS ONE	10.1371/journal.pone.0147952
+10.1101/032946	Frontiers in Chemistry	10.3389/fchem.2016.00015
+10.1101/041889	Current Opinion in Insect Science	10.1016/j.cois.2016.02.007
+10.1101/020370	Evolution	10.1111/evo.12707
+10.1101/023309	Bioinformatics	10.1093/bioinformatics/btv715
+10.1101/008185	BMC Genomics	10.1186/s12864-016-2647-9
+10.1101/082339	Molecular Biology Of The Cell	10.1091/mbc.E16-09-0659
+10.1101/072348	Molecular Human Reproduction	10.1093/molehr/gaw062
+10.1101/005587	BMC Bioinformatics	10.1186/s12859-015-0466-7
+10.1101/063008	Nucleic Acids Research	10.1093/nar/gkw1063
+10.1101/003517	Trends in Genetics	10.1016/j.tig.2014.07.007
+10.1101/045740	BMC Evolutionary Biology	10.1186/s12862-016-0838-2
+10.1101/054197	Genome Research	10.1101/gr.210336.116
+10.1101/023770	eLife	10.7554/eLife.10180
+10.1101/006585	Nucleic Acids Research	10.1093/nar/gku864
+10.1101/010942	Molecular Biology and Evolution	10.1093/molbev/msv093
+10.1101/040139	PLOS Neglected Tropical Diseases	10.1371/journal.pntd.0004931
+10.1101/041087	Molecular Ecology	10.1111/mec.13663
+10.1101/033563	Genetics	10.1534/genetics.115.185165
+10.1101/013490	Genome Research	10.1101/gr.191395.115
+10.1101/050476	Journal of Biosciences	10.1007/s12038-016-9641-x
+10.1101/007062	BMC Biotechnology	10.1186/s12896-015-0153-9
+10.1101/037283	The Journal Of Physical Chemistry. B	10.1021/acs.jpcb.6b00327
+10.1101/056135	Molecular Ecology Resources	10.1111/1755-0998.12592
+10.1101/029090	IEEE Engineering in Medicine and Biology Society	10.1109/EMBC.2015.7319726
+10.1101/058446	Molecular Biology and Evolution	10.1093/molbev/msw144
+10.1101/029843	Briefings In Bioinformatics	10.1093/bib/bbw011
+10.1101/013631	PLOS Genetics	10.1371/journal.pgen.1005216
+10.1101/013144	Physical Review Letters	10.1103/PhysRevLett.114.168102
+10.1101/018853	Genesis	10.1002/dvg.22878
+10.1101/017707	PLOS Computational Biology	10.1371/journal.pcbi.1004322
+10.1101/039289	Development	10.1242/dev.136267
+10.1101/005215	Jove	10.3791/53252
+10.1101/029157	Physical Biology	10.1088/1478-3975/12/6/066012
+10.1101/035287	Bioinformatics	10.1093/bioinformatics/btw177
+10.1101/059311	Nature	10.1038/nature19310
+10.1101/055806	Journal Of Proteome Research	10.1021/acs.jproteome.6b00485
+10.1101/057406	ENeuro	10.1523/ENEURO.0178-16.2016
+10.1101/003749	Systematic Biology	10.1093/sysbio/syv007
+10.1101/021766	Biophysical Journal	10.1016/j.bpj.2015.08.019
+10.1101/043562	Genetics	10.1534/genetics.116.189209
+10.1101/034736	eLife	10.7554/eLife.13824
+10.1101/027086	Evolution	10.1111/evo.12868
+10.1101/042218	Neuroscience & Biobehavioral Reviews	10.1016/j.neubiorev.2016.06.013
+10.1101/045534	PLOS ONE	10.1371/journal.pone.0152885
+10.1101/067017	GigaScience	10.1186/s13742-016-0150-5
+10.1101/000893	Conservation Biology	10.1111/cobi.12561
+10.1101/060293	Scientific Reports	10.1038/srep37045
+10.1101/062521	Neurochemistry International	10.1016/j.neuint.2016.10.011
+10.1101/002832	Genome Biology	10.1186/s13059-014-0550-8
+10.1101/019430	Genetics	10.1534/genetics.115.176404
+10.1101/027334	Nature Communications	10.1038/ncomms9733
+10.1101/026682	PLOS ONE	10.1371/journal.pone.0146500
+10.1101/004572	BMC Evolutionary Biology	10.1186/s12862-015-0432-z
+10.1101/041434	PLOS Genetics	10.1371/journal.pgen.1006421
+10.1101/036707	Journal Of Computational Biology	10.1089/cmb.2016.0124
+10.1101/036251	Scientific Reports	10.1038/srep34516
+10.1101/049452	mBio	10.1128/mBio.00809-16
+10.1101/037077	G3: Genes|Genomes|Genetics	10.1534/g3.116.030874
+10.1101/014415	Heredity	10.1038/hdy.2016.7
+10.1101/067900	Molecular Systems Biology	10.15252/msb.20167295
+10.1101/059550	BMC Bioinformatics	10.1186/s12859-016-1230-3
+10.1101/025247	eLife	10.7554/eLife.13834
+10.1101/020966	BMC Genomics	10.1186/s12864-015-1911-8
+10.1101/013821	Genetics	10.1534/genetics.115.180356
+10.1101/040477	Nucleic Acids Research	10.1093/nar/gkw1027
+10.1101/010199	Journal of Mathematical Biology	10.1007/s00285-016-1034-0
+10.1101/001917	Journal of the Royal Society Interface	10.1098/rsif.2014.0320
+10.1101/034256	Journal of Evolutionary Biology	10.1111/jeb.13003
+10.1101/038034	ELECTROPHORESIS	10.1002/elps.201600049
+10.1101/008896	Biophysical Journal	10.1016/j.bpj.2015.08.015
+10.1101/048660	Bioinformatics	10.1093/bioinformatics/btw483
+10.1101/070193	Scientific Reports	10.1038/srep33883
+10.1101/070623	ELife	10.7554/eLife.20304
+10.1101/034033	PLOS ONE	10.1371/journal.pone.0144217
+10.1101/064592	eLife	10.7554/eLife.19460
+10.1101/029306	Nucleic Acids Research	10.1093/nar/gkw654
+10.1101/021154	PLOS Biology	10.1371/journal.pbio.1002210
+10.1101/024307	Developmental Cell	10.1016/j.devcel.2016.01.010
+10.1101/021485	Journal of Theoretical Biology	10.1016/j.jtbi.2015.10.023
+10.1101/056671	Journal of Neurophysiology	10.1152/jn.00460.2016
+10.1101/004374	Systematic Biology	10.1093/sysbio/syv042
+10.1101/009217	BMJ Open	10.1136/bmjopen-2014-006772
+10.1101/007542	PLOS Computational Biology	10.1371/journal.pcbi.1004493
+10.1101/002063	PLOS ONE	10.1371/journal.pone.0086169
+10.1101/047126	Journal of Neuroscience	10.1523/JNEUROSCI.1092-16.2016
+10.1101/016709	PNAS	10.1073/pnas.1505406112
+10.1101/056382	Genome Biology And Evolution	10.1093/gbe/evw178
+10.1101/046185	Journal of Ethnopharmacology	10.1016/j.jep.2016.09.041
+10.1101/064246	PNAS	10.1073/pnas.1611398113
+10.1101/032961	Bioinformatics	10.1093/bioinformatics/btw214
+10.1101/028308	eLife	10.7554/eLife.12068
+10.1101/063453	Bioinformatics	10.1093/bioinformatics/btw556
+10.1101/023093	Genome Biology and Evolution	10.1093/gbe/evv194
+10.1101/021923	PNAS	10.1073/pnas.1512977112
+10.1101/043604	Bioinformatics	10.1093/bioinformatics/btw325
+10.1101/046987	Parasites & Vectors	10.1186/s13071-016-1832-7
+10.1101/022525	PLOS Computational Biology	10.1371/journal.pcbi.1004817
+10.1101/027433	Ecology and Evolution	10.1002/ece3.1919
+10.1101/030833	Evolution	10.1111/evo.13016
+10.1101/003533	Biochemical and Biophysical Research Communications	10.1016/j.bbrc.2014.04.093
+10.1101/045187	BMC Developmental Biology	10.1186/s12861-016-0122-0
+10.1101/054205	PLOS ONE	10.1371/journal.pone.0163527
+10.1101/067223	Biology Open	10.1242/bio.020990
+10.1101/005561	Mathematical Biosciences	10.1016/j.mbs.2014.06.002
+10.1101/045765	Molecular Biology Of The Cell	10.1091/mbc.E16-03-0199
+10.1101/040113	PLOS Genetics	10.1371/journal.pgen.1006213
+10.1101/044586	Molecular Biology and Evolution	10.1093/molbev/msw188
+10.1101/022053	Molecular Biology and Evolution	10.1093/molbev/msw040
+10.1101/038851	PLOS ONE	10.1371/journal.pone.0164314
+10.1101/066175	PLOS ONE	10.1371/journal.pone.0162326
+10.1101/021972	Genetics	10.1534/genetics.115.180034
+10.1101/015107	BMC Genomics	10.1186/s12864-015-1912-7
+10.1101/061770	BMC Genomics	10.1186/s12864-016-2877-x
+10.1101/007377	PLOS ONE	10.1371/journal.pone.0104244
+10.1101/016493	Molecular Ecology	10.1111/mec.13698
+10.1101/069559	PNAS	10.1073/pnas.1616745113
+10.1101/050450	NeuroImage	10.1016/j.neuroimage.2016.08.052
+10.1101/030585	New Phytologist	10.1111/nph.13930
+10.1101/030239	G3: Genes|Genomes|Genetics	10.1534/g3.116.033514
+10.1101/047605	The Journal of Cell Biology	10.1083/jcb.201604002
+10.1101/056119	Molecular Ecology	10.1111/mec.13800
+10.1101/069773	PNAS	10.1073/pnas.1616749113
+10.1101/033902	Physical Review Letters	10.1103/PhysRevLett.115.208104
+10.1101/064105	Journal of Neuroscience	10.1523/JNEUROSCI.0292-16.2016
+10.1101/030056	Evolution	10.1111/evo.12978
+10.1101/029827	Genome Biology	10.1186/s13059-016-0997-x
+10.1101/008938	eLife	10.7554/eLife.05003
+10.1101/006791	Frontiers in Neuroinformatics	10.3389/fninf.2015.00007
+10.1101/048371	Nature Communications	10.1038/ncomms12778
+10.1101/020164	Nature Genetics	10.1038/ng.3367
+10.1101/029173	PLOS Genetics	10.1371/journal.pgen.1006059
+10.1101/048496	Journal of Theoretical Biology	10.1016/j.jtbi.2016.07.042
+10.1101/055863	Nature Methods	10.1038/nmeth.4108
+10.1101/001073	Genetics	10.1534/genetics.114.164350
+10.1101/052142	Genome Research	10.1101/gr.209486.116
+10.1101/021741	PLOS ONE	10.1371/journal.pone.0157022
+10.1101/024513	Journal Of Chemical Information And Modeling	10.1021/acs.jcim.5b00632
+10.1101/016931	eLife	10.7554/eLife.07597
+10.1101/000307	PLOS Genetics	10.1371/journal.pgen.1004293
+10.1101/039263	Genome Biology	10.1186/s13059-016-1116-8
+10.1101/053546	Scientific Reports	10.1038/srep36164
+10.1101/007823	Nature Communications	10.1038/ncomms8438
+10.1101/027359	PNAS	10.1073/pnas.1520213113
+10.1101/002816	American Journal of Human Genetics	10.1016/j.ajhg.2014.09.002
+10.1101/019141	Genome Biology	10.1186/s13059-015-0805-z
+10.1101/053975	BMC Genomics	10.1186/s12864-016-2855-3
+10.1101/009878	Genome Biology	10.1186/s13059-015-0612-6
+10.1101/049478	Nature Genetics	10.1038/ng.3648
+10.1101/041459	Journal of Neuroscience	10.1523/JNEUROSCI.0840-16.2016
+10.1101/011379	Deutsche Entomologische Zeitschrift	10.3897/dez.62.9000
+10.1101/081471	Nature Communications	10.1038/ncomms13808
+10.1101/025262	Statistical Applications In Genetics And Molecular Biology	10.1515/sagmb-2016-0016
+10.1101/026005	PLOS ONE	10.1371/journal.pone.0149575
+10.1101/063271	Applied and Environmental Microbiology	10.1128/AEM.02736-16
+10.1101/036186	Frontiers in Plant Science	10.3389/fpls.2016.00885
+10.1101/067967	Biogerontology	10.1007/s10522-016-9669-1
+10.1101/050849	Development	10.1242/dev.139188
+10.1101/059147	PLOS Computational Biology	10.1371/journal.pcbi.1005136
+10.1101/033241	Genes to Cells	10.1111/gtc.12341
+10.1101/034231	The Journal of Cell Biology	10.1083/jcb.201512020
+10.1101/037630	Development Genes and Evolution	10.5061/dryad.1041
+10.1101/022855	BMC Genomics	10.1186/1471-2164-16-S10-S2
+10.1101/034967	G3: Genes|Genomes|Genetics	10.1534/g3.116.028118
+10.1101/065441	PLOS ONE	10.1371/journal.pone.0164677
+10.1101/021170	Bioinformatics	10.1093/bioinformatics/btw198
+10.1101/083204	Langmuir	10.1021/acs.langmuir.6b04383
+10.1101/013268	PLOS ONE	10.1371/journal.pone.0119337
+10.1101/014894	Nature Genetics	10.1038/ng.3489
+10.1101/029363	PLOS ONE	10.1371/journal.pone.0143417
+10.1101/066977	Scientific Reports	10.1038/srep34031
+10.1101/035188	eLife	10.7554/eLife.10921
+10.1101/004317	Nucleic Acids Research	10.1093/nar/gku511
+10.1101/001792	Investigative Genetics	10.1186/2041-2223-5-13
+10.1101/057653	Scientific Reports	10.1038/srep32590
+10.1101/007567	Bioinformatics	10.1093/bioinformatics/btu590
+10.1101/002048	Biophysical Journal	10.1016/j.bpj.2014.02.009
+10.1101/029587	ACS Synthetic Biology	10.1021/acssynbio.5b00237
+10.1101/036376	Bioinformatics	10.1093/bioinformatics/btw355
+10.1101/009092	Molecular Ecology	10.1111/mec.13137
+10.1101/076604	PLOS Genetics	10.1371/journal.pgen.1006370
+10.1101/025858	Genome Biology	10.1186/s13059-015-0803-1
+10.1101/064311	Molecular Biology and Evolution	10.1093/molbev/msw251
+10.1101/027631	The EMBO Journal	10.15252/embj.201593071
+10.1101/049288	Nature Methods	10.1038/nmeth.3963
+10.1101/001537	Epidemiology & Infection	10.1017/S0950268814002520
+10.1101/028183	Scientific Reports	10.1038/srep23523
+10.1101/005405	PLOS ONE	10.1371/journal.pone.0143489
+10.1101/027185	Journal Of Community Genetics	10.1007/s12687-016-0266-4
+10.1101/042390	Genetics	10.1534/genetics.116.188912
+10.1101/067751	Biophysical Journal	10.1016/j.bpj.2016.08.002
+10.1101/040170	BMC Bioinformatics	10.1186/s12859-016-1323-z
+10.1101/054221	PLOS ONE	10.1371/journal.pone.0163491
+10.1101/006817	Acta Biotheoretica	10.1007/s10441-015-9257-9
+10.1101/026583	Epidemics	10.1016/j.epidem.2016.03.003
+10.1101/005546	BMC Bioinformatics	10.1186/1471-2105-16-S9-S2
+10.1101/005892	Genetics	10.1534/genetics.115.175075
+10.1101/059964	Cell Reports	10.1016/j.celrep.2016.08.096
+10.1101/060467	Frontiers in Systems Neuroscience	10.3389/fnsys.2016.00090
+10.1101/010181	Basic and Applied Ecology	10.1016/j.baae.2015.07.004
+10.1101/022079	Molecular Plant-Microbe Interactions	10.1094/MPMI-07-15-0147-R
+10.1101/019356	GigaScience	10.1186/s13742-016-0137-2
+10.1101/021915	BMC Bioinformatics	10.1186/s12859-016-0923-y
+10.1101/016121	PLOS ONE	10.1371/journal.pone.0126210
+10.1101/011585	Plant & Cell Physiology	10.1093/pcp/pcu183
+10.1101/036046	G3: Genes|Genomes|Genetics	10.1534/g3.116.028316
+10.1101/033746	PNAS	10.1073/pnas.1524048113
+10.1101/056887	Nature Methods	10.1038/nmeth.4035
+10.1101/007369	Systematic Biology	10.1093/sysbio/syv019
+10.1101/031898	Molecular Biology And Evolution	10.1093/molbev/msv272
+10.1101/022467	Medical Hypotheses	10.1016/j.mehy.2015.06.015
+10.1101/040394	PLOS Computational Biology	10.1371/journal.pcbi.1004888
+10.1101/041665	Evolutionary Bioinformatics	10.4137/EBO.S39454
+10.1101/007799	Nature Genetics	10.1038/ng.3190
+10.1101/037937	Journal of Neurophysiology	10.1152/jn.00103.2016
+10.1101/047621	Journal of Neurophysiology	10.1152/jn.00319.2016
+10.1101/013987	Evolution	10.1111/evo.12633
+10.1101/034918	PLOS ONE	10.1371/journal.pone.0161934
+10.1101/039792	Frontiers in Microbiology	10.3389/fmicb.2016.00918
+10.1101/064121	Frontiers In Microbiology	10.3389/fmicb.2016.01553
+10.1101/008912	PLOS ONE	10.1371/journal.pone.0126776
+10.1101/017749	Molecular Biology and Evolution	10.1093/molbev/msv169
+10.1101/029611	New Phytologist	10.1111/nph.13983
+10.1101/059717	eLife	10.7554/eLife.18722
+10.1101/017608	Genome Medicine	10.1186/s13073-015-0196-5
+10.1101/055848	PLOS ONE	10.1371/journal.pone.0158442
+10.1101/088005	BMC Systems Biology	10.1186/s12918-016-0375-z
+10.1101/052308	Nature Genetics	10.1038/ng.3679
+10.1101/029116	Integrative Biology : Quantitative Biosciences From Nano To Macro	10.1039/C5IB00230C
+10.1101/003624	PLOS ONE	10.1371/journal.pone.0117803
+10.1101/051169	Molecular Plant Pathology	10.1111/mpp.12515
+10.1101/034777	BMC Bioinformatics	10.1186/s12859-016-1355-4
+10.1101/039131	Genome Biology	10.1186/s13059-016-1024-y
+10.1101/004101	Genome Biology	10.1186/s13059-015-0645-x
+10.1101/010215	Bioinformatics	10.1093/bioinformatics/btv280
+10.1101/026971	Genome Biology	10.1186/s13059-015-0784-0
+10.1101/018184	Stem Cells International	10.1155/2016/3923527
+10.1101/028647	Molecular Ecology	10.1111/mec.13485
+10.1101/016915	Nucleic Acids Research	10.1093/nar/gkv287
+10.1101/035790	Cerebral Cortex	10.1093/cercor/bhw241
+10.1101/010371	Theoretical Population Biology	10.1016/j.tpb.2015.05.002
+10.1101/004127	Journal of the Royal Society Interface	10.1098/rsif.2013.1095
+10.1101/046375	The Journal of Cell Biology	10.1083/jcb.201603108
+10.1101/060780	Bioinformatics	10.1093/bioinformatics/btw724
+10.1101/007807	eLife	10.7554/eLife.05896
+10.1101/062760	Genetics	10.1534/genetics.116.193565
+10.1101/038620	Nature Communications	10.1038/ncomms10889
+10.1101/026393	Human Molecular Genetics	10.1093/hmg/ddw314
+10.1101/044628	Biochimica et Biophysica Acta (BBA) - Bioenergetics	10.1016/j.bbabio.2016.09.003
+10.1101/041475	BMC Genomics	10.1186/s12864-016-2754-7
+10.1101/044156	NeuroImage	10.1016/j.neuroimage.2016.04.021
+10.1101/019166	Science	10.1126/science.aad8411
+10.1101/027375	eLife	10.7554/eLife.11572
+10.1101/014183	PLOS Pathogens	10.1371/journal.ppat.1004940
+10.1101/063784	PLOS Computational Biology	10.1371/journal.pcbi.1005256
+10.1101/025288	PLOS Genetics	10.1371/journal.pgen.1005819
+10.1101/026021	PLOS ONE	10.1371/journal.pone.0142864
+10.1101/014456	Environmental Microbiology	10.1111/1462-2920.12824
+10.1101/011130	BioMed Research International	10.1155/2015/923491
+10.1101/003004	Journal of Molecular Evolution	10.1007/s00239-014-9628-x
+10.1101/013862	Bioinformatics	10.1093/bioinformatics/btv276
+10.1101/050799	PLOS ONE	10.1371/journal.pone.0166425
+10.1101/073049	eLife	10.7554/eLife.21126
+10.1101/022871	PLOS ONE	10.1371/journal.pone.0146060
+10.1101/016352	Genome Biology	10.1186/s13059-015-0764-4
+10.1101/021113	Advances in Pharmacological Sciences	10.1155/2016/2175896
+10.1101/018408	eLife	10.7554/eLife.06225
+10.1101/069245	BMC Bioinformatics	10.1186/s12859-016-1402-1
+10.1101/076976	Molecular Plant Pathology	10.1111/mpp.12500
+10.1101/035162	Methods In Molecular Biology	10.1007/7651_2016_346
+10.1101/009258	American Journal of Human Genetics	10.1016/j.ajhg.2015.05.016
+10.1101/007583	PLOS ONE	10.1371/journal.pone.0128026
+10.1101/023051	Molecular Ecology	10.1111/mec.13705
+10.1101/046144	Scientific Reports	10.1038/srep29308
+10.1101/018192	Molecular Ecology	10.1111/mec.13249
+10.1101/020644	Proceedings B	10.1098/rspb.2015.2733
+10.1101/014217	PLOS Pathogens	10.1371/journal.ppat.1005257
+10.1101/027961	G3: Genes|Genomes|Genetics	10.1534/g3.115.023200
+10.1101/008128	eLife	10.7554/eLife.04599
+10.1101/003640	Bioinformatics	10.1093/bioinformatics/btu390
+10.1101/024703	Biophysical Journal	10.1016/j.bpj.2015.12.016
+10.1101/001511	Genetics	10.1534/genetics.114.169490
+10.1101/020396	PLOS ONE	10.1371/journal.pone.0142819
+10.1101/032656	Cerebral Cortex	10.1093/cercor/bhw135
+10.1101/008342	Journal of Molecular Evolution	10.1007/s00239-015-9713-9
+10.1101/045146	Biophysical Journal	10.1016/j.bpj.2016.07.008
+10.1101/054247	Neuron	10.1016/j.neuron.2016.08.007
+10.1101/041863	Genome Biology	10.1186/s13059-016-0973-5
+10.1101/074955	European Journal of Neuroscience	10.1111/ejn.13492
+10.1101/019620	Methods	10.1016/j.ymeth.2015.05.020
+10.1101/016105	BMC Infectious Diseases	10.1186/s12879-015-1318-9
+10.1101/073452	Genomics	10.1016/j.ygeno.2016.12.001
+10.1101/073908	eLife	10.7554/eLife.21337
+10.1101/062331	International Journal of Developmental Biology	10.1387/ijdb.160186gm
+10.1101/041137	Scientific Reports	10.1038/srep27891
+10.1101/020883	ELife	10.7554/eLife.11386
+10.1101/007005	Nucleic Acids Research	10.1093/nar/gkv052
+10.1101/036533	Nucleic Acids Research	10.1093/nar/gkw452
+10.1101/033019	GigaScience	10.1186/s13742-016-0136-3
+10.1101/030270	American Journal Of Human Genetics	10.1016/j.ajhg.2016.02.018
+10.1101/069518	Systematic Biology	10.1093/sysbio/syw115
+10.1101/006437	Genetics	10.1534/genetics.114.167866
+10.1101/013474	PLOS Genetics	10.1371/journal.pgen.1005703
+10.1101/034975	G3: Genes|Genomes|Genetics	10.1534/g3.116.031096
+10.1101/049726	G3: Genes|Genomes|Genetics	10.1534/g3.116.033860
+10.1101/050583	Biology Letters	10.1098/rsbl.2016.0016
+10.1101/025130	Genome Biology and Evolution	10.1093/gbe/evv243
+10.1101/006635	Journal of Neuroscience	10.1523/JNEUROSCI.2767-14.2014
+10.1101/013656	American Journal of Human Genetics	10.1016/j.ajhg.2015.01.003
+10.1101/052985	PLOS Biology	10.1371/journal.pbio.1002517
+10.1101/039115	Development	10.1242/dev.136234
+10.1101/032532	Database	10.1093/database/baw133
+10.1101/032821	Nucleic Acids Research	10.1093/nar/gkw226
+10.1101/010231	PLOS Genetics	10.1371/journal.pgen.1005406
+10.1101/024554	Scientific Reports	10.1038/srep20768
+10.1101/021709	Systematic Biology	10.1093/sysbio/syv082
+10.1101/010355	G3: Genes|Genomes|Genetics	10.1534/g3.114.016493
+10.1101/053058	Science	10.1126/science.aag0511
+10.1101/028662	Ecological Applications	10.1890/15-1808.1
+10.1101/017889	Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms	10.1016/j.bbagrm.2015.07.017
+10.1101/028886	Nature	10.1038/nature17661
+10.1101/016972	Genome Biology and Evolution	10.1093/gbe/evv182
+10.1101/032797	Molecular Systems Biology	10.15252/msb.20156423
+10.1101/035444	Bioinformatics	10.1093/bioinformatics/btw584
+10.1101/019109	PLOS ONE	10.1371/journal.pone.0136771
+10.1101/027391	Proceedings B	10.1098/rspb.2015.2292
+10.1101/027540	PLOS Genetics	10.1371/journal.pgen.1006235
+10.1101/003459	PNAS	10.1073/pnas.1404354111
+10.1101/054585	Molecular Ecology	10.1111/mec.13822
+10.1101/054056	PLOS Computational Biology	10.1371/journal.pcbi.1004987
+10.1101/018671	PLOS ONE	10.1371/journal.pone.0129697
+10.1101/011486	mBio	10.1128/mBio.00452-15
+10.1101/042853	Nucleic Acids Research	10.1093/nar/gkw1036
+10.1101/036947	Genome Medicine	10.1186/s13073-016-0339-3
+10.1101/033464	PNAS	10.1073/pnas.1600338113
+10.1101/012682	Nature Genetics	10.1038/ng.3244
+10.1101/031914	Genomics	10.1016/j.ygeno.2016.03.002
+10.1101/037010	ACS Synthetic Biology	10.1021/acssynbio.6b00072
+10.1101/048744	PLOS Computational Biology	10.1371/journal.pcbi.1004947
+10.1101/027383	Nature Microbiology	10.1038/nmicrobiol.2015.3
+10.1101/012468	Genome Biology	10.1186/s13059-015-0627-z
+10.1101/015305	BMC Plant Biology	10.1186/s12870-015-0566-6
+10.1101/009969	Forensic Science International: Genetics	10.1016/j.fsigen.2015.05.005
+10.1101/029660	Scientific Reports	10.1038/srep29235
+10.1101/061218	G3: Genes|Genomes|Genetics	10.1534/g3.116.036228
+10.1101/003939	Dynamic Games and Applications	10.1007/s13235-014-0106-2
+10.1101/025098	Genome Medicine	10.1186/s13073-016-0314-z
+10.1101/027805	BioTechniques	10.2144/000114400
+10.1101/014944	Scientific Reports	10.1038/srep10853
+10.1101/044982	Nucleic Acids Research	10.1093/nar/gkw457
+10.1101/014233	Journal of the Royal Society Interface	10.1098/rsif.2015.0154
+10.1101/063438	BMC Public Health	10.1186/s12889-016-3690-9
+10.1101/078394	The Plant Journal	10.1111/tpj.13463
+10.1101/023077	Journal of the Royal Society Interface	10.1098/rsif.2015.0584
+10.1101/035857	PeerJ	10.7717/peerj.2238
+10.1101/035329	American Journal of Human Genetics	10.1016/j.ajhg.2016.07.020
+10.1101/064253	mBio	10.1128/mBio.01516-16
+10.1101/017939	Genome Biology	10.1186/s13059-015-0865-0
+10.1101/025890	ELife	10.7554/eLife.11182
+10.1101/001750	PeerJ	10.7717/peerj.632
+10.1101/020669	Database	10.1093/database/bav103
+10.1101/075465	NeuroImage	10.1016/j.neuroimage.2016.12.053
+10.1101/027946	Frontiers in Cellular Neuroscience	10.3389/fncel.2016.00180
+10.1101/027490	Diabetologia	10.1007/s00125-016-3908-5
+10.1101/087361	Journal of Investigative Dermatology	10.1016/j.jid.2016.12.007
+10.1101/032490	Genetics	10.1534/genetics.115.185066
+10.1101/023382	Methods in Ecology and Evolution	10.1111/2041-210X.12508
+10.1101/046169	Infection, Genetics and Evolution	10.1016/j.meegid.2016.05.034
+10.1101/001289	PLOS Biology	10.1371/journal.pbio.1002000
+10.1101/005504	Nature Neuroscience	10.1038/nn.4181
+10.1101/077917	Analytical Chemistry	10.1021/acs.analchem.6b03980
+10.1101/062745	Scientific Reports	10.1038/srep36508
+10.1101/022384	Scientific Reports	10.1038/srep18936
+10.1101/031286	Database	10.1093/database/baw028
+10.1101/027235	Scientific Reports	10.1038/srep22908
+10.1101/048199	Journal of Theoretical Biology	10.1016/j.jtbi.2016.08.023
+10.1101/073619	Nature Methods	10.1038/nmeth.3999
+10.1101/060426	PNAS	10.1073/pnas.1616440113
+10.1101/004713	G3: Genes|Genomes|Genetics	10.1534/g3.114.014274
+10.1101/062356	Biology Direct	10.1186/s13062-016-0140-7
+10.1101/019315	Bioinformatics	10.1093/bioinformatics/btv421
+10.1101/066118	eLife	10.7554/eLife.20069
+10.1101/049353	Ecology Letters	10.1111/ele.12625
+10.1101/041111	Genetics in Medicine	10.1038/gim.2016.90
+10.1101/036004	PeerJ	10.7717/peerj.2452
+10.1101/012096	Systematic Biology	10.1093/sysbio/syw001
+10.1101/037978	The Plant Journal	10.1111/tpj.13270
+10.1101/037200	Genetics	10.1534/genetics.116.187278
+10.1101/011676	Frontiers in Plant Science	10.3389/fpls.2015.00186
+10.1101/034959	PLOS Genetics	10.1371/journal.pgen.1006171
+10.1101/013417	Ecology Letters	10.1111/ele.12449
+10.1101/006411	Molecular Biology and Evolution	10.1093/molbev/msu270
+10.1101/006734	PLOS Genetics	10.1371/journal.pgen.1005069
+10.1101/055087	F1000Research	10.12688/f1000research.8839.1
+10.1101/055731	Nature Genetics	10.1038/ng.3616
+10.1101/008953	Genome Research	10.1101/gr.184135.114
+10.1101/069799	PLOS Pathogens	10.1371/journal.ppat.1005890
+10.1101/070581	Nucleic Acids Research	10.1093/nar/gkw971
+10.1101/034405	Ecosystems	10.1007/s10021-016-9987-9
+10.1101/006080	BMC Molecular Biology	10.1186/s12867-014-0026-0
+10.1101/031120	Molecular Psychiatry	10.1038/mp.2015.225
+10.1101/029736	Bioinformatics	10.1093/bioinformatics/btv627
+10.1101/038513	PNAS	10.1073/pnas.1609019113
+10.1101/045914	G3: Genes|Genomes|Genetics	10.1534/g3.116.029728
+10.1101/009191	Molecular Biology and Evolution	10.1093/molbev/msu394
+10.1101/070367	Journal of Microbiological Methods	10.1016/j.mimet.2016.09.019
+10.1101/028068	Genome Biology	10.1186/s13059-016-0992-2
+10.1101/002410	Nature Neuroscience	10.1038/nn.3669
+10.1101/071183	Nucleic Acids Research	10.1093/nar/gkw765
+10.1101/031468	Molecular Ecology Resources	10.1111/1755-0998.12541
+10.1101/010256	Pacific Symposium on Biocomputing	10.1142/9789814644730_0006
+10.1101/043877	mBio	10.1128/mBio.00403-16
+10.1101/053074	International Journal of Advanced Research	10.21474/IJAR01/546
+10.1101/020321	PLOS Computational Biology	10.1371/journal.pcbi.1004689
+10.1101/032805	Genetics	10.1534/genetics.115.185264
+10.1101/053256	Genome Research	10.1101/gr.209247.116
+10.1101/023242	Journal of Theoretical Biology	10.1016/j.jtbi.2016.06.026
+10.1101/029546	Genetics	10.1534/genetics.115.184812
+10.1101/052704	The Journal of Cell Biology	10.1083/jcb.201605080
+10.1101/014142	Molecular BioSystems	10.1039/C5MB00693G
+10.1101/023655	Journal of Evolutionary Biology	10.1111/jeb.12771
+10.1101/044669	PLOS Computational Biology	10.1371/journal.pcbi.1004868
+10.1101/014498	Nature Genetics	10.1038/ng.3406
+10.1101/042838	Nucleic Acids Research	10.1093/nar/gkw772
+10.1101/032110	F1000Research	10.12688/f1000research.9075.1
+10.1101/036962	Bioinformatics	10.1093/bioinformatics/btw167
+10.1101/040741	Nature Communications	10.1038/ncomms11568
+10.1101/050286	eLife	10.7554/eLife.17219
+10.1101/012666	Ecosphere	10.1890/ES14-00198.1
+10.1101/019786	PLOS Genetics	10.1371/journal.pgen.1005331
+10.1101/041566	BMC Bioinformatics	10.1186/s12859-016-0985-x
+10.1101/019877	Journal of Evolutionary Biology	10.1111/jeb.12744
+10.1101/060186	Genome Research	10.1101/gr.211748.116
+10.1101/007633	Genome Medicine	10.1186/s13073-015-0152-4
+10.1101/030759	G3: Genes|Genomes|Genetics	10.1534/g3.116.028712
+10.1101/003954	Bioinformatics	10.1093/bioinformatics/btu756
+10.1101/048884	G3: Genes|Genomes|Genetics	10.1534/g3.116.030262
+10.1101/013755	Molecular Biology and Evolution	10.1093/molbev/msv331
+10.1101/013201	Nucleic Acids Research	10.1093/nar/gkv411
+10.1101/031591	IEEE/ACM Transactions On Computational Biology And Bioinformatics	10.1109/TCBB.2015.2505278
+10.1101/039347	BMC Bioinformatics	10.1186/s12859-016-1082-x
+10.1101/026641	Molecular Biology and Evolution	10.1093/molbev/msw124
+10.1101/027920	Scientific Reports	10.1038/srep21841
+10.1101/023010	Genome Research	10.1101/gr.199935.115
+10.1101/035873	Systematic Biology	10.1093/sysbio/syw075
+10.1101/009563	Nature Communications	10.1038/ncomms6281
+10.1101/001776	BMC Genomics	10.1186/1471-2164-15-82
+10.1101/055947	eLife	10.7554/eLife.14472
+10.1101/028472	F1000Research	10.12688/f1000research.8731.1
+10.1101/005462	Genome Biology	10.1186/gb-2014-15-6-r88
+10.1101/017434	American Journal of Human Genetics	10.1016/j.ajhg.2015.04.004
+10.1101/052068	Bioinformatics	10.1093/bioinformatics/btw577
+10.1101/032474	Frontiers in Genetics	10.3389/fgene.2016.00015
+10.1101/002600	PLOS Genetics	10.1371/journal.pgen.1005223
+10.1101/003608	PLOS ONE	10.1371/journal.pone.0096303
+10.1101/043463	BMC Bioinformatics	10.1186/s12859-016-1176-5
+10.1101/001552	Nature	10.1038/nature13673
+10.1101/006270	eLife	10.7554/eLife.03915
+10.1101/000406	Current Opinion in Genetics & Development	10.1016/j.gde.2013.11.001
+10.1101/028290	Cancer Biology and Therapy	10.1080/15384047.2016.1139236
+10.1101/032615	Nucleic Acids Research	10.1093/nar/gkw769
+10.1101/024034	Nature Methods	10.1038/nmeth.3869
+10.1101/043687	Genetics	10.1534/genetics.116.191007
+10.1101/021519	Malaria Journal	10.1186/s12936-016-1531-z
+10.1101/041822	Zebrafish	10.1089/zeb.2016.1277
+10.1101/015560	PLOS Genetics	10.1371/journal.pgen.1005550
+10.1101/002956	Genome Biology	10.1186/s13059-014-0503-2
+10.1101/042150	Developmental Biology	10.1016/j.ydbio.2016.08.011
+10.1101/073635	Current Opinion in Genetics & Development	10.1016/j.gde.2016.09.006
+10.1101/004739	Pattern Recognition	10.1016/j.patcog.2013.10.014
+10.1101/008417	PLOS Computational Biology	10.1371/journal.pcbi.1004075
+10.1101/066464	eLife	10.7554/eLife.22280
+10.1101/049379	Molecular Biology Of The Cell	10.1091/mbc.E16-10-0727
+10.1101/044412	Human Molecular Genetics	10.1093/hmg/ddw181
+10.1101/063172	Human Genetics	10.1007/s00439-016-1742-y
+10.1101/025502	Theoretical Population Biology	10.1016/j.tpb.2015.08.002
+10.1101/049767	PLOS Computational Biology	10.1371/journal.pcbi.1005066
+10.1101/037226	Genome Research	10.1101/gr.200931.115
+10.1101/005926	Current Opinion in Neurobiology	10.1016/j.conb.2014.08.002
+10.1101/011692	PLOS ONE	10.1371/journal.pone.0131673
+10.1101/003384	Bulletin of Mathematical Biology	10.1007/s11538-014-0013-0
+10.1101/013433	Nature	10.1038/nature14317
+10.1101/013920	Bioinformatics	10.1093/bioinformatics/btv222
+10.1101/025171	Current Opinion in Microbiology	10.1016/j.mib.2015.06.010
+10.1101/013698	Genome Medicine	10.1186/s13073-015-0167-x
+10.1101/012344	PLOS Currents	10.1371/currents.md.e1e8f2be7c949f9ffe81ec6fca1cce6a
+10.1101/022996	Genetics	10.1534/genetics.115.181024
+10.1101/051417	Science	10.1126/science.aag0299
+10.1101/031104	Genetics and Molecular Research	10.4238/gmr.15038391
+10.1101/034421	Bioinformatics	10.1093/bioinformatics/btw074
+10.1101/002386	Human Molecular Genetics	10.1093/hmg/ddv028
+10.1101/038570	Archives of Toxicology	10.1007/s00204-016-1824-6
+10.1101/038281	eLife	10.7554/eLife.14864
+10.1101/065722	eLife	10.7554/eLife.20041
+10.1101/048413	PNAS	10.1073/pnas.1604560113
+10.1101/021071	Neuron	10.1016/j.neuron.2015.10.022
+10.1101/009175	eLife	10.7554/eLife.04637
+10.1101/007401	Bioinformatics	10.1093/bioinformatics/btu555
+10.1101/039156	Investigative Opthalmology & Visual Science	10.1167/iovs.16-19316
+10.1101/035485	Frontiers in Microbiology	10.3389/fmicb.2016.00679
+10.1101/081729	Theory In Biosciences	10.1007/s12064-016-0239-5
+10.1101/017590	Molecular Plant	10.1016/j.molp.2016.04.016
+10.1101/052498	Scientific Reports	10.1038/srep36819
+10.1101/023226	Journal of Theoretical Biology	10.1016/j.jtbi.2015.12.022
+10.1101/063768	Nucleic Acids Research	10.1093/nar/gkw706
+10.1101/032284	The EMBO Journal	10.15252/embj.201694264
+10.1101/011197	Nucleic Acids Research	10.1093/nar/gku1327
+10.1101/010868	Journal of Experimental Zoology Part B: Molecular and Developmental Evolution	10.1002/jez.b.22629
+10.1101/027730	Scientific Reports	10.1038/srep28003
+10.1101/044644	Journal of Mathematical Biology	10.1007/s00285-016-1062-9
+10.1101/032136	Journal of Molecular Biology	10.1016/j.jmb.2016.11.005
+10.1101/005710	Human Molecular Genetics	10.1093/hmg/ddu285
+10.1101/022178	Molecular Ecology	10.1111/mec.13383
+10.1101/024828	Biology of Blood and Marrow Transplantation	10.1016/j.bbmt.2015.11.1103
+10.1101/021857	BMC Genomics	10.1186/s12864-015-2096-x
+10.1101/033423	Nature Communications	10.1038/ncomms12209
+10.1101/033886	Journal of Evolutionary Biology	10.1111/jeb.12807
+10.1101/048553	PLOS Genetics	10.1371/journal.pgen.1006384
+10.1101/015693	Genome Research	10.1101/gr.191494.115
+10.1101/016089	Genomics, Proteomics & Bioinformatics	10.1016/j.gpb.2015.09.007
+10.1101/012641	Frontiers in Bioengineering and Biotechnology	10.3389/fbioe.2014.00086
+10.1101/019505	PLOS ONE	10.1371/journal.pone.0149475
+10.1101/019851	Molecular Biology And Evolution	10.1093/molbev/msv249
+10.1101/016337	Genetics	10.1534/genetics.115.179838
+10.1101/088286	Cancer Immunology Research	10.1158/2326-6066.CIR-16-0019
+10.1101/011734	Physical Review E	10.1103/PhysRevE.92.022711
+10.1101/009928	Genome Biology and Evolution	10.1093/gbe/evv083
+10.1101/050732	PNAS	10.1073/pnas.1606762113
+10.1101/051060	New England Journal of Medicine	10.1056/NEJMp1605367
+10.1101/020651	Nature Genetics	10.1038/ng.3330
+10.1101/055384	Evolution	10.1111/evo.13011
+10.1101/030775	F1000Research	10.12688/f1000research.7507.1
+10.1101/015958	Neuropsychologia	10.1016/j.neuropsychologia.2015.07.022
+10.1101/051607	Scientific Reports	10.1038/srep27389
+10.1101/035105	Nature Communications	10.1038/ncomms12342
+10.1101/013771	PLOS ONE	10.1371/journal.pone.0128036
+10.1101/049957	Eurosurveillance	10.2807/1560-7917.ES.2016.21.28.30283
+10.1101/027847	Physiological Entomology	10.1111/phen.12134
+10.1101/014902	BMC Bioinformatics	10.1186/s12859-015-0677-y
+10.1101/064394	MSystems	10.1128/mSystems.00095-16
+10.1101/029058	Journal of Neuroscience	10.1523/JNEUROSCI.1864-15.2015
+10.1101/023036	BMC Genomics	10.1186/1471-2164-16-S10-S3
+10.1101/077263	Neuroscience & Biobehavioral Reviews	10.1016/j.neubiorev.2016.10.002
+10.1101/009548	Bioinformatics	10.1093/bioinformatics/btv335
+10.1101/059055	BMC Genomics	10.1186/s12864-016-3195-z
+10.1101/028456	Cell	10.1016/j.cell.2016.03.030
+10.1101/017459	Nature Genetics	10.1038/ng.3461
+10.1101/002626	Genes & Development	10.1101/gad.249763.114
+10.1101/008144	Nucleic Acids Research	10.1093/nar/gku1038
+10.1101/047308	The Plant Journal	10.1111/tpj.13415
+10.1101/028902	Molecular Biology and Evolution	10.1093/molbev/msv211
+10.1101/000448	ACS Synthetic Biology	10.1021/sb500024b
+10.1101/024018	Plant Physiology	10.1104/pp.15.01229
+10.1101/021535	eLife	10.7554/eLife.10769
+10.1101/053603	Scientific Reports	10.1038/srep31631
+10.1101/011841	Genetics	10.1534/genetics.115.176834
+10.1101/030940	Genetics	10.1534/genetics.115.184598
+10.1101/045781	eLife	10.7554/eLife.15204
+10.1101/016386	Systematic Biology	10.1093/sysbio/syw022
+10.1101/020826	G3: Genes|Genomes|Genetics	10.1534/g3.115.021659
+10.1101/021998	eLife	10.7554/eLife.10559
+10.1101/011502	Genome Research	10.1101/gr.187237.114
+10.1101/054379	Frontiers in Behavioral Neuroscience	10.3389/fnbeh.2016.00159
+10.1101/006452	Genetics	10.1534/genetics.114.166793
+10.1101/006908	Nucleic Acids Research	10.1093/nar/gku1392
+10.1101/061135	Scientific Reports	10.1038/srep32674
+10.1101/017210	Cell	10.1016/j.cell.2015.12.015
+10.1101/003368	Journal of the Royal Society Interface	10.1098/rsif.2013.1052
+10.1101/037713	Nature Genetics	10.1038/ng.3751
+10.1101/030569	PLOS Computational Biology	10.1371/journal.pcbi.1004780
+10.1101/081935	Nucleic Acids Research	10.1093/nar/gkw1061
+10.1101/008995	Frontiers in Human Neuroscience	10.3389/fnhum.2016.00023
+10.1101/075275	NeuroImage	10.1016/j.neuroimage.2016.10.048
+10.1101/048439	PNAS	10.1073/pnas.1613607113
+10.1101/034447	Genetics	10.1534/genetics.115.186114
+10.1101/012369	PLOS ONE	10.1371/journal.pone.0163414
+10.1101/038554	Scientific Reports	10.1038/srep23257
+10.1101/021055	PNAS	10.1073/pnas.1513773113
+10.1101/013011	F1000Research	10.12688/f1000research.6157.1
+10.1101/031385	Genome Biology	10.1186/s13059-016-0880-9
+10.1101/052928	PNAS	10.1073/pnas.1607601113
+10.1101/030387	Genetics	10.1534/genetics.116.186890
+10.1101/029199	G3: Genes|Genomes|Genetics	10.1534/g3.115.023655
+10.1101/015552	Nature Methods	10.1038/nmeth.3444
+10.1101/043786	Journal of Vision	10.1167/16.10.17
+10.1101/043836	The Journal of Cell Biology	10.1083/jcb.201603025
+10.1101/039602	Genome Research	10.1101/gr.205468.116
+10.1101/028027	Frontiers in Systems Neuroscience	10.3389/fnsys.2016.00026
+10.1101/032847	Biophysical Chemistry	10.1016/j.bpc.2016.03.005
+10.1101/008284	Nature Biotechnology	10.1038/nbt.3270
+10.1101/043166	American Journal of Human Genetics	10.1016/j.ajhg.2016.02.025
+10.1101/001107	Genome Research	10.1101/gr.181016.114
+10.1101/001453	PLOS ONE	10.1371/journal.pone.0103813
+10.1101/006338	Genome Biology	10.1186/s13059-014-0553-5
+10.1101/005348	Nature Genetics	10.1038/ng.3015
+10.1101/014100	PLOS ONE	10.1371/journal.pone.0130855
+10.1101/063701	Scientific Reports	10.1038/srep36141
+10.1101/008466	PLOS Computational Biology	10.1371/journal.pcbi.1004040
+10.1101/036665	Steroids	10.1016/j.steroids.2016.06.005
+10.1101/053298	Frontiers in Physiology	10.3389/fphys.2016.00398
+10.1101/052746	Development	10.1242/dev.139634
+10.1101/045310	Talanta	10.1016/j.talanta.2016.04.047
+10.1101/059592	PLOS Neglected Tropical Diseases	10.1371/journal.pntd.0005168
+10.1101/054742	Science	10.1126/science.aaf5573
+10.1101/026310	BMC Bioinformatics	10.1186/1471-2105-16-S19-S6
+10.1101/022152	PLOS Computational Biology	10.1371/journal.pcbi.1004920
+10.1101/032151	Microbial Genomics	10.1099/mgen.0.000064
+10.1101/036384	Nature Neuroscience	10.1038/nn.4267
+10.1101/033159	PNAS	10.1073/pnas.1600663113
+10.1101/036434	PNAS	10.1073/pnas.1600374113
+10.1101/033407	Nature Communications	10.1038/ncomms13291
+10.1101/010843	PLOS Computational Biology	10.1371/journal.pcbi.1004220
+10.1101/012625	G3: Genes|Genomes|Genetics	10.1534/g3.115.019588
+10.1101/022566	PLOS Computational Biology	10.1371/journal.pcbi.1004440
+10.1101/019521	Cellular Microbiology	10.1111/cmi.12530
+10.1101/060947	Symmetry	10.3390/sym8090098
+10.1101/009902	Pacific Symposium on Biocomputing	10.1142/9789814644730_0032
+10.1101/012195	Journal Of Computational Neuroscience	10.1007/s10827-015-0574-4
+10.1101/041525	Scientific Reports	10.1038/s41598-016-0005-4
+10.1101/037382	Scientific Reports	10.1038/srep36076
+10.1101/051599	The Journal Of Biological Chemistry	10.1074/jbc.M116.738799
+10.1101/051045	Obesity	10.1002/oby.21653
+10.1101/013573	Evolution	10.1111/evo.12572
+10.1101/080986	Marine Pollution Bulletin	10.1016/j.marpolbul.2016.10.043
+10.1101/003194	Evolution, Medicine, and Public Health	10.1093/emph/eou018
+10.1101/083956	Biophysical Journal	10.1016/j.bpj.2016.10.033
+10.1101/052241	eLife	10.7554/eLife.18215
+10.1101/063495	eLife	10.7554/eLife.18972
+10.1101/029520	Genetics	10.1534/genetics.116.187492
+10.1101/029033	G3: Genes|Genomes|Genetics	10.1534/g3.116.027946
+10.1101/014928	Genome Research	10.1101/gr.190538.115
+10.1101/048595	G3: Genes|Genomes|Genetics	10.1534/g3.116.031880
+10.1101/001594	BMC Research Notes	10.1186/1756-0500-7-933
+10.1101/031443	G3: Genes|Genomes|Genetics	10.1534/g3.116.032342
+10.1101/034652	G3: Genes|Genomes|Genetics	10.1534/g3.115.025585
+10.1101/083378	Biology Open	10.1242/bio.022418
+10.1101/017475	Molecular Biology and Evolution	10.1093/molbev/msv141
+10.1101/052027	Nucleic Acids Research	10.1093/nar/gkw927
+10.1101/053199	Biochemical Journal	10.1042/BCJ20160579
+10.1101/032383	BMC Bioinformatics	10.1186/s12859-015-0754-2
+10.1101/016873	Current Opinion in Microbiology	10.1016/j.mib.2015.03.002
+10.1101/021550	Journal of the Royal Society Interface	10.1098/rsif.2015.0881
+10.1101/006155	PLOS Pathogens	10.1371/journal.ppat.1004809
+10.1101/035527	Molecular Biology and Evolution	10.1093/molbev/msw039
+10.1101/004614	BMC Genomics	10.1186/1471-2164-15-494
+10.1101/042192	Theoretical Population Biology	10.1016/j.tpb.2016.07.003
+10.1101/030924	PeerJ	10.7717/peerj.1499
+10.1101/072587	Scientific Reports	10.1038/srep37197
+10.1101/026120	Nature Communications	10.1038/ncomms12084
+10.1101/020800	Nature Communications	10.1038/ncomms12544
+10.1101/014738	Nature Methods	10.1038/nmeth.3541
+10.1101/005694	Frontiers in Microbiology	10.3389/fmicb.2014.00577
+10.1101/003202	Human Molecular Genetics	10.1093/hmg/ddu359
+10.1101/023572	Nature Communications	10.1038/ncomms11542
+10.1101/040048	Scientific Reports	10.1038/srep33411
+10.1101/017277	PLOS Genetics	10.1371/journal.pgen.1006121
+10.1101/033365	Journal of Evolutionary Biology	10.1111/jeb.12887
+10.1101/040592	Plant Physiology	10.1104/pp.16.00289
+10.1101/050054	Genetics	10.1534/genetics.116.191122
+10.1101/057885	BMC Genomics	10.1186/s12864-016-3238-5
+10.1101/021030	Journal of Biosciences	10.1007/s12038-016-9592-2
+10.1101/048454	PLOS Neglected Tropical Diseases	10.1371/journal.pntd.0004901
+10.1101/010728	PNAS	10.1073/pnas.1608278113
+10.1101/034462	PeerJ	10.7717/peerj.2098
+10.1101/002345	PLOS Genetics	10.1371/journal.pgen.1004697
+10.1101/029207	PLOS Genetics	10.1371/journal.pgen.1005751
+10.1101/009134	PeerJ	10.7717/peerj.642
+10.1101/013037	G3: Genes|Genomes|Genetics	10.1534/g3.115.017046
+10.1101/052902	Genome Biology and Evolution	10.1093/gbe/evw248
+10.1101/007443	BMC Bioinformatics	10.1186/s12859-015-0472-9
+10.1101/002121	Journal of Biomedical Semantics	10.1186/s13326-016-0067-z
+10.1101/015867	Bioinformatics	10.1093/bioinformatics/btv539
+10.1101/004184	Methods in Ecology and Evolution	10.1111/2041-210X.12343
+10.1101/039198	PLOS ONE	10.1371/journal.pone.0160716
+10.1101/039669	PLOS ONE	10.1371/journal.pone.0154632
+10.1101/001693	Physical Review Letters	10.1103/PhysRevLett.112.068101
+10.1101/028555	Nucleic Acids Research	10.1093/nar/gkw568
+10.1101/028001	Human Reproduction	10.1093/humrep/dev318
+10.1101/011890	Bioinformatics	10.1093/bioinformatics/btv569
+10.1101/043109	PLOS Computational Biology	10.1371/journal.pcbi.1005025
+10.1101/006312	eLife	10.7554/eLife.03737
+10.1101/001479	Frontiers in Genetics	10.3389/fgene.2015.00352
+10.1101/005363	Evolution	10.1111/evo.12621
+10.1101/017806	NeuroImage	10.1016/j.neuroimage.2015.07.031
+10.1101/008409	Bioinformatics	10.1093/bioinformatics/btv209
+10.1101/054502	Clinical Immunology	10.1016/j.clim.2016.06.006
+10.1101/000257	Physical Review X	10.1103/PhysRevX.4.041009
+10.1101/005751	Molecular Plant	10.1016/j.molp.2015.01.016
+10.1101/048215	Genome Medicine	10.1186/s13073-016-0319-7
+10.1101/060582	Neuron	10.1016/j.neuron.2016.09.003
+10.1101/071811	Molecular Plant-Microbe Interactions	10.1094/MPMI-08-16-0168-R
+10.1101/022137	PLOS ONE	10.1371/journal.pone.0153208
+10.1101/036418	Cell Reports	10.1016/j.celrep.2016.08.081
+10.1101/024869	Genetics	10.1534/genetics.115.185553
+10.1101/033175	Molecular Biology And Evolution	10.1093/molbev/msw102
+10.1101/004481	Journal of Molecular Evolution	10.1007/s00239-014-9644-x
+10.1101/012609	PLOS ONE	10.1371/journal.pone.0161997
+10.1101/053413	Cell Reports	10.1016/j.celrep.2016.06.003
+10.1101/007203	eLife	10.7554/eLife.03401
+10.1101/019893	G3: Genes|Genomes|Genetics	10.1534/g3.115.018762
+10.1101/011775	PLOS ONE	10.1371/journal.pone.0142503
+10.1101/040907	Science	10.1126/science.aaf5023
+10.1101/030486	Molecular Cell	10.1016/j.molcel.2016.02.012
+10.1101/030155	BMC Systems Biology	10.1186/s12918-016-0324-x
+10.1101/047902	Deep-Sea Research Part I: Oceanographic Research Papers 	10.1016/j.dsr.2016.04.004
+10.1101/060962	Molecular Cell	10.1016/j.molcel.2016.07.023
+10.1101/023440	Nature Genetics	10.1038/ng.3446
+10.1101/025916	PLOS ONE	10.1371/journal.pone.0167509
+10.1101/050195	Nature Neuroscience	10.1038/nn.4404
+10.1101/006551	Bioinformatics	10.1093/bioinformatics/btv071
+10.1101/017392	Bioinformatics	10.1093/bioinformatics/btv565
+10.1101/017020	Genetics	10.1534/genetics.115.176677
+10.1101/027888	Scientific Reports	10.1038/srep21300
+10.1101/049999	BMC Neuroscience	10.1186/s12868-016-0287-2
+10.1101/037101	Bioinformatics	10.1093/bioinformatics/btw276
+10.1101/004382	Infection, Genetics and Evolution	10.1016/j.meegid.2012.11.009
+10.1101/069385	PNAS	10.1073/pnas.1605856113
+10.1101/051029	Journal Of Computational Neuroscience	10.1007/s10827-016-0625-5
+10.1101/048769	PNAS	10.1073/pnas.1612676113
+10.1101/025015	G3: Genes|Genomes|Genetics	10.1534/g3.115.023788
+10.1101/055921	Genes & Development	10.1101/gad.284430.116
+10.1101/055251	Theoretical Population Biology	10.1016/j.tpb.2016.05.005
+10.1101/006122	PLOS Biology	10.1371/journal.pbio.1002112
+10.1101/015891	FEMS Yeast Research	10.1093/femsyr/fow046
+10.1101/034108	Bioinformatics	10.1093/bioinformatics/btw137
+10.1101/032417	Molecular Psychiatry	10.1038/mp.2016.49
+10.1101/043372	Nature Microbiology	10.1038/nmicrobiol.2016.242
+10.1101/024273	Cancer Letters	10.1016/j.canlet.2016.04.014
+10.1101/009670	Genome Biology and Evolution	10.1093/gbe/evv087
+10.1101/022301	Bioinformatics	10.1093/bioinformatics/btv722
+10.1101/008672	PLOS ONE	10.1371/journal.pone.0131933
+10.1101/060350	Cell Cycle	10.1080/15384101.2016.1261765
+10.1101/002931	Nature Genetics	10.1038/ng.3211
+10.1101/042358	PLOS Neglected Tropical Diseases	10.1371/journal.pntd.0004658
+10.1101/042424	Genetics	10.1534/genetics.116.193474
+10.1101/035501	Genome Biology	10.1186/s13059-016-1077-y
+10.1101/058826	Human Mutation	10.1002/humu.23147
+10.1101/044214	PLOS ONE	10.1371/journal.pone.0168607
+10.1101/020222	Cancer Prevention Research	10.1158/1940-6207.CAPR-15-0248
+10.1101/023432	PNAS	10.1073/pnas.1516928112
+10.1101/054528	Biology Letters	10.1098/rsbl.2016.0211
+10.1101/030908	PLOS ONE	10.1371/journal.pone.0165899
+10.1101/054338	Genetics	10.1534/genetics.116.191775
+10.1101/003327	Molecular Systems Biology	10.15252/msb.20145216
+10.1101/023887	eLife	10.7554/eLife.10565
+10.1101/006940	PLOS Genetics	10.1371/journal.pgen.1005630
+10.1101/036889	Genetics Selection Evolution	10.1186/s12711-016-0207-z
+10.1101/065078	PNAS	10.1073/pnas.1612044113
+10.1101/033613	eLife	10.7554/eLife.13479
+10.1101/033340	Frontiers in Microbiology	10.3389/fmicb.2016.00301
+10.1101/055004	Neuropsychologia	10.1016/j.neuropsychologia.2016.11.006
+10.1101/050526	PLOS ONE	10.1371/journal.pone.0161177
+10.1101/012013	PLOS ONE	10.1371/journal.pone.0138030
+10.1101/019976	Plant, Cell and Environment	10.1111/pce.12702
+10.1101/077024	NeuroImage	10.1016/j.neuroimage.2016.11.069
+10.1101/022939	Molecular Biology And Evolution	10.1093/molbev/msw044
+10.1101/073254	BioEssays	10.1002/bies.201600188
+10.1101/038596	mSystems	10.1128/mSystems.00028-16
+10.1101/048470	F1000Research	10.12688/f1000research.8705.1
+10.1101/016667	Evolution	10.1111/evo.12928
+10.1101/056200	BMC Bioinformatics	10.1186/s12859-016-1357-2
+10.1101/013052	Genetics	10.1534/genetics.114.173815
+10.1101/031617	eLife	10.7554/eLife.13328
+10.1101/020420	Genome Medicine	10.1186/s13073-015-0220-9
+10.1101/002493	PLOS ONE	10.1371/journal.pone.0100163
+10.1101/052969	Physical Biology	10.1088/1478-3975/13/5/056003
+10.1101/029488	Human Genetics	10.1007/s00439-016-1673-7
+10.1101/043299	PNAS	10.1073/pnas.1604096113
+10.1101/081737	Scientific Reports	10.1038/srep39332
+10.1101/056069	Neuropsychologia	10.1016/j.neuropsychologia.2016.06.034
+10.1101/043745	Human Brain Mapping	10.1002/hbm.23471
+10.1101/042655	BMC Genomics	10.1186/s12864-016-3287-9
+10.1101/018945	NeuroImage	10.1016/j.neuroimage.2016.05.011
+10.1101/001677	Oikos	10.1111/oik.01719
+10.1101/039644	PLOS ONE	10.1371/journal.pone.0157894
+10.1101/008797	PLOS Genetics	10.1371/journal.pgen.1005176
+10.1101/031831	Genetics	10.1534/genetics.115.184184
+10.1101/024422	Frontiers in Psychology	10.3389/fpsyg.2016.00358
+10.1101/059204	Genetics	10.1534/genetics.116.188870
+10.1101/017533	The American Naturalist	10.1086/685811
+10.1101/017822	Genetics	10.1534/genetics.115.176909
+10.1101/032995	Developmental Biology	10.1016/j.ydbio.2016.08.004
+10.1101/057331	mBio	10.1128/mBio.01018-16
+10.1101/008425	Methods	10.1016/j.ymeth.2014.11.020
+10.1101/059808	GigaScience	10.1186/s13742-016-0146-1
+10.1101/047779	Scientific Reports	10.1038/srep33257
+10.1101/018366	Cell Reports	10.1016/j.celrep.2015.06.027
+10.1101/075036	ELife	10.7554/eLife.19941
+10.1101/005777	BMC Evolutionary Biology	10.1186/s12862-015-0400-7
+10.1101/072934	Nature Reviews Genetics	10.1038/nrg.2016.142
+10.1101/010082	Physical Biology	10.1088/1478-3975/12/4/045001
+10.1101/026351	Bioinformatics	10.1093/bioinformatics/btw069
+10.1101/012955	Acta Crystallographica Section D	10.1107/S1399004715007415
+10.1101/007229	Genome Biology and Evolution	10.1093/gbe/evu255
+10.1101/011288	PLOS ONE	10.1371/journal.pone.0121248
+10.1101/016063	Bioinformatics	10.1093/bioinformatics/btv478
+10.1101/010884	Nature Communications	10.1038/ncomms6903
+10.1101/015677	International Journal of Neuropsychopharmacology	10.1093/ijnp/pyv063
+10.1101/019562	PLOS Genetics	10.1371/journal.pgen.1005650
+10.1101/066761	The Journal of Cell Biology	10.1083/jcb.201604095
+10.1101/016394	Development	10.1242/dev.119776
+10.1101/085225	Applied and Environmental Microbiology	10.1128/AEM.03035-16
+10.1101/033118	PLOS Computational Biology	10.1371/journal.pcbi.1004842
+10.1101/004424	Genetics	10.1534/genetics.114.165571
+10.1101/011023	PLOS Genetics	10.1371/journal.pgen.1004941
+10.1101/011759	BMC Genetics	10.1186/s12863-014-0131-6
+10.1101/013532	Microbiological Research	10.1016/j.micres.2015.01.003
+10.1101/064626	F1000Research	10.12688/f1000research.9471.1
+10.1101/012229	Journal of Theoretical Biology	10.1016/j.jtbi.2015.06.039
+10.1101/051557	Molecular Biology and Evolution	10.1093/molbev/msw189
+10.1101/006148	Genome Medicine	10.1186/s13073-014-0089-z
+10.1101/031260	Physical Review Letters	10.1103/PhysRevLett.116.248101
+10.1101/016451	eLife	10.7554/eLife.06664
+10.1101/048801	Journal of Molecular Biology	10.1016/j.jmb.2016.06.002
+10.1101/015875	Meta Gene	10.1016/j.mgene.2015.07.006
+10.1101/034694	BMC Bioinformatics	10.1186/s12859-016-1260-x
+10.1101/039255	BMC Retrovirology	10.1186/s12977-016-0267-8
+10.1101/029561	Molecular Biology and Evolution	10.1093/molbev/msw051
+10.1101/009654	Trends in Genetics	10.1016/j.tig.2014.09.010
+10.1101/009308	NeuroImage	10.1016/j.neuroimage.2015.12.022
+10.1101/018770	Molecular Biology And Evolution	10.1093/molbev/msw055
+10.1101/001081	Bioinformatics	10.1093/bioinformatics/btu121
+10.1101/028217	Genome Biology	10.1186/s13059-016-0993-1
+10.1101/002683	Proceedings B	10.1098/rstb.2013.0252
+10.1101/016832	Evolution	10.1111/evo.12917
+10.1101/068106	Scientific Reports	10.1038/srep33753
+10.1101/000422	Frontiers in Genetics	10.3389/fgene.2014.00013
+10.1101/049049	Nature Communications	10.1038/ncomms13155
+10.1101/060483	Genetics	10.1534/genetics.116.193060
+10.1101/008151	Evolutionary Biology	10.1007/s11692-014-9293-4
+10.1101/053843	Genetics	10.1534/genetics.116.193912
+10.1101/008052	PLOS Genetics	10.1371/journal.pgen.1004915
+10.1101/042408	Mathematical Biosciences and Engineering	10.3934/mbe.2016038
+10.1101/023184	PLOS Computational Biology	10.1371/journal.pcbi.1004679
+10.1101/025676	Nature Methods	10.1038/nmeth.3800
+10.1101/027292	Biophysical Journal	10.1016/j.bpj.2016.05.024
+10.1101/005447	Nature Communications	10.1038/ncomms6336
+10.1101/023457	Heredity	10.1038/hdy.2016.25
+10.1101/023531	PLOS Computational Biology	10.1371/journal.pcbi.1004684
+10.1101/054312	Neuron	10.1016/j.neuron.2016.07.036
+10.1101/068817	Frontiers in Microbiology	10.3389/fmicb.2016.01688
+10.1101/067371	PLOS ONE	10.1371/journal.pone.0168004
+10.1101/025585	Molecular Systems Biology	10.15252/msb.20156526
+10.1101/044768	Nature Communications	10.1038/ncomms13270
+10.1101/032037	PLOS Genetics	10.1371/journal.pgen.1006040
+10.1101/011569	PLOS Computational Biology	10.1371/journal.pcbi.1004259
+10.1101/036863	Genome Biology	10.1186/s13059-016-0970-8
+10.1101/044495	PLOS Computational Biology	10.1371/journal.pcbi.1005124
+10.1101/022665	Bioinformatics	10.1093/bioinformatics/btw052
+10.1101/065235	eLife	10.7554/eLife.19887
+10.1101/069997	ENeuro	10.1523/ENEURO.0217-16.2016
+10.1101/055061	G3: Genes|Genomes|Genetics	10.1534/g3.116.033241
+10.1101/050013	The Journal Of Biological Chemistry	10.1074/jbc.M116.729194
+10.1101/030676	Nature Reviews Molecular Cell Biology	10.1038/nrm.2015.28
+10.1101/016642	Genome Research	10.1101/gr.192294.115
+10.1101/056267	eLife	10.7554/eLife.17879
+10.1101/003871	BMC Biology	10.1186/s12915-014-0063-7
+10.1101/015545	International Journal for Parasitology	10.1016/j.ijpara.2016.02.005
+10.1101/049817	Nature Protocols	10.1038/nprot.2016.105
+10.1101/039404	Genetics	10.1534/genetics.116.188102
+10.1101/058578	BMC Medical Genetics	10.1186/s12881-016-0359-2
+10.1101/038315	Genome Research	10.1101/gr.204974.116
+10.1101/009464	PLOS ONE	10.1371/journal.pone.0113684
+10.1101/013078	PLOS ONE	10.1371/journal.pone.0125337
+10.1101/006684	Molecular Biology and Evolution	10.1093/molbev/msv007
+10.1101/005090	Bioinformatics	10.1093/bioinformatics/btu562
+10.1101/052415	PLOS ONE	10.1371/journal.pone.0155824
+10.1101/009795	The Journal Of Heredity	10.1093/jhered/esv059
+10.1101/072215	Proteomics	10.1002/pmic.201600079
+10.1101/024406	Frontiers in Neural Circuits	10.3389/fncir.2016.00041
+10.1101/046391	G3: Genes|Genomes|Genetics	10.1534/g3.116.036087
+10.1101/012005	Genetic Epidemiology	10.1002/gepi.21906
+10.1101/042135	Theoretical Population Biology	10.1016/j.tpb.2016.05.002
+10.1101/084038	Scientific Reports	10.1038/srep39511
+10.1101/042895	Genetics	10.1534/genetics.116.188961
+10.1101/068312	Nature	10.1038/nature20593
+10.1101/045047	Yeast	10.1002/yea.3211
+10.1101/026377	Genetics	10.1534/genetics.115.186536
+10.1101/012930	Acta Crystallographica Section D	10.1107/S1399004715011426
+10.1101/019760	BMC Genomics	10.1186/s12864-015-2135-7
+10.1101/016006	Nature	10.1038/nature17961
+10.1101/049254	Bioinformatics	10.1093/bioinformatics/btw407
+10.1101/000158	BMC Genomics	10.1186/1471-2164-15-398
+10.1101/044024	Scientific Reports	10.1038/srep29506
+10.1101/019588	Bioinformatics	10.1093/bioinformatics/btw372
+10.1101/067785	eLife	10.7554/eLife.20357
+10.1101/017350	NeuroImage	10.1016/j.neuroimage.2016.07.022
+10.1101/037325	Trends in Microbiology	10.1016/j.tim.2016.02.004
+10.1101/080127	Nucleic Acids Research	10.1093/nar/gkw957
+10.1101/063321	Biochimica et Biophysica Acta (BBA) - General Subjects	10.1016/j.bbagen.2016.07.007
+10.1101/011007	Journal of Evolutionary Biology	10.1111/jeb.12640
+10.1101/054106	Plant Science	10.1016/j.plantsci.2016.07.007
+10.1101/013516	Scientific Reports	10.1038/srep25103
+10.1101/025056	ACS Synthetic Biology	10.1021/acssynbio.5b00179
+10.1101/037143	eLife	10.7554/eLife.13245
+10.1101/015651	PLOS Computational Biology	10.1371/journal.pcbi.1005088
+10.1101/038679	Quarterly Reviews of Biophysics	10.1017/S0033583516000020
+10.1101/040634	Nucleic Acids Research	10.1093/nar/gkw540
+10.1101/006163	Nature	10.1038/nature14475
+10.1101/055210	eLife	10.7554/eLife.18124
+10.1101/034363	BMC Medical Genetics	10.1186/s12881-016-0272-8
+10.1101/018572	Genome Research	10.1101/gr.193342.115
+10.1101/015859	American Journal of Human Genetics	10.1016/j.ajhg.2015.09.001
+10.1101/014985	Scientific Reports	10.1038/srep11184
+10.1101/047365	PLOS Computational Biology	10.1371/journal.pcbi.1005212
+10.1101/035899	PLOS ONE	10.1371/journal.pone.0147209
+10.1101/024232	Bioinformatics	10.1093/bioinformatics/btv710
+10.1101/021600	Molecular Biology and Evolution	10.1093/molbev/msv236
+10.1101/053132	Methods	10.1016/j.ymeth.2016.09.014
+10.1101/062786	Orphanet Journal Of Rare Diseases	10.1186/s13023-016-0545-5
+10.1101/025940	Philosophical Transactions B	10.1098/rstb.2015.0219
+10.1101/000919	PLOS ONE	10.1371/journal.pone.0108358
+10.1101/035543	Molecular Ecology Resources	10.1111/1755-0998.12552
+10.1101/053868	Bioinformatics	10.1093/bioinformatics/btw695
+10.1101/044859	Earth-Science Reviews	10.1016/j.earscirev.2016.06.008
+10.1101/027763	Gene	10.1016/j.gene.2016.02.022
+10.1101/063529	Biophysical Journal	10.1016/j.bpj.2016.09.007
+10.1101/067579	Scientific Reports	10.1038/srep37706
+10.1101/023473	Systematic Biology	10.1093/sysbio/syw020
+10.1101/046565	Autism Research	10.1002/aur.1678
+10.1101/082446	Current Opinion in Structural Biology	10.1016/j.sbi.2016.10.002
+10.1101/004671	Genome Research	10.1101/gr.177774.114
+10.1101/052209	Nature Neuroscience	10.1038/nn.4399
+10.1101/052621	PNAS	10.1073/pnas.1523335113
+10.1101/014068	PLOS Genetics	10.1371/journal.pgen.1006339
+10.1101/003269	PLOS ONE	10.1371/journal.pone.0101851
+10.1101/020776	American Journal Of Human Genetics	10.1016/j.ajhg.2015.10.006
+10.1101/044701	PLOS Genetics	10.1371/journal.pgen.1006303
+10.1101/005637	Genome Medicine	10.1186/s13073-014-0125-z
+10.1101/003053	PNAS	10.1073/pnas.1404341111
+10.1101/006981	PLOS Genetics	10.1371/journal.pgen.1004822
+10.1101/026146	Genetics	10.1534/genetics.116.188821
+10.1101/026633	Scientific Reports	10.1038/srep24569
+10.1101/022707	GigaScience	10.1186/s13742-016-0135-4
+10.1101/019935	Ecosphere	10.1002/ecs2.1371
+10.1101/016212	NeuroImage	10.1016/j.neuroimage.2015.11.035
+10.1101/065037	American Journal of Human Genetics	10.1016/j.ajhg.2016.10.003
+10.1101/036152	BMC Genomics	10.1186/s12864-016-3077-4
+10.1101/004853	PLOS Genetics	10.1371/journal.pgen.1004402
+10.1101/004580	Methods in Molecular Biology	10.1007/978-1-4939-1878-2_4
+10.1101/041483	European Heart Journal	10.1093/eurheartj/ehw450
+10.1101/062208	Development	10.1242/dev.139261
+10.1101/047555	The Journal Of Biological Chemistry	10.1074/jbc.M116.731000
+10.1101/065789	eLife	10.7554/eLife.20062
+10.1101/041731	Genetics in Medicine	10.1038/gim.2016.103
+10.1101/030650	mSystems	10.1128/mSystems.00025-15
+10.1101/002188	BMC Genomics	10.1186/1471-2164-15-1000
+10.1101/049833	Genome Biology and Evolution	10.1093/gbe/evw206
+10.1101/039933	Frontiers in Aging Neuroscience	10.3389/fnagi.2016.00183
+10.1101/011833	PLOS Computational Biology	10.1371/journal.pcbi.1004416
+10.1101/071639	Pediatric Nephrology	10.1007/s00467-016-3513-3
+10.1101/029918	Journal of the Royal Society Interface	10.1098/rsif.2016.0121
+10.1101/008805	Genetics	10.1534/genetics.112.145359
+10.1101/009407	Genome Biology	10.1186/s13059-015-0610-8
+10.1101/001636	Nature Neuroscience	10.1038/nn.3884
+10.1101/049742	Human Molecular Genetics	10.1093/hmg/ddw275
+10.1101/020099	Human Immunology	10.1016/j.humimm.2015.11.017
+10.1101/052431	eLife	10.7554/eLife.17686
+10.1101/029629	PLOS Biology	10.1371/journal.pbio.1002541
+10.1101/008755	American Journal of Human Genetics	10.1016/j.ajhg.2015.03.004
+10.1101/034553	Science Of The Total Environment	10.1016/j.scitotenv.2016.02.066
+10.1101/028399	Genome Research	10.1101/gr.200535.115
+10.1101/018325	PNAS	10.1073/pnas.1519159112
+10.1101/012872	BMC Genomics	10.1186/s12864-015-1495-3
+10.1101/042614	Journal of Marine Biology & Oceanography	10.4172/2324-8661.1000161
+10.1101/027151	Open Biology	10.1098/rsob.160009
+10.1101/000760	Conservation Biology	10.1111/cobi.12308
+10.1101/026823	BMC Genomics	10.1186/s12864-015-2239-0
+10.1101/012914	Genome Research	10.1101/gr.188839.114
+10.1101/046912	Genetics	10.1534/genetics.116.190041
+10.1101/004465	Systematic Biology	10.1093/sysbio/syu057
+10.1101/072462	Mathematical Biosciences	10.1016/j.mbs.2016.11.003
+10.1101/061010	PLOS ONE	10.1371/journal.pone.0162768
+10.1101/015057	Journal of the Royal Society Interface	10.1098/rsif.2014.1214
+10.1101/014548	Frontiers in Systems Neuroscience	10.3389/fnsys.2015.00033
+10.1101/011791	Journal Of Chemical Information And Modeling	10.1021/acs.jcim.5b00078
+10.1101/028969	Infection, Genetics and Evolution	10.1016/j.meegid.2015.11.030
+10.1101/011064	EURASIP Journal On Bioinformatics & Systems Biology	10.1186/s13637-016-0044-y
+10.1101/025924	Bioinformatics	10.1093/bioinformatics/btw068
+10.1101/023705	PLOS Computational Biology	10.1371/journal.pcbi.1004871
+10.1101/040345	Bioinformatics	10.1093/bioinformatics/btw405
+10.1101/013797	IEEE Transactions On Biomedical Circuits And Systems	10.1109/TBCAS.2015.2461135
+10.1101/055186	Genome Research	10.1101/gr.210286.116
+10.1101/076042	NeuroImage	10.1016/j.neuroimage.2016.11.028
+10.1101/012260	PNAS	10.1073/pnas.1423041112
+10.1101/055459	The International Journal of Infectious Diseases	10.1016/j.ijid.2016.08.023
+10.1101/057968	Molecular Biology Of The Cell	10.1091/mbc.E16-06-0395
+10.1101/037309	Microscopy Research and Technique	10.1002/jemt.22642
+10.1101/033845	PNAS	10.1073/pnas.1519459113
+10.1101/033514	PNAS	10.1073/pnas.1522921113
+10.1101/031229	Nature Communications	10.1038/ncomms11257
+10.1101/030791	PLOS ONE	10.1371/journal.pone.0147651
+10.1101/038430	Aging	10.18632/aging.100930
+10.1101/010686	Bioinformatics	10.1093/bioinformatics/btv408
+10.1101/021626	Genome Research	10.1101/gr.196469.115
+10.1101/069013	PeerJ	10.7717/peerj.2678
+10.1101/013136	Nature Neuroscience	10.1038/nn.3934
+10.1101/018515	IEEE Life Sciences Letters	10.1109/LLS.2015.2488438
+10.1101/058438	Genetics	10.1534/genetics.116.197285
+10.1101/056762	IEEE Transactions on Biomedical Engineering	10.1109/TBME.2016.2607183
+10.1101/009613	GigaScience	10.1186/2047-217X-3-22
+10.1101/052399	PNAS	10.1073/pnas.1605015113
+10.1101/039743	Development Genes And Evolution	10.1007/s00427-016-0550-7
+10.1101/039214	Frontiers In Genetics	10.3389/fgene.2016.00210
+10.1101/064220	Evolution	10.1111/evo.13036
+10.1101/027706	PeerJ	10.7717/peerj.1975
+10.1101/014308	Molecular Phylogenetics and Evolution	10.1016/j.ympev.2015.04.027
+10.1101/052803	Genome Biology	10.1186/s13059-016-1114-x
+10.1101/008565	PNAS	10.1073/pnas.1500804112
+10.1101/014043	GigaScience	10.1186/s13742-015-0080-7
+10.1101/023499	Proteins	10.1002/prot.25034
+10.1101/024612	Nature Communications	10.1038/ncomms11881
+10.1101/077826	Nature Communications	10.1038/ncomms13652
+10.1101/025635	Biology Open	10.1242/bio.016089
+10.1101/046581	Scientific Data	10.1038/sdata.2016.92
+10.1101/001370	Nature Methods	10.1038/nmeth.3069
+10.1101/061861	Scientific Reports	10.1038/srep38828
+10.1101/045237	Molecular Biology and Evolution	10.1093/molbev/msw216
+10.1101/048355	Molecular Biology and Evolution	10.1093/molbev/msw173
+10.1101/000026	PLOS Genetics	10.1371/journal.pgen.1004412
+10.1101/068502	Physical Chemistry Chemical Physics	10.1039/C6CP05680F
+10.1101/043091	PLOS Genetics	10.1371/journal.pgen.1006063
+10.1101/005611	PLOS ONE	10.1371/journal.pone.0103207
+10.1101/045054	Scientific Reports	10.1038/srep30287
+10.1101/036798	Scientific Reports	10.1038/srep25474
+10.1101/026617	eLife	10.7554/eLife.12059
+10.1101/022723	Nature Communications	10.1038/ncomms10408
+10.1101/057984	Genetics	10.1534/genetics.116.192484
+10.1101/036178	PLOS Genetics	10.1371/journal.pgen.1005877
+10.1101/012070	Cell Host and Microbe	10.1016/j.chom.2015.03.008
+10.1101/044180	Frontiers in Psychology	10.3389/fpsyg.2016.00850
+10.1101/047571	Viruses	10.3390/v8060155
+10.1101/049585	Computer Graphics Forum	10.1111/cgf.12925
+10.1101/020917	Journal of Structural Biology	10.1016/j.jsb.2015.08.008
+10.1101/064766	Biology Open	10.1242/bio.021162
+10.1101/047753	Scientific Reports	10.1038/srep30064
+10.1101/005058	Chromosoma	10.1007/s00412-014-0483-8
+10.1101/020701	Neuroscience & Biobehavioral Reviews	10.1016/j.neubiorev.2016.04.011
+10.1101/011817	Molecular Ecology	10.1111/mec.1312
+10.1101/029397	eLife	10.7554/eLife.12469
+10.1101/038356	Proteomics	10.1002/pmic.201600167
+10.1101/008821	Cell Reports	10.1016/j.celrep.2016.01.008
+10.1101/009423	Physical Biology	10.1088/1478-3975/12/2/025002
+10.1101/011403	Bioinformatics	10.1093/bioinformatics/btv04
+10.1101/045369	Journal of Evolutionary Biology	10.1111/jeb.12972
+10.1101/002709	BMC Genomics	10.1186/1471-2164-15-1031
+10.1101/029645	PLOS ONE	10.1371/journal.pone.0151740
+10.1101/034538	PLOS Medicine	10.1371/journal.pmed.1001918
+10.1101/059261	The Plant Journal	10.1111/tpj.13404
+10.1101/032243	Development	10.1242/dev.133066
+10.1101/042580	Bioinformatics	10.1093/bioinformatics/btw623
+10.1101/039008	Journal of Biomedical Discovery and Collaboration	10.5210/disco.v7i0.6654
+10.1101/016790	PNAS	10.1073/pnas.1510282112
+10.1101/024117	Genome Research	10.1101/gr.197897.115
+10.1101/009282	Cell Reports	10.1016/j.celrep.2015.02.058
+10.1101/050880	Genome Biology and Evolution	10.1093/gbe/evw243
+10.1101/008482	Nature Communications	10.1038/ncomms6187
+10.1101/004010	Nucleic Acids Research	10.1093/nar/gku672
+10.1101/046243	BMC Bioinformatics	10.1186/s12859-016-1276-2
+10.1101/012922	NeuroImage	10.1016/j.neuroimage.2015.03.057
+10.1101/044065	Cerebral Cortex	10.1093/cercor/bhw196
+10.1101/041582	International Journal Of Epidemiology	10.1093/ije/dyw175
+10.1101/011262	Scientific Reports	10.1038/srep12035
+10.1101/019018	Genome Research	10.1101/gr.191692.115
+10.1101/037895	Nature Chemistry	10.1038/nchem.2330
+10.1101/003541	PNAS	10.1073/pnas.1405500111
+10.1101/036368	G3: Genes|Genomes|Genetics	10.1534/g3.116.027060
+10.1101/040980	Genetics	10.1534/genetics.116.190496
+10.1101/012799	Genome Biology	10.1186/s13059-015-0720-3
+10.1101/075879	Molecular Biology Of The Cell	10.1091/mbc.E16-06-0473
+10.1101/005868	Cold Spring Harbor Perspectives in Biology	10.1101/cshperspect.a016030
+10.1101/024570	G3: Genes|Genomes|Genetics	10.1534/g3.115.024380
+10.1101/054148	Genome Medicine	10.1186/s13073-016-0344-6
+10.1101/023721	Genetics	10.1534/genetics.115.181453
+10.1101/050914	Genetics	10.1534/genetics.116.188409
+10.1101/061291	NeuroImage: Clinical	10.1016/j.nicl.2016.08.017
+10.1101/030403	Bioinformatics	10.1093/bioinformatics/btw112
+10.1101/038638	Bioinformatics	10.1093/bioinformatics/btw159
+10.1101/033530	BMC Bioinformatics	10.1186/s12859-016-1058-x
+10.1101/045856	PNAS	10.1073/pnas.1605707113
+10.1101/048579	Biophysical Journal	10.1016/j.bpj.2014.09.044
+10.1101/034983	Human Genetics	10.1007/s00439-016-1651-0
+10.1101/015214	PLOS Computational Biology	10.1371/journal.pcbi.1004765
+10.1101/084806	Nature	10.1038/nature20563
+10.1101/016402	G3: Genes|Genomes|Genetics	10.1534/g3.115.021444
+10.1101/056168	Genetics	10.1534/genetics.116.192138
+10.1101/070201	Genetics	10.1534/genetics.116.194928
+10.1101/015818	Molecular Biology and Evolution	10.1093/molbev/msv126
+10.1101/070755	Scientific Reports	10.1038/srep38863
+10.1101/018531	Bioinformatics	10.1093/bioinformatics/btw360
+10.1101/052845	G3: Genes|Genomes|Genetics	10.1534/g3.116.034488
+10.1101/002550	Journal of Neuroscience	10.1523/JNEUROSCI.0551-14.2014
+10.1101/016543	Genetics	10.1534/genetics.115.178509
+10.1101/007708	Biology Letters	10.1098/rsbl.2014.0497
+10.1101/047324	PLOS ONE	10.1371/journal.pone.0165300
+10.1101/029892	Scientific Reports	10.1038/srep32387
+10.1101/000950	Molecular Plant	10.1093/mp/ssu003
+10.1101/004242	BMC Bioinformatics	10.1186/s12859-014-0400-4
+10.1101/025189	Journal Of Economic Entomology	10.1093/jee/tov301
+10.1101/023127	Human Genomics	10.1186/s40246-015-0049-8
+10.1101/046748	Genetics	10.1534/genetics.116.189985
+10.1101/046037	Frontiers in Neuroscience	10.3389/fnins.2016.00373
+10.1101/043513	PLOS ONE	10.1371/journal.pone.0157942
+10.1101/006072	Integrative and Comparative Biology	10.1093/icb/icu080
+10.1101/025981	Insect Molecular Biology	10.1111/imb.12234
+10.1101/005264	Systematic Biology	10.1093/sysbio/syv055
+10.1101/027722	Molecular Biology And Evolution	10.1093/molbev/msv274
+10.1101/014027	G3: Genes|Genomes|Genetics	10.1534/g3.114.015073
+10.1101/003731	BMC Genomics	10.1186/1471-2164-15-717
+10.1101/030981	Genetics Selection Evolution	10.1186/s12711-016-0190-4
+10.1101/001396	Neural Computation	10.1162/NECO_a_00568
+10.1101/027581	Journal of Theoretical Biology	10.1016/j.jtbi.2016.02.019
+10.1101/032581	Genetics	10.1534/genetics.115.185454
+10.1101/000042	Nature Reviews Genetics	10.1038/nrg3723
+10.1101/026989	Nature Communications	10.1038/ncomms12110
+10.1101/082156	PeerJ	10.7717/peerj.2717
+10.1101/026450	American Journal of Human Genetics	10.1016/j.ajhg.2016.03.029
+10.1101/048082	Infection, Genetics and Evolution	10.1016/j.meegid.2016.12.007
+10.1101/036806	Nature	10.1038/nature18959
+10.1101/060715	Developmental Biology	10.1016/j.ydbio.2016.07.003
+10.1101/019208	Molecular Case Studies	10.1101/mcs.a000422
+10.1101/041772	Genes & Development	10.1101/gad.280578.116
+10.1101/047514	Cancer Informatics	10.4137/CIN.S40088
+10.1101/030346	Molecular Ecology	10.1111/mec.13854
+10.1101/023911	Genome Biology	10.1186/s13059-016-0925-0
+10.1101/025379	BMC Genomics	10.1186/s12864-015-2252-3
+10.1101/001800	PLOS ONE	10.1371/journal.pone.0091819
+10.1101/061226	Current Opinion in Genetics & Development	10.1016/j.gde.2016.07.008
+10.1101/014803	Nucleic Acids Research	10.1093/nar/gkv1002
+10.1101/064527	Journal of the American Chemical Society	10.1021/jacs.6b06683
+10.1101/013151	G3: Genes|Genomes|Genetics	10.1534/g3.114.015784
+10.1101/056572	BMC Bioinformatics	10.1186/s12859-016-1277-1
+10.1101/008847	Genome Biology	10.1186/s13059-014-0465-4
+10.1101/040428	Science	10.1126/science.aaf5124
+10.1101/001941	Methods in Ecology and Evolution	10.1111/2041-210X.12206
+10.1101/001495	PLOS Computational Biology	10.1371/journal.pcbi.1003569
+10.1101/018499	Scientific Reports	10.1038/srep35608
+10.1101/039396	Systematic Biology	10.1093/sysbio/syw069
+10.1101/002766	BMC Genomics	10.1186/1471-2164-15-966
+10.1101/038372	eLife	10.7554/eLife.09492
+10.1101/029405	Nature Communications	10.1038/ncomms11061
+10.1101/024356	Cell Reports	10.1016/j.celrep.2016.02.025
+10.1101/060152	Frontiers in Molecular Neuroscience	10.3389/fnmol.2016.00082
+10.1101/059287	Molecular Systems Biology	10.15252/msb.20167137
+10.1101/088948	Clinical and Experimental Medicine	10.1007/s10238-016-0441-2
+10.1101/008714	Journal of Theoretical Biology	10.1016/j.jtbi.2015.01.019
+10.1101/051870	Philosophical Transactions B	10.1098/rstb.2016.0049
+10.1101/024133	Theoretical Population Biology	10.1016/j.tpb.2015.11.003
+10.1101/009001	Genome Biology	10.1186/s13059-015-0611-7
+10.1101/010009	F1000Research	10.12688/f1000research.7534.1
+10.1101/053702	Bioinformatics	10.1093/bioinformatics/btw559
+10.1101/028134	G3: Genes|Genomes|Genetics	10.1534/g3.116.034249
+10.1101/001230	Bioinformatics	10.1093/bioinformatics/btv363
+10.1101/079368	Genetics	10.1534/genetics.116.187385
+10.1101/022194	Genome Research	10.1101/gr.192971.115
+10.1101/042036	Genome Biology and Evolution	10.1093/gbe/evw113
+10.1101/027110	Trends in Ecology and Evolution	10.1016/j.tree.2015.11.006
+10.1101/027441	Journal of Evolutionary Biology	10.1111/jeb.12778
+10.1101/006866	Genes and Immunity	10.1038/gene.2014.56
+10.1101/023747	PLOS Neglected Tropical Diseases	10.1371/journal.pntd.0004398
+10.1101/010918	Molecular Biology and Evolution	10.1093/molbev/msv061
+10.1101/033084	Nature Genetics	10.1038/ng.3721
+10.1101/040303	Zoological Research	10.13918/j.issn.2095-8137.2016.2.110
+10.1101/055145	Current Opinion in Genetics & Development	10.1016/j.gde.2016.08.003
+10.1101/050930	Cell Metabolism	10.1016/j.cmet.2016.06.008
+10.1101/015180	PLOS ONE	10.1371/journal.pone.0153344
+10.1101/066498	PLOS ONE	10.1371/journal.pone.0167912
+10.1101/010645	Molecular Biology and Evolution	10.1093/molbev/msu301
+10.1101/033555	American Journal of Obstetrics and Gynecology	10.1016/j.ajog.2016.02.030
+10.1101/024190	PLOS Pathogens	10.1371/journal.ppat.1005279
+10.1101/050641	Nature Neuroscience	10.1038/nn.4464
+10.1101/031773	Journal of the Royal Society Interface	10.1098/rsif.2016.0373
+10.1101/062034	PLOS Neglected Tropical Diseases	10.1371/journal.pntd.0005073
+10.1101/015230	Human Immunology	10.1016/j.humimm.2015.09.011
+10.1101/007096	Proceedings B	10.1098/rspb.2014.1025
+10.1101/074062	PLOS Neglected Tropical Diseases	10.1371/journal.pntd.0005179
+10.1101/056143	Soft Matter	10.1039/C6SM02560A
+10.1101/069724	G3: Genes|Genomes|Genetics	10.1534/g3.116.037044
+10.1101/030288	Nature Genetics	10.1038/ng.3598
+10.1101/002576	Bioinformatics	10.1093/bioinformatics/btv034
+10.1101/031484	Bioinformatics	10.1093/bioinformatics/btw097
+10.1101/011999	Neural Plasticity	10.1155/2016/1938292
+10.1101/063545	Molecular Biology and Evolution	10.1093/molbev/msw232
+10.1101/023101	Science	10.1126/science.aad0843
+10.1101/035253	PLOS Computational Biology	10.1371/journal.pcbi.1005151
+10.1101/043026	Molecular Biology And Evolution	10.1093/molbev/msw100
+10.1101/001008	Molecular Systems Biology	10.15252/msb.20134955
+10.1101/006056	BMC Genomics	10.1186/1471-2164-15-1074
+10.1101/017921	Frontiers in Neuroscience	10.3389/fnins.2016.00144
+10.1101/057455	RNA	10.1261/rna.059105.116
+10.1101/008524	Journal of Insect Physiology	10.1016/j.jinsphys.2014.07.001
+10.1101/008037	Scientific Data	10.1038/sdata.2014.45
+10.1101/068098	Journal of Structural Biology	10.1016/j.jsb.2016.09.006
+10.1101/024653	Frontiers in Computational Neuroscience	10.3389/fncom.2016.00048
+10.1101/068726	PLOS Genetics	10.1371/journal.pgen.1006321
+10.1101/005652	Current Opinion in Genetics & Development	10.1016/j.gde.2014.08.011
+10.1101/026476	Systematic Biology	10.1093/sysbio/syv116
+10.1101/015438	ACS Synthetic Biology	10.1021/acssynbio.5b00090
+10.1101/028837	Genetics	10.1534/genetics.115.183665
+10.1101/066399	PLOS Genetics	10.1371/journal.pgen.1006496
+10.1101/019190	Frontiers in Cellular Neuroscience	10.3389/fncel.2015.00292
+10.1101/045096	eLife	10.7554/eLife.16965
+10.1101/036285	PeerJ	10.7717/peerj.1952
+10.1101/000067	Nature	10.1038/nature12904
+10.1101/053512	PLOS ONE	10.1371/journal.pone.0167357
+10.1101/015750	Journal of Neural Engineering	10.1088/1741-2560/12/3/036009
+10.1101/011437	Genetics	10.1534/genetics.114.172742
+10.1101/056937	Genomics Data	10.1016/j.gdata.2016.05.012
+10.1101/009803	The American Naturalist	10.1086/682948
+10.1101/072769	Molecular Ecology	10.1111/mec.13970
+10.1101/041798	Scientific Data	10.1038/sdata.2016.102
+10.1101/037085	Frontiers in Neuroscience	10.3389/fnins.2016.00106
+10.1101/047829	Bioinformatics	10.1093/bioinformatics/btw576
+10.1101/036137	Genome Biology	10.1186/s13059-016-1089-7
+10.1101/025239	Nucleic Acids Research	10.1093/nar/gkv1497
+10.1101/017103	Bioinformatics 	10.1093/bioinformatics/btv624
+10.1101/031419	BMC Medical Genomics	10.1186/s12920-016-0178-5
+10.1101/020487	ACS Synthetic Biology	10.1021/acssynbio.5b00064
+10.1101/022889	Investigative Genetics	10.1186/s13323-015-0030-2
+10.1101/012161	Frontiers in Bioengineering and Biotechnology	10.3389/fbioe.2015.00012
+10.1101/037887	The American Naturalist	10.1086/686900
+10.1101/030361	Frontiers in Microbiology	10.3389/fmicb.2016.00051
+10.1101/069914	MBio	10.1128/mBio.01501-16
+10.1101/013342	Nucleic Acids Research	10.1093/nar/gkv636
+10.1101/042200	Nucleic Acids Research	10.1093/nar/gkw396
+10.1101/001826	PLOS ONE	10.1371/journal.pone.0122267
+10.1101/006601	PLOS ONE	10.1371/journal.pbio.1001983
+10.1101/011858	BMC Systems Biology	10.1186/s12918-015-0253-0
+10.1101/005017	PLOS Genetics	10.1371/journal.pgen.1004434
+10.1101/002295	PLOS Computational Biology	10.1371/journal.pcbi.1003696
+10.1101/047795	Genome Biology	10.1186/s13059-016-0936-x
+10.1101/048942	Bioinformatics	10.1093/bioinformatics/btw493
+10.1101/031013	G3: Genes|Genomes|Genetics	10.1534/g3.115.024596
+10.1101/024331	PLOS ONE	10.1371/journal.pone.0146511
+10.1101/028332	Nucleic Acids Research	10.1093/nar/gkw1109
+10.1101/002741	eLife	10.7554/eLife.01917.001
+10.1101/029686	Scientific Reports	10.1038/srep26110
+10.1101/008730	International Journal of Developmental Biology	10.1387/ijdb.140088mr
+10.1101/007518	PLOS Genetics	10.1371/journal.pgen.1005041
+10.1101/062612	PNAS	10.1073/pnas.1613593114
+10.1101/000521	Evolution	10.1111/evo.12438
+10.1101/051854	Genetics	10.1534/genetics.116.191197
+10.1101/010066	Nature	10.1038/nature14225
+10.1101/037960	Cell Systems	10.1016/j.cels.2016.01.013
+10.1101/042549	Molecular Biology and Evolution	10.1093/molbev/msw049
+10.1101/042010	Journal of Theoretical Biology	10.1016/j.jtbi.2016.01.037
+10.1101/046201	BMC Bioinformatics	10.1186/s12859-016-1270-8
+10.1101/017483	Scientific Reports	10.1038/srep16882
+10.1101/027466	Philosophical Transactions B	10.1098/rstb.2015.0042
+10.1101/020305	BMC Genomics	10.1186/s12864-016-2364-4
+10.1101/008193	Evolution	10.1111/evo.12546
+10.1101/006841	Genome Research	10.1101/gr.180893.114
+10.1101/026229	PLOS ONE	10.1371/journal.pone.0138894
+10.1101/014613	Molecular Biology and Evolution	10.1093/molbev/msv216
+10.1101/011080	Mathematical Biosciences	10.1016/j.mbs.2015.04.002
+10.1101/003178	Bioinformatics	10.1093/bioinformatics/btu770
+10.1101/062794	Proceedings B	10.1098/rspb.2016.1845
+10.1101/004994	PLOS ONE	10.1371/journal.pone.0117138.
+10.1101/031849	Journal Of Chemical Ecology	10.1007/s10886-016-0715-x
+10.1101/012757	G3: Genes|Genomes|Genetics	10.1534/g3.115.019497
+10.1101/016196	BMC Genomics	10.1186/1471-2164-16-S7-S14
+10.1101/038497	Genetics	10.1534/genetics.115.185702
+10.1101/013482	G3: Genes|Genomes|Genetics	10.1534/g3.115.017616
+10.1101/047670	PLOS Pathogens	10.1371/journal.ppat.1005846
+10.1101/066829	Molecular Biology and Evolution	10.1093/molbev/msw224
+10.1101/055293	PLOS ONE	10.1371/journal.pone.0157475
+10.1101/020545	Epigenetics & Chromatin	10.1186/s13072-015-0040-6
+10.1101/058453	Genetics	10.1534/genetics.116.192567
+10.1101/051136	Mathematical Biosciences	10.1016/j.mbs.2016.09.010
+10.1101/018861	Ecology	10.1002/ecy.1605
+10.1101/000430	ACS Synthetic Biology	10.1021/sb400157z
+10.1101/013623	BMC Bioinformatics	10.1186/s12859-015-0590-4
+10.1101/029140	Biochimica et Biophysica Acta (BBA) - Biomembranes	10.1016/j.bbamem.2015.12.014
+10.1101/023168	BMC Genomics	10.1186/1471-2164-16-S10-S1
+10.1101/071118	PNAS	10.1073/pnas.1614048113
+10.1101/006031	Toxicon	10.1016/j.toxicon.2014.10.004
+10.1101/059329	Nucleic Acids Research	10.1093/nar/gkw627
+10.1101/001024	BMC Bioinformatics	10.1186/s12859-014-0449-0
+10.1101/005223	Evolution and Human Behavior	10.1016/j.evolhumbehav.2014.04.001
+10.1101/017673	Genome Biology	10.1186/s13059-015-0781-3
+10.1101/032201	Nature Communications	10.1038/ncomms13582
+10.1101/032540	eLife	10.7554/eLife.13254
+10.1101/003772	Physical Biology	10.1088/1478-3975/11/2/026005
+10.1101/043554	NeuroImage	10.1016/j.neuroimage.2016.04.005
+10.1101/032763	PNAS	10.1073/pnas.1523951113
+10.1101/045526	PeerJ	10.7717/peerj.2209
+10.1101/048330	PNAS	10.1073/pnas.1519555113
+10.1101/000885	ACS Synthetic Biology	10.1021/sb400203p
+10.1101/002824	Bioinformatics	10.1093/bioinformatics/btu638
+10.1101/022780	Bioinformatics	10.1093/bioinformatics/btw028
+10.1101/066621	Journal Of Chemical Theory And Computation	10.1021/acs.jctc.6b00532
+10.1101/027326	Biology Open	10.1242/bio.015016
+10.1101/024927	PLOS Genetics	10.1371/journal.pgen.1005628
+10.1101/044693	RNA	10.1261/rna.057208.116
+10.1101/041400	Nature	10.1038/nature17194
+10.1101/016295	Scientific Reports	10.1038/srep13265
+10.1101/036731	Evolution	10.1111/evo.12980
+10.1101/061390	The Journal of Chemical Physics	10.1063/1.4966156
+10.1101/049528	PLOS ONE	10.1371/journal.pone.0158298
+10.1101/037069	Vision Research	10.1016/j.visres.2015.11.001
+10.1101/063222	Microbiology	10.1099/mic.0.000352
+10.1101/011148	PLOS Biology	10.1371/journal.pbio.1002041
+10.1101/038562	PLOS ONE	10.1371/journal.pone.0158221
+10.1101/025254	Biology Open	10.1242/bio.014241
+10.1101/025338	PLOS Neglected Tropical Diseases	10.1371/journal.pntd.0004252
+10.1101/020974	Genetics	10.1534/genetics.115.179432
+10.1101/001842	Proceedings B	10.1098/rspb.2013.3127
+10.1101/013367	Journal Of Genetics	10.1007/s12041-015-0554-5
+10.1101/013813	The ISME Journal	10.1038/ismej.2015.106
+10.1101/006627	Genome Medicine	10.1186/s13073-014-0090-6
+10.1101/004986	Oecologia	10.1007/s00442-014-3041-4
+10.1101/038000	Nature Communications	10.1038/ncomms12428
+10.1101/033969	Neurobiology of Learning and Memory	10.1016/j.nlm.2016.03.019
+10.1101/034009	Polar Biology	10.1007/s00300-015-1871-0
+10.1101/018457	Molecular Biology and Evolution	10.1093/molbev/msv167
+10.1101/031039	Scientific Reports	10.1038/srep23080
+10.1101/009225	PLOS Genetics	10.1371/journal.pgen.1004920
+10.1101/004341	PNAS	10.1073/pnas.1409572111
+10.1101/025809	PLOS ONE	10.1371/journal.pone.0152056
+10.1101/002014	Nucleic Acids Research	10.1093/nar/gkv1198
+10.1101/074294	Cell Research	10.1038/cr.2016.137
+10.1101/047118	Frontiers in Neuroinformatics	10.3389/fninf.2016.00027
+10.1101/053967	Nature Communications	10.1038/ncomms12838
+10.1101/053744	Molecular Biology Of The Cell	10.1091/mbc.E16-08-0583
+10.1101/044974	eLife	10.7554/eLife.16167
+10.1101/078634	International Journal of Medical Informatics	10.1016/j.ijmedinf.2016.09.014
+10.1101/046995	American Journal of Human Genetics	10.1016/j.ajhg.2015.03.004
+10.1101/027409	Scientific Reports	10.1038/srep36158
+10.1101/028175	PLOS Computational Biology	10.1371/journal.pcbi.1004845
+10.1101/020362	BMC Genomics	10.1186/s12864-015-1704-0
+10.1101/052563	F1000Research	10.12688/f1000research.8798.1
+10.1101/003525	Current Cardiology Reports	10.1007/s11886-014-0488-1
+10.1101/008318	Bulletin of Mathematical Biology	10.1007/s11538-014-0050-8
+10.1101/006825	Nature Genetics	10.1038/ng.3196
+10.1101/014639	Genetics	10.1534/genetics.115.175265
+10.1101/063032	BMC Biology	10.1186/s12915-016-0317-7
+10.1101/026203	Biology Direct	10.1186/s13062-016-0128-3
+10.1101/022046	EURASIP Journal On Bioinformatics & Systems Biology	10.1186/s13637-016-0043-z
+10.1101/038828	Nucleic Acids Research	10.1093/nar/gkw1086
+10.1101/021964	PLOS Computational Biology	10.1371/journal.pcbi.1004615
+10.1101/031864	G3: Genes|Genomes|Genetics	10.1534/g3.116.033332
+10.1101/016469	Genetics	10.1534/genetics.115.183814
+10.1101/047472	Biology Open	10.1242/bio.019018
+10.1101/011601	PLOS Genetics	10.1371/journal.pgen.1005451
+10.1101/033597	Theoretical Population Biology	10.1016/j.tpb.2015.12.002
+10.1101/007054	Nucleic Acids Research	10.1093/nar/gkv136
+10.1101/047613	Cytometry A	10.1002/cyto.a.23030
+10.1101/056457	Molecular & Cellular Proteomics	10.1074/mcp.M115.056473
+10.1101/061184	Proteins	10.1002/prot.25094
+10.1101/039529	Nature Communications	10.1038/ncomms12817
+10.1101/011957	PLOS Computational Biology	10.1371/journal.pcbi.1004389
+10.1101/064113	PLOS Computational Biology	10.1371/journal.pcbi.1005144
+10.1101/038216	Biostatistics	10.1093/biostatistics/kxw041
+10.1101/046979	Frontiers in Microbiology	10.3389/fmicb.2016.00756
+10.1101/051151	Persoonia	10.3767/003158516X692149
+10.1101/013607	Genetics	10.1534/genetics.115.178327
+10.1101/017731	American Journal of Human Genetics	10.1016/j.ajhg.2015.12.021
+10.1101/017657	PLOS ONE	10.1371/journal.pone.0139360
+10.1101/063859	Molecular Phylogenetics and Evolution	10.1016/j.ympev.2016.10.007
+10.1101/005207	PLOS ONE	10.1371/journal.pone.0107026
+10.1101/071464	ACS Synthetic Biology	10.1021/acssynbio.5b00299
+10.1101/002469	BMC Bioinformatics	10.1186/1471-2105-15-126
+10.1101/009696	Molecular Ecology Resources	10.1111/1755-0998.12280
+10.1101/001040	PLOS ONE	10.1371/journal.pone.0090714
+10.1101/006015	Bioinformatics	10.1093/bioinformatics/btv272
+10.1101/028787	Genome Research	10.1101/gr.199166.115
+10.1101/052175	Scientific Reports	10.1038/srep38703
+10.1101/021774	Current Opinion in Genetics & Development	10.1016/j.gde.2015.09.001
+10.1101/031708	Genome Biology	10.1186/s13059-016-0904-5
+10.1101/076448	Journal of Neuroscience	10.1523/JNEUROSCI.1265-16.2016
+10.1101/042739	Frontiers in Microbiology	10.3389/fmicb.2016.01215
+10.1101/032748	Molecular BioSystems	10.1039/C6MB00262E
+10.1101/068767	PNAS	10.1073/pnas.1607674113
+10.1101/024695	Nature	10.1038/nature16062
+10.1101/000315	PLOS ONE	10.1371/journal.pone.0087782
+10.1101/053082	International Journal for Parasitology	10.1016/j.ijpara.2016.07.007
+10.1101/026922	Scientific Reports	10.1038/srep25373
+10.1101/002808	PLOS ONE	10.1371/journal.pone.0099117
+10.1101/058230	Genetics	10.1534/genetics.116.193987
+10.1101/015719	Cell Systems	10.1016/j.cels.2015.08.014
+10.1101/007831	Progress in Biophysics and Molecular Biology	10.1016/j.pbiomolbio.2015.01.006
+10.1101/019158	Genetics	10.1534/genetics.115.178004
+10.1101/027342	Bioinformatics	10.1093/bioinformatics/btw018
+10.1101/054684	Bioinformatics	10.1093/bioinformatics/btw615
+10.1101/082792	Nature Genetics	10.1038/ng.3749
+10.1101/009845	Neural Development	10.1186/s13064-014-0028-0
+10.1101/036244	Scientific Reports	10.1038/srep29042
+10.1101/049502	The Journal Of Physical Chemistry B	10.1021/acs.jpcb.6b02093
+10.1101/037044	NeuroImage	10.1016/j.neuroimage.2016.06.034
+10.1101/014407	PLOS ONE	10.1371/journal.pone.0124952
+10.1101/067918	PLOS Computational Biology	10.1371/journal.pcbi.1005041
+10.1101/020990	Scientific Reports	10.1038/srep22311
+10.1101/047860	Genome Research	10.1101/gr.208173.116
+10.1101/061036	Journal of Experimental Biology	10.1242/jeb.143818
+10.1101/069377	Molecular Biology Of The Cell	10.1091/mbc.E16-08-0587
+10.1101/065458	Proceedings B	10.1098/rspb.2016.1762
+10.1101/029314	Neuropsychologia	10.1016/j.neuropsychologia.2015.10.023
+10.1101/035998	PLOS ONE	10.1371/journal.pone.0167431
+10.1101/047282	Molecular Ecology Resources	10.1111/1755-0998.12576
+10.1101/035196	Journal of Neuroscience	10.1523/JNEUROSCI.3433-15.2016
+10.1101/001784	Science	10.1126/science.1250939
+10.1101/025866	Molecular Ecology	10.1111/mec.13974
+10.1101/002071	Molecular Neurobiology	10.1007/s12035-014-8770-1
+10.1101/015032	Scientific Reports	10.1038/srep13865
+10.1101/035378	Bioinformatics	10.1093/bioinformatics/btw080
+10.1101/032979	Biology Letters	10.1098/rsbl.2015.0983
+10.1101/020693	Origins Of Life And Evolution Of The Biosphere	10.1007/s11084-015-9448-z
+10.1101/064295	PNAS	10.1073/pnas.1611073113
+10.1101/063446	Bioinformatics	10.1093/bioinformatics/btw460
+10.1101/042507	PLOS ONE	10.1371/journal.pone.0165799
+10.1101/023085	BMC Genomics	10.1186/1471-2164-16-S10-S11
+10.1101/027649	Genome Research	10.1101/gr.200097.115
+10.1101/023333	Evolution	10.1111/evo.13100
+10.1101/030825	Bioinformatics	10.1093/bioinformatics/btw149
+10.1101/049296	Journal of Comparative Neurology	10.1002/cne.24042
+10.1101/001255	Hydrobiologia	10.1007/s10750-014-1870-0
+10.1101/020347	PLOS ONE	10.1371/journal.pone.0136487
+10.1101/005413	Nucleic Acids Research	10.1093/nar/gkv137
+10.1101/027425	Philosophical Transactions B	10.1098/rstb.2015.0181
+10.1101/045195	mBio	10.1128/mBio.01785-15
+10.1101/000125	European Journal of Cancer	10.1016/j.ejca.2014.08.019
+10.1101/068247	Infection, Genetics and Evolution	10.1016/j.meegid.2016.12.006
+10.1101/006809	Nature Neuroscience	10.1038/nn.3812
+10.1101/025486	The American Naturalist	10.1086/686268
+10.1101/005579	Genome Biology	10.1186/s13059-014-0509-9
+10.1101/032359	PLOS Computational Biology	10.1371/journal.pcbi.1005267
+10.1101/032292	Current Biology	10.1016/j.cub.2016.05.052
+10.1101/045773	GigaScience	10.1186/s13742-016-0152-3
+10.1101/040105	Molecular Ecology	10.1111/mec.13770
+10.1101/022061	Open Biology	10.1098/rsob.160009
+10.1101/038844	Scientific Reports	10.1038/srep31519
+10.1101/021907	Molecular Ecology Resources	10.1111/1755-0998.12493
+10.1101/036053	Bioinformatics	10.1093/bioinformatics/btw338
+10.1101/011593	Molecular Ecology	10.1111/mec.13154
+10.1101/036509	eLife	10.7554/eLife.12994
+10.1101/056895	American Journal of Obstetrics and Gynecology	10.1016/j.ajog.2016.07.041
+10.1101/010975	PeerJ	10.7717/peerj.1054
+10.1101/031880	PLOS Neglected Tropical Diseases	10.1371/journal.pntd.0004676
+10.1101/007310	eLife	10.7554/eLife.03703
+10.1101/007039	Proceedings B	10.1098/rspb.2014.1739.
+10.1101/047456	BMC Evolutionary Biology	10.1186/s12862-016-0816-8
+10.1101/010629	American Journal of Physical Anthropology	10.1002/ajpa.22890
+10.1101/063289	eLife	10.7554/eLife.18449
+10.1101/050443	Human Immunology	10.1016/j.humimm.2016.05.002
+10.1101/041673	Nature Communications	10.1038/ncomms12815
+10.1101/029926	Bioinformatics	10.1093/bioinformatics/btw651
+10.1101/007781	Genome Biology and Evolution	10.1093/gbe/evv210
+10.1101/013995	BMC Bioinformatics	10.1186/1471-2105-16-S18-S6
+10.1101/034900	Physical Chemistry Chemical Physics	10.1039/C5CP07845H
+10.1101/057273	PLOS ONE	10.1371/journal.pone.0158857
+10.1101/013441	Ecology Letters	10.1111/ele.12443
+10.1101/020503	Genome Biology And Evolution	10.1093/gbe/evw125
+10.1101/030049	F1000Research	10.12688/f1000research.7485.1
+10.1101/064139	PLOS ONE	10.1371/journal.pone.0163063
+10.1101/029819	Bioinspiration & Biomimetics	10.1088/1748-3190/11/4/046008
+10.1101/008920	Frontiers in Computational Neuroscience	10.3389/fncom.2015.00095
+10.1101/006783	PNAS	10.1073/pnas.1412277112
+10.1101/025106	PLOS ONE	10.1371/journal.pone.0144514
+10.1101/017632	PLOS ONE	10.1371/journal.pone.0139068
+10.1101/057786	Scientific Reports	10.1038/srep32969
+10.1101/029108	IEEE Engineering in Medicine and Biology Society	10.1109/EMBC.2015.7319214
+10.1101/002196	F1000Research	10.12688/f1000research.3986
+10.1101/001065	PLOS ONE	10.1371/journal.pone.0128115
+10.1101/021758	GigaScience	10.1186/s13742-016-0111-z
+10.1101/070862	NeuroImage	10.1016/j.neuroimage.2016.11.036
+10.1101/087858	eLife	10.7554/eLife.18657
+10.1101/068742	eLife	10.7554/eLife.20533
+10.1101/010363	PNAS	10.1073/pnas.1418631112
+10.1101/004135	Evolution and Human Behavior	10.1016/j.evolhumbehav.2014.04.003
+10.1101/058966	Current Opinion in Genetics & Development	10.1016/j.gde.2016.06.016
+10.1101/066373	eLife	10.7554/eLife.20309
+10.1101/045567	Free Radical Biology and Medicine	10.1016/j.freeradbiomed.2016.08.006
+10.1101/049460	eNeuro	10.1523/ENEURO.0116-16.2016
+10.1101/044164	Computer Graphics Forum	10.1111/cgf.12924
+10.1101/011361	F1000Research	10.12688/f1000research.6402.1
+10.1101/061689	Ecology Letters	10.1111/ele.12703
+10.1101/061358	Scientific Reports	10.1038/srep39707
+10.1101/014464	Genetics	10.1534/genetics.115.174920
+10.1101/011106	Tree Genetics & Genomes	10.1007/s11295-015-0866-x
+10.1101/036194	Bioinformatics	10.1093/bioinformatics/btw163
+10.1101/059568	Scientific Reports	10.1038/srep31326
+10.1101/072173	Journal of Neurophysiology	10.1152/jn.00698.2016
+10.1101/040717	PNAS	10.1073/pnas.1601982113
+10.1101/001883	Bioinformatics	10.1093/bioinformatics/btu523
+10.1101/050831	Philosophical Transactions B	10.1098/rstb.2016.0001
+10.1101/047845	Genome Biology	10.1186/s13059-016-0975-3
+10.1101/003012	PNAS	10.1073/pnas.1313285111
+10.1101/033928	Molecular Biology and Evolution	10.1093/molbev/msw283
+10.1101/034223	Journal of Morphology	10.1002/jmor.20582
+10.1101/062133	Ecology	10.1002/ecy.1660
+10.1101/022863	New Phytologist	10.1111/nph.13897
+10.1101/051789	Biological Psychiatry	10.1016/j.biopsych.2016.06.027
+10.1101/038042	GigaScience	10.1186/s13742-016-0140-7
+10.1101/021105	Bioinformatics	10.1093/bioinformatics/btv733
+10.1101/013276	Cell Reports	10.1016/j.celrep.2015.03.009
+10.1101/018416	Scientific Reports	10.1038/srep14976
+10.1101/058776	Journal of Neurophysiology	10.1152/jn.00486.2016
+10.1101/029371	Systematic Biology	10.1093/sysbio/syw018
+10.1101/002279	PLOS ONE	10.1371/journal.pone.0110808
+10.1101/016733	eLife	10.7554/eLife.07574
+10.1101/035170	Nature Genetics	10.1038/ng.3643
+10.1101/026427	Molecular Biology And Evolution	10.1093/molbev/msw010
+10.1101/029595	PLOS Computational Biology	10.1371/journal.pcbi.1004712
+10.1101/009084	Molecular Ecology	10.1111/mec.13455
+10.1101/043430	Briefings In Bioinformatics	10.1093/bib/bbw089
+10.1101/025841	PLOS Genetics	10.1371/journal.pgen.1005612
+10.1101/007849	Molecular Phylogenetics and Evolution	10.1016/j.ympev.2015.08.026
+10.1101/028357	Journal of the Royal Society Interface	10.1098/rsif.2016.0282
+10.1101/027995	Journal of Theoretical Biology	10.1016/j.jtbi.2015.12.008
+10.1101/008136	PLOS Genetics	10.1371/journal.pgen.1005118
+10.1101/003657	Global Ecology and Biogeography	10.1111/geb.12295
+10.1101/006221	Genome Research	10.1101/gr.175893.114
+10.1101/008359	Biology Open	10.1242/bio.201410843
+10.1101/005553	Cell Reports	10.1016/j.celrep.2015.09.056
+10.1101/000109	PLOS Genetics	10.1371/journal.pgen.1004410
+10.1101/076091	Cell Cycle	10.1080/15384101.2016.1250048
+10.1101/038869	BMC Microbiology	10.1186/s12866-016-0818-0
+10.1101/017095	Bioinformatics	10.1093/bioinformatics/btw076
+10.1101/062158	Molecular Ecology Resources	10.1111/1755-0998.12579
+10.1101/016139	Molecular Biology Of The Cell	10.1091/mbc.E15-02-0102
+10.1101/019349	PLOS Computational Biology	10.1371/journal.pcbi.1004447
+10.1101/033001	Genome Research	10.1101/gr.202432.115
+10.1101/034116	Journal of Theoretical Biology	10.1016/j.jtbi.2016.05.037
+10.1101/010991	Scientific Reports	10.1038/srep09676
+10.1101/004689	Systematic Biology	10.1093/sysbio/syv023
+10.1101/041384	Nature Methods	10.1038/nmeth.3971
+10.1101/047431	Analytical Sciences	10.2116/analsci.32.1159
+10.1101/040386	PLOS Neglected Tropical Diseases	10.1371/journal.pntd.0004968
+10.1101/030205	PLOS Genetics	10.1371/journal.pgen.1005939
+10.1101/037929	PNAS	10.1073/pnas.1600398113
+10.1101/023879	Bioinformatics	10.1093/bioinformatics/btw138
+10.1101/011916	PLOS ONE	10.1371/journal.pone.0126902
+10.1101/051375	PLOS ONE	10.1371/journal.pone.0167065
+10.1101/025122	BMC Avian Research	10.1186/s40657-016-0043-4
+10.1101/013649	Genome Research	10.1101/gr.183749.114
+10.1101/055855	American Journal of Human Genetics	10.1016/j.ajhg.2016.09.014
+10.1101/002428	PLOS Genetics	10.1371/journal.pgen.1004622
+10.1101/038257	PLOS ONE	10.1371/journal.pone.0161791
+10.1101/045922	Genome Research	10.1101/gr.208041.116
+10.1101/034785	BMC Genomics	10.1186/s12864-016-2539-z
+10.1101/039123	mBio	10.1128/mBio.00347-16
+10.1101/010207	PLOS Genetics	10.1371/journal.pgen.1004845
+10.1101/070805	Nature Communications	10.1038/ncomms13637
+10.1101/009746	Journal of the Royal Society Interface	10.1098/rsif.2014.1067
+10.1101/004119	PLOS Genetics	10.1371/journal.pgen.1004842
+10.1101/010348	Frontiers in Neuroinformatics	10.3389/fninf.2015.00008
+10.1101/060269	Review of Scientific Instruments	10.1063/1.4961477
+10.1101/068015	Biophysical Chemistry	10.1016/j.bpc.2016.09.004
+10.1101/046367	eLife	10.7554/eLife.12102
+10.1101/042267	PNAS	10.1073/pnas.1603910113
+10.1101/045542	PNAS	10.1073/pnas.1604666113
+10.1101/023275	Nature Communications	10.1038/ncomms10179
+10.1101/026385	BMC Bioinformatics	10.1186/s12859-016-0984-y
+10.1101/044149	PNAS	10.1073/pnas.1612820113
+10.1101/044636	Scientific Reports	10.1038/srep32065
+10.1101/041467	Molecular Ecology	10.1111/mec.13792
+10.1101/019117	Scientific Data	10.1038/sdata.2015.23
+10.1101/063792	PLOS Neglected Tropical Diseases	10.1371/journal.pntd.0005096
+10.1101/014324	Gene	10.1016/j.gene.2015.04.085
+10.1101/011346	Nature Methods	10.1038/nmeth.3578
+10.1101/003467	Genome Biology	10.1186/s13059-014-0547-3
+10.1101/061333	G3: Genes|Genomes|Genetics	10.1534/g3.116.036012
+10.1101/011122	PLOS ONE	10.1371/journal.pone.0117949
+10.1101/050815	Nucleic Acids Research	10.1093/nar/gkw502
+10.1101/012690	PNAS	10.1073/pnas.1421515112
+10.1101/031922	The American Naturalist	10.1086/688666
+10.1101/033274	PLOS ONE	10.1371/journal.pone.0156417
+10.1101/016360	Systematic Biology	10.1093/sysbio/syv048
+10.1101/039800	Journal of Biomedical Informatics	10.1016/j.jbi.2016.10.007
+10.1101/066944	Metabolic Engineering	10.1016/j.ymben.2016.12.004
+10.1101/009829	Molecular Ecology	10.1111/mec.13214
+10.1101/070128	Twin Research And Human Genetics	10.1017/thg.2016.82
+10.1101/025619	PNAS	10.1073/pnas.1502868112
+10.1101/047175	PLOS Neglected Tropical Diseases	10.1371/journal.pntd.0005055
+10.1101/003921	PNAS	10.1073/pnas.1407207111
+10.1101/027813	Journal of Insect Conservation	10.1007/s10841-016-9872-z
+10.1101/007591	Nature Communications	10.1038/ncomms6195
+10.1101/023044	PLOS Biology	10.1371/journal.pbio.1002388
+10.1101/028043	PLOS ONE	10.1371/journal.pone.0148710
+10.1101/018697	Molecular Ecology	10.1111/mec.13351
+10.1101/001743	Biology Open	10.1242/bio.20147633
+10.1101/014209	Scientific Reports	10.1038/srep12524
+10.1101/027979	Current Problems in Cancer	10.1016/j.currproblcancer.2015.10.004
+10.1101/044990	eLife	10.7554/eLife.16799
+10.1101/052050	Molecular Ecology	10.1111/mec.13729
+10.1101/008110	Bioinformatics	10.1093/bioinformatics/btv296
+10.1101/003673	PLOS Computational Biology	10.1371/journal.pcbi.1003803
+10.1101/030866	Nucleic Acids Research	10.1093/nar/gkw319
+10.1101/020388	Genome Medicine	10.1186/s13073-015-0191-x
+10.1101/024778	mBio	10.1128/mBio.00550-16
+10.1101/068460	Trends in Genetics	10.1016/j.tig.2016.08.002
+10.1101/006247	Genome Biology	10.1186/s13059-015-0642-0
+10.1101/001297	PLOS ONE	10.1371/journal.pone.0085203
+10.1101/017400	Neural Computation	10.1162/NECO_a_00864
+10.1101/008375	Nucleic Acids Research	10.1093/nar/gkv717
+10.1101/045153	BMC Genomics	10.1186/s12864-016-2889-6
+10.1101/043679	Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics	10.1016/j.bbapap.2016.08.001
+10.1101/018036	PLOS Computational Biology	10.1371/journal.pcbi.1004728
+10.1101/076216	PLOS ONE	10.1371/journal.pone.0163746
+10.1101/022020	Genetics	10.1534/genetics.115.180299
+10.1101/002980	Biophysical Journal	10.1016/j.bpj.2014.01.012
+10.1101/053678	Genes & Development	10.1101/gad.280859.116
+10.1101/007351	Genome Biology	10.1186/s13059-014-0524-x
+10.1101/020891	Cell Systems	10.1016/j.cels.2015.08.013
+10.1101/033068	BMC Bioinformatics	10.1186/s12859-016-1015-8
+10.1101/025551	PLOS ONE	10.1371/journal.pone.0151651
+10.1101/080564	Bioinformatics	10.1093/bioinformatics/btw688
+10.1101/069831	Frontiers In Microbiology	10.3389/fmicb.2016.01882
+10.1101/034942	Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics	10.1016/j.bbapap.2016.03.015
+10.1101/006742	Genome Research	10.1101/gr.178756.114
+10.1101/025148	PeerJ	10.7717/peerj.1441
+10.1101/008961	NeuroImage	10.1016/j.neuroimage.2015.04.026
+10.1101/069781	Neuroscience Letters	10.1016/j.neulet.2016.11.046
+10.1101/031138	Translational Psychiatry	10.1038/tp.2016.56
+10.1101/034413	Biomedical Genetics and Genomics	10.15761/BGG.1000103
+10.1101/038505	PLOS Computational Biology	10.1371/journal.pcbi.1005059
+10.1101/031351	BMC Evolutionary Biology	10.1186/s12862-016-0638-8
+10.1101/028092	Journal of Evolutionary Biology	10.1111/jeb.12878
+10.1101/032813	Evolutionary Applications	10.1111/eva.12361
+10.1101/024547	PLOS Genetics	10.1371/journal.pgen.1005928
+10.1101/026948	Nature Methods	10.1038/nmeth.3734
+10.1101/015941	PLOS Genetics	10.1371/journal.pgen.1005142
+10.1101/001172	Systematic Biology	10.1093/sysbio/syu018
+10.1101/022251	Journal of the Royal Society Interface	10.1098/rsif.2016.0112
+10.1101/017897	NeuroImage	10.1016/j.neuroimage.2015.10.012
+10.1101/008581	Journal of the Royal Society Interface	10.1098/rsif.2015.0288
+10.1101/016949	PLOS Genetics	10.1371/journal.pgen.1005658
+10.1101/049130	Science	10.1126/science.aaf7613
+10.1101/028910	Cell Reports	10.1016/j.celrep.2016.02.050
+10.1101/023259	PLOS ONE	10.1371/journal.pone.0137765
+10.1101/025700	Biology Direct	10.1186/s13062-015-0104-3
+10.1101/011320	Nature Biotechnology	10.1038/nbt.3594
+10.1101/054593	GigaScience	10.1186/s13742-016-0149-y
+10.1101/003442	Proceedings B	10.1098/rspb.2014.1677.
+10.1101/023663	The Auk	10.1642/AUK-15-72.1
+10.1101/059527	Molecular Biology and Evolution	10.1093/molbev/msw254
+10.1101/010819	Genome Biology and Evolution	10.1093/gbe/evv189
+10.1101/011494	Molecular Biology and Evolution	10.1093/molbev/msv184
+10.1101/036954	Molecular Ecology	10.1111/mec.13645
+10.1101/019794	Toxicological Sciences	10.1093/toxsci/kfv195
+10.1101/033217	Nature Genetics	10.1038/ng.3737
+10.1101/085506	NeuroImage	10.1016/j.neuroimage.2016.11.005
+10.1101/062711	Brain Research Bulletin	10.1016/j.brainresbull.2016.08.006
+10.1101/015370	Nucleic Acids Research	10.1093/nar/gkw852
+10.1101/004499	Nucleic Acids Research	10.1093/nar/gku604
+10.1101/062174	Plant Physiology	10.1104/pp.16.00948
+10.1101/019869	Physical Review E	10.1103/PhysRevE.92.012719
+10.1101/069310	Soft Matter	10.1039/C6SM01859A
+10.1101/002238	PLOS ONE	10.1371/journal.pone.0093766
+10.1101/007609	Frontiers in Genetics	10.3389/fgene.2014.00329
+10.1101/016774	Genome Biology and Evolution	10.1093/gbe/evv128
+10.1101/051656	Scientific Reports	10.1038/srep38956
+10.1101/039354	PLOS Biology	10.1371/journal.pbio.1002506
+10.1101/024281	PNAS	10.1073/pnas.1515798113
+10.1101/025882	Development	10.1242/dev.126375
+10.1101/028464	PLOS Genetics	10.1371/journal.pgen.1005947
+10.1101/005470	PeerJ	10.7717/peerj.588
+10.1101/023390	Scientific Reports	10.1038/srep20048
+10.1101/003616	PLOS ONE	10.1371/journal.pone.0125906
+10.1101/015008	Genome Medicine	10.1186/s13073-016-0390-0
+10.1101/001545	BMC Bioinformatics	10.1186/1471-2105-15-220
+10.1101/017426	Journal of Molecular Liquids	10.1016/j.molliq.2015.08.054
+10.1101/028282	Nature Genetics	10.1038/ng.3571
+10.1101/005512	BMC Evolutionary Biology	10.1186/1471-2148-14-98
+10.1101/024026	Molecular Biology And Evolution	10.1093/molbev/msw030
+10.1101/021501	Cell Reports	10.1016/j.celrep.2016.01.043
+10.1101/076232	Genetics	10.1534/genetics.116.196030
+10.1101/000141	PLOS Computational Biology	10.1371/journal.pcbi.1003433
+10.1101/002790	PLOS ONE	10.1371/journal.pone.0093987
+10.1101/055814	Frontiers in Microbiology	10.3389/fmicb.2016.01317
+10.1101/036566	Statistical Methods In Medical Research	10.1177/0962280216660128
+10.1101/033043	PLOS Genetics	10.1371/journal.pgen.1005774
+10.1101/025577	G3: Genes|Genomes|Genetics	10.1534/g3.115.024133
+10.1101/037218	PLOS Genetics	10.1371/journal.pgen.1005905
+10.1101/030536	Mechanisms of Development	10.1016/j.mod.2016.08.001
+10.1101/030247	Genetics	10.1534/genetics.115.177816
+10.1101/011684	Journal Of Genetics	10.1007/s12041-016-0655-9
+10.1101/013938	Frontiers in Microbiology	10.3389/fmicb.2015.00703
+10.1101/013425	Bioinformatics	10.1093/bioinformatics/btv311
+10.1101/006726	Nature Methods	10.1038/nmeth.3047
+10.1101/057414	Bioinformatics	10.1093/bioinformatics/btw589
+10.1101/038745	Molecular Biology and Evolution	10.1093/molbev/msw137
+10.1101/008946	PLOS Computational Biology	10.1371/journal.pcbi.1004176
+10.1101/055897	Philosophical Transactions A	10.1098/rsta.2016.0141
+10.1101/029702	Genome Biology and Evolution	10.1093/gbe/evw150
+10.1101/010793	Journal of Shellfish Research	10.2983/035.034.0205
+10.1101/018226	Journal of Neuroscience	10.1523/JNEUROSCI.2044-15.2016
+10.1101/028076	PLOS Computational Biology	10.1371/journal.pcbi.1004636
+10.1101/024562	PLOS ONE	10.1371/journal.pone.0153692
+10.1101/043869	Philosophical Transactions B	10.1098/rstb.2015.0412
+10.1101/015966	Nucleic Acids Research	10.1093/nar/gkv693
+10.1101/035477	PLOS ONE	10.1371/journal.pone.0157464
+10.1101/027037	Nucleic Acids Research	10.1093/nar/gkv1275
+10.1101/067629	Molecular Ecology Resources	10.1111/1755-0998.12634
+10.1101/082719	Frontiers in Systems Neuroscience	10.3389/fnsys.2016.00088
+10.1101/025767	Nature Biotechnology	10.1038/nbt.3682
+10.1101/052712	Science	10.1126/science.aaf7907
+10.1101/011304	Human Pathology	10.1016/j.humpath.2015.02.008
+10.1101/010876	PLOS Computational Biology	10.1371/journal.pcbi.1004873
+10.1101/044677	Bioinformatics	10.1093/bioinformatics/btw328
+10.1101/032128	Plant Physiology	10.1104/pp.15.01845
+10.1101/036970	Scientific Reports	10.1038/srep36812
+10.1101/026070	PLOS Computational Biology	10.1371/journal.pcbi.1005131
+10.1101/061663	PNAS	10.1073/pnas.1613365113
+10.1101/015685	Genetics	10.1534/genetics.115.178574
+10.1101/016097	Genome Biology	10.1186/s13059-015-0762-6
+10.1101/019844	Trends in Genetics	10.1016/j.tig.2015.05.007
+10.1101/019513	Nature Communications	10.1038/ncomms9712
+10.1101/033985	Journal of Computer-Aided Molecular Design	10.1007/s10822-015-9888-6
+10.1101/036608	PLOS Computational Biology	10.1371/journal.pcbi.1004778
+10.1101/061598	Science	10.1126/science.aag1322
+10.1101/009951	Genome Biology	10.1186/s13059-015-0806-y
+10.1101/012435	BMC Evolutionary Biology	10.1186/s12862-015-0462-6
+10.1101/044099	G3: Genes|Genomes|Genetics	10.1534/g3.116.030452
+10.1101/030189	PLOS Computational Biology	10.1371/journal.pcbi.1004720
+10.1101/051094	Bioinformatics	10.1093/bioinformatics/btw613
+10.1101/010496	Systematic Biology	10.1093/sysbio/syu108
+10.1101/015479	New Phytologist	10.1111/nph.13764
+10.1101/052571	Epigenetics & Chromatin	10.1186/s13072-016-0078-0
+10.1101/063990	PNAS	10.1073/pnas.1608162113
+10.1101/048892	Genetics	10.1534/genetics.116.190462
+10.1101/051672	The Journal of Cell Biology	10.1083/jcb.201604118
+10.1101/017053	Nature Communications	10.1038/ncomms9732
+10.1101/039370	Journal of the Royal Society Interface	10.1098/rsif.2016.0296
+10.1101/020610	Molecular Ecology Resources	10.1111/1755-0998.12639
+10.1101/014977	Nucleic Acids Research	10.1093/nar/gkv1089
+10.1101/027938	PLOS Genetics	10.1371/journal.pgen.1005732
+10.1101/023002	Frontiers in Microbiology	10.3389/fmicb.2015.01392
+10.1101/053223	Scientific Data	10.1038/sdata.2016.63
+10.1101/009571	Current Opinion in Virology	10.1016/j.coviro.2014.08.001
+10.1101/003962	Bioinformatics	10.1093/bioinformatics/btu713
+10.1101/055970	Molecular & Cellular Proteomics	10.1074/mcp.M115.056481
+10.1101/001701	eLife	10.7554/eLife.00829
+10.1101/028449	Pacific Symposium on Biocomputing	10.1142/9789814749411_0013
+10.1101/052019	PNAS	10.1073/pnas.1607179113
+10.1101/008623	Molecular Ecology	10.1111/mec.13122
+10.1101/021691	PLOS ONE	10.1371/journal.pone.0151180
+10.1101/043455	American Journal Of Botany	10.3732/ajb.1600113
+10.1101/032607	PLOS ONE	10.1371/journal.pone.0151861
+10.1101/042499	Sensors	10.3390/s16111879
+10.1101/042325	American Journal Of Botany	10.3732/ajb.1600103
+10.1101/045443	PLOS Neglected Tropical Diseases	10.1371/journal.pntd.0004816
+10.1101/024000	Molecular Biology and Evolution	10.1093/molbev/msv234
+10.1101/026518	F1000Research	10.12688/f1000research.7082.3
+10.1101/015511	Frontiers in Microbiology	10.3389/fmicb.2015.00316
+10.1101/018077	Genome Biology and Evolution	10.1093/gbe/evv122
+10.1101/027201	Bioinformatics	10.1093/bioinformatics/btw012
+10.1101/046797	Trends in Microbiology	10.1016/j.tim.2016.04.008
+10.1101/053637	PLOS Computational Biology	10.1371/journal.pcbi.1005233
+10.1101/044792	Scientific Reports	10.1038/srep30379
+10.1101/015164	PLOS Genetics	10.1371/journal.pgen.1005272
+10.1101/016154	G3: Genes|Genomes|Genetics	10.1534/g3.114.011411
+10.1101/011510	Briefings In Functional Genomics	10.1093/bfgp/elv018
+10.1101/040899	PLOS ONE	10.1371/journal.pone.0161882
+10.1101/025510	PLOS ONE	10.1371/journal.pone.0146947
+10.1101/006916	Biology Open	10.1242/bio.20149399
+10.1101/017202	Scientific Reports	10.1038/srep10975
+10.1101/049775	PLOS Computational Biology	10.1371/journal.pcbi.1005157
+10.1101/061127	Yeast	10.1002/yea.3214
+10.1101/020586	PLOS Genetics	10.1371/journal.pgen.1005718
+10.1101/037721	eLife	10.7554/eLife.14859
+10.1101/075788	Brain Connectivity	10.1089/brain.2016.0464
+10.1101/013912	Nucleic Acids Research	10.1093/nar/gkv119
+10.1101/040097	The ISME Journal	10.1038/ismej.2016.139
+10.1101/006700	Evolution	10.1111/evo.12609
+10.1101/040238	eLife	10.7554/eLife.19276
+10.1101/038760	Nature Methods	10.1038/nmeth.3930
+10.1101/051466	Genome Biology	10.1186/s13059-016-1098-6
+10.1101/034454	Scientific Reports	10.1038/srep35333
+10.1101/039495	Bioinformatics	10.1093/bioinformatics/btw423
+10.1101/070318	Journal of Evolutionary Biology	10.1111/jeb.12972
+10.1101/013003	PNAS	10.1073/pnas.1424184112
+10.1101/062968	BMC Genetics	10.1186/s12863-016-0458-2
+10.1101/007476	Bioinformatics	10.1093/bioinformatics/btv317
+10.1101/043075	ELife	10.7554/eLife.16070
+10.1101/047019	Genetics	10.1534/genetics.116.190223
+10.1101/009720	Heredity	10.1038/hdy.2015.88
+10.1101/028050	Nature Protocols	10.1038/nprot.2016.150
+10.1101/029983	PeerJ	10.7717/peerj.1554
+10.1101/035493	Scientific Reports	10.1038/srep25533
+10.1101/049171	Genome Biology And Evolution	10.1093/gbe/evw175
+10.1101/053280	Frontiers in Oncology	10.3389/fonc.2016.00186
+10.1101/017855	PLOS Genetics	10.1371/journal.pgen.1005616
+10.1101/017582	Bioinformatics	10.1093/bioinformatics/btv692
+10.1101/052480	Nature Physics	10.1038/nphys3741
+10.1101/042796	Genetics	10.1534/genetics.115.183285
+10.1101/003400	NeuroImage: Clinical	10.1016/j.nicl.2014.07.002
+10.1101/008458	Ecography	10.1111/ecog.01701
+10.1101/019372	BMC Genomics	10.1186/s12864-016-2366-2
+10.1101/007898	Forensic Science International: Genetics	10.1016/j.fsigen.2014.09.005
+10.1101/067462	PLOS Genetics	10.1371/journal.pgen.1006333
+10.1101/044651	Molecular Ecology Resources	10.1111/1755-0998.12566
+10.1101/026898	Frontiers in Neuroinformatics	10.3389/fninf.2016.00004
+10.1101/005728	American Journal of Medical Genetics Part B: Neuropsychiatric Genetics	10.1002/ajmg.b.32311
+10.1101/013896	Nature Biotechnology	10.1038/nbt.3412
+10.1101/032144	Database	10.1093/database/baw015
+10.1101/021840	Frontiers In Neuroanatomy	10.3389/fnana.2015.00123
+10.1101/033431	Nature Methods	10.1038/nmeth.3805
+10.1101/040931	PLOS Computational Biology	10.1371/journal.pcbi.1005156
+10.1101/061606	Genome Research	10.1101/gr.212092.116
+10.1101/041368	Neuropsychologia	10.1016/j.neuropsychologia.2016.08.008
+10.1101/031948	Development Genes and Evolution	10.1007/s00427-016-0541-8
+10.1101/012989	Cortex	10.1016/j.cortex.2015.06.030
+10.1101/022574	Genetics	10.1534/genetics.115.180570
+10.1101/019539	Bioinformatics	10.1093/bioinformatics/btv610
+10.1101/036624	Development	10.1242/dev.134999
+10.1101/050708	Brain Structure and Function	10.1007/s00429-016-1255-4
+10.1101/050252	Evolution	10.1111/evo.13043
+10.1101/058081	Journal of Cell Science	10.1242/jcs.194621
+10.1101/030163	G3: Genes|Genomes|Genetics	10.1534/g3.116.029207
+10.1101/027904	Bioinformatics	10.1093/bioinformatics/btv646
+10.1101/030700	Scientific Reports	10.1038/srep26029
+10.1101/013763	Microbiome	10.1186/s40168-015-0086-5
+10.1101/039826	mSystems	10.1128/mSystems.00032-16
+10.1101/007047	Genome Biology and Evolution	10.1093/gbe/evu197
+10.1101/029504	International Journal Of Epidemiology	10.1093/ije/dyw219
+10.1101/045880	Genome Biology	10.1186/s13059-016-1059-0
+10.1101/059022	Genome Research	10.1101/gr.213587.116
+10.1101/009555	EBioMedicine	10.1016/j.ebiom.2015.06.012
+10.1101/017467	Ecological Indicators	10.1016/j.ecolind.2016.02.004
+10.1101/057042	mBio	10.1128/mBio.01691-16
+10.1101/013839	PLOS ONE	10.1371/journal.pone.0142147
+10.1101/008607	eLife	10.7554/eLife.04525
+10.1101/034660	Journal of Human Genetics	10.1038/jhg.2016.40
+10.1101/062737	Bioinformatics	10.1093/bioinformatics/btw641
+10.1101/018721	Genome Biology	10.1186/s13059-015-0785-z
+10.1101/022376	Journal of Structural Biology	10.1016/j.jsb.2015.11.003
+10.1101/032623	NeuroImage	10.1016/j.neuroimage.2016.03.063
+10.1101/000455	GigaScience	10.1186/2047-217X-3-3
+10.1101/024794	Frontiers in Pharmacology	10.3389/fphar.2015.00307
+10.1101/024067	Scientific Reports	10.1038/srep27644
+10.1101/060384	PLOS ONE	10.1371/journal.pone.0164888
+10.1101/026799	eLife	10.7554/eLife.09945
+10.1101/027268	PLOS Computational Biology	10.1371/journal.pcbi.1004759
+10.1101/002964	Nucleic Acids Research	10.1093/nar/gku1250
+10.1101/054965	Genome Research	10.1101/gr.210641.116
+10.1101/010116	GigaScience	10.1186/s13742-015-0046-9
+10.1101/046847	Evolution, Medicine, and Public Health	10.1093/emph/eow030
+10.1101/049320	Scientific Reports	10.1038/srep29495
+10.1101/016022	Genome Research	10.1101/gr.192005.115
+10.1101/030957	Plant Physiology	10.1104/pp.15.01825
+10.1101/042168	Neuropsychopharmacology	10.1038/npp.2016.151
+10.1101/019745	Molecular Phylogenetics and Evolution	10.1016/j.ympev.2016.03.010
+10.1101/025684	Theoretical Population Biology	10.1016/j.tpb.2016.04.002
+10.1101/025536	Genome Biology And Evolution	10.1093/gbe/evw223
+10.1101/072579	Scientific Reports	10.1038/srep36397
+10.1101/020834	Virus Evolution	10.1093/ve/vev023
+10.1101/014720	Journal of Neurophysiology	10.1152/jn.00237.2015
+10.1101/067819	PLOS Computational Biology	10.1371/journal.pcbi.1005218
+10.1101/003210	RNA	10.1261/rna.045286.114
+10.1101/023564	PeerJ	10.7717/peerj.1718
+10.1101/006932	BMC Systems Biology	10.1186/s12918-014-0117-z
+10.1101/076182	Journal of Thermal Biology	10.1016/j.jtherbio.2016.11.013
+10.1101/003376	PLOS Computational Biology	10.1371/journal.pcbi.1003757
+10.1101/048058	PNAS	10.1073/pnas.1613601113
+10.1101/033373	Genetics	10.1534/genetics.115.185058
+10.1101/040212	Nature Communications	10.1038/ncomms12463
+10.1101/022350	Metabolic Engineering	10.1016/j.ymben.2015.06.009
+10.1101/022962	Cell Reports	10.1016/j.celrep.2015.11.051
+10.1101/074500	Journal of Clinical Microbiology	10.1128/JCM.01881-16
+10.1101/073221	Current Opinion in Genetics & Development	10.1016/j.gde.2016.08.007
+10.1101/021303	Systematic Biology	10.1093/sysbio/syv121
+10.1101/065243	PeerJ	10.7717/peerj.2716
+10.1101/065714	Scientific Reports	10.1038/srep38653
+10.1101/031625	Nature Methods	10.1038/nmeth.3688
+10.1101/034470	Methods	10.1016/j.ymeth.2016.04.002
+10.1101/002352	Nucleic Acids Research	10.1093/nar/gku847
+10.1101/007187	BMC Biology	10.1186/s12915-014-0087-z
+10.1101/009985	PLOS ONE	10.1371/journal.pone.0114674
+10.1101/024950	Molecular Ecology	10.1111/mec.13737
+10.1101/062943	Bioinformatics	10.1093/bioinformatics/btw797
+10.1101/018267	Bioinformatics	10.1093/bioinformatics/btw050
+10.1101/052936	eLife	10.7554/eLife.17721
+10.1101/007450	Journal of Neuroscience	10.1523/JNEUROSCI.2671-13.2014
+10.1101/033076	Genetics	10.1534/genetics.115.185363
+10.1101/028035	American Journal of Human Genetics	10.1016/j.ajhg.2015.12.019
+10.1101/039610	Nature Microbiology	10.1038/nmicrobiol.2016.126
+10.1101/011882	Bioinformatics	10.1093/bioinformatics/btv530
+10.1101/024471	Molecular Biology And Evolution	10.1093/molbev/msw013
+10.1101/005355	Biotechnology for Biofuels	10.1186/s13068-014-0124-8
+10.1101/017871	PLOS Genetics	10.1371/journal.pgen.1005527
+10.1101/011247	Theoretical Population Biology	10.1016/j.tpb.2014.11.001
+10.1101/057182	G3: Genes|Genomes|Genetics	10.1534/g3.116.032045
+10.1101/014118	Genome Research	10.1101/gr.189803.115
+10.1101/068361	PLOS ONE	10.1371/journal.pone.0166021
+10.1101/058982	PLOS ONE	10.1371/journal.pone.0165606
+10.1101/032169	Environmental Microbiology	10.1111/1462-2920.13420
+10.1101/048207	Cell Systems	10.1016/j.cels.2016.05.007
+10.1101/019083	Plant Physiology	10.1104/pp.15.01971
+10.1101/021824	Nucleic Acids Research	10.1093/nar/gkv1262
+10.1101/024810	PLOS Computational Biology	10.1371/journal.pcbi.1004881
+10.1101/036426	Molecular Ecology Resources	10.1111/1755-0998.12529
+10.1101/036392	Journal Of Computational Biology	10.1089/cmb.2016.0146
+10.1101/049643	Biology Letters	10.1098/rsbl.2016.0328
+10.1101/007211	Bioinformatics	10.1093/bioinformatics/btv074
+10.1101/012963	PLOS ONE	10.1371/journal.pone.0137071
+10.1101/019554	American Journal Of Botany	10.3732/ajb.1500229
+10.1101/062703	Social Cognitive And Affective Neuroscience	10.1093/scan/nsw102
+10.1101/015396	European Journal Of Human Genetics	10.1038/ejhg.2015.206
+10.1101/030148	PLOS Genetics	10.1371/journal.pgen.1006340
+10.1101/007666	Bioinformatics	10.1093/bioinformatics/btv057
+10.1101/034868	BMC Biotechnology	10.1186/s12896-016-0281-x
+10.1101/027896	eLife	10.7554/eLife.11750
+10.1101/040667	Bioinformatics	10.1093/bioinformatics/btw337
+10.1101/050989	Scientific Reports	10.1038/srep31597
+10.1101/025023	Molecular Plant Pathology	10.1111/mpp.12318
+10.1101/055939	eLife	10.7554/eLife.19145
+10.1101/014936	G3: Genes|Genomes|Genetics	10.1534/g3.115.019554
+10.1101/079558	Scientific Reports	10.1038/srep35985
+10.1101/034645	Biomedical Genetics and Genomics	10.15761/BGG.1000105
+10.1101/015883	PLOS Computational Biology	10.1371/journal.pcbi.1004518
+10.1101/002659	Nature Materials	10.1038/nmat3912
+10.1101/024265	PLOS ONE	10.1371/journal.pone.0150393
+10.1101/029538	Genomics	10.1016/j.ygeno.2015.12.006
+10.1101/010546	Nature Genetics	10.1038/ng.3162
+10.1101/043364	Acta Crystallographica Section D	10.1107/S2059798316007907
+10.1101/053983	eLife	10.7554/eLife.18889
+10.1101/018705	PLOS ONE	10.1371/journal.pone.0143196
+10.1101/028951	Alzheimers & Dementia	10.1016/j.jalz.2015.08.163
+10.1101/027797	G3: Genes|Genomes|Genetics	10.1534/g3.115.023119
+10.1101/008664	Proceedings B	10.1098/rspb.2015.0339
+10.1101/009209	Genome Research	10.1101/gr.184341.114
+10.1101/024042	Genetics	10.1534/genetics.115.182626
+10.1101/004762	eLife	10.7554/eLife.03430
+10.1101/010132	Nucleic Acids Research	10.1093/nar/gku1234
+10.1101/001305	PLOS ONE	10.1371/journal.pone.0106541
+10.1101/002907	PLOS Biology	10.1371/journal.pbio.1002042
+10.1101/000653	Biology Open	10.1242/bio.20148409
+10.1101/044206	PLOS ONE	10.1371/journal.pone.0160169
+10.1101/041327	PLOS Medicine	10.1371/journal.pmed.1002055
+10.1101/020214	PLOS ONE	10.1371/journal.pone.0139047
+10.1101/042184	The Journal Of Physical Chemistry B	10.1021/acs.jpcb.6b02242
+10.1101/030932	American Journal Of Botany	10.3732/ajb.1500471
+10.1101/023408	Genome Biology	10.1186/s13059-015-0849-0
+10.1101/026112	PLOS Genetics	10.1371/journal.pgen.1005546
+10.1101/020818	PLOS ONE	10.1371/journal.pone.0159195
+10.1101/023549	G3: Genes|Genomes|Genetics	10.1534/g3.115.023622
+10.1101/036095	PLOS ONE	10.1371/journal.pone.0158686
+10.1101/003350	Genome Biology and Evolution	10.1093/gbe/evu169
+10.1101/025411	PLOS ONE	10.1371/journal.pone.0141920
+10.1101/088484	Genome Research	10.1101/gr.214205.116
+10.1101/017244	Genetics	10.1534/genetics.115.176818
+10.1101/004887	Journal of Biological Dynamics	10.1080/17513758.2014.962631
+10.1101/048074	Scientific Reports	10.1038/srep31602
+10.1101/040279	Molecular Biology Of The Cell	10.1091/mbc.E16-01-0063
+10.1101/033605	Journal Of Experimental Botany	10.1093/jxb/erw096
+10.1101/040584	Pediatric Blood and Cancer	10.1002/pbc.26002
+10.1101/055038	G3: Genes|Genomes|Genetics	10.1534/g3.116.031443
+10.1101/030551	Cell Systems	10.1016/j.cels.2016.04.014
+10.1101/016261	American Journal Of Botany	10.3732/ajb.1500078
+10.1101/048462	G3: Genes|Genomes|Genetics	10.1534/g3.116.030239
+10.1101/031609	Proteins: Structure, Function, and Bioinformatics	10.1002/prot.25013
+10.1101/038588	PLOS Neglected Tropical Diseases	10.1371/journal.pntd.0004726
+10.1101/002337	Microbial Evolution	10.1007/s00248-014-0518-y
+10.1101/047720	PLOS Pathogens	10.1371/journal.ppat.1005724
+10.1101/016675	Genome Biology and Evolution	10.1093/gbe/evv156
+10.1101/087403	eLife	10.7554/eLife.18566
+10.1101/009456	PLOS ONE	10.1371/journal.pone.0110579
+10.1101/049841	Biology Direct	10.1186/s13062-016-0159-9
+10.1101/058545	Frontiers in Computational Neuroscience	10.3389/fncom.2016.00094
+10.1101/029496	G3: Genes|Genomes|Genetics	10.1534/g3.115.025668
+10.1101/029942	Genetics	10.1534/genetics.115.184002
+10.1101/043778	PLOS Computational Biology	10.1371/journal.pcbi.1005203
+10.1101/018937	Proceedings B	10.1098/rspb.2015.1346
+10.1101/028548	CPT: Pharmacometrics & Systems Pharmacology	10.1002/psp4.12063
+10.1101/001685	EvoDevo	10.1186/s13227-015-0018-2
+10.1101/083758	Biotechnology for Biofuels	10.1186/s13068-016-0657-0
+10.1101/039180	NeuroImage	10.1016/j.neuroimage.2016.09.049
+10.1101/043117	Environmental Microbiology	10.1111/1462-2920.13455
+10.1101/044958	G3: Genes|Genomes|Genetics	10.1534/g3.116.029397
+10.1101/001461	Methods in Molecular Biology	10.1007/978-1-4939-2763-0_17
+10.1101/079913	Breast Cancer Research and Treatment	10.1007/s10549-016-4035-1
+10.1101/005371	Genome Biology	10.1186/gb-2014-15-6-r86
+10.1101/032987	Journal of Molecular Biology	10.1016/j.jmb.2015.09.002
+10.1101/015446	BMC Genomics	10.1186/1471-2164-16-S8-S9
+10.1101/014134	Frontiers in Neuroinformatics	10.3389/fninf.2016.00016
+10.1101/059832	BMC Biology	10.1186/s12915-016-0309-7
+10.1101/061994	Scientific Reports	10.1038/srep34212
+10.1101/032185	Genome Biology	10.1186/s13059-016-0935-y
+10.1101/072926	Current Opinion in Genetics & Development	10.1016/j.gde.2016.09.004
+10.1101/012807	Evolution	10.1111/evo.12645
+10.1101/053793	Molecular Biology and Evolution	10.1093/molbev/msw127
+10.1101/007237	eLife	10.7554/eLife.05856
+10.1101/019711	PNAS	10.1073/pnas.1510805112
+10.1101/007948	Genome Biology	10.1186/s13059-014-0527-7
+10.1101/024877	Frontiers In Genetics	10.3389/fgene.2015.00326
+10.1101/012492	Physical Review E	10.1103/PhysRevE.91.052711
+10.1101/019570	Nucleic Acids Research	10.1093/nar/gkv1542
+10.1101/066779	Nature Methods	10.1038/nmeth.4034
+10.1101/033167	G3: Genes|Genomes|Genetics	10.1534/g3.116.029900
+10.1101/085233	Scientific Reports	10.1038/srep38019
+10.1101/036400	PLOS ONE	10.1371/journal.pone.0162098
+10.1101/030122	Plant, Cell and Environment	10.1111/pce.12761
+10.1101/033290	G3: Genes|Genomes|Genetics	10.1534/g3.116.030056
+10.1101/069427	PLOS ONE	10.1371/journal.pone.0167980
+10.1101/034801	Geobiology	10.1111/gbi.12214
+10.1101/025007	Evolutionary Applications	10.1111/eva.12357
+10.1101/055483	Nature Communications	10.1038/ncomms13766
+10.1101/064618	Journal of Evolutionary Biology	10.1111/jeb.13000
+10.1101/007724	PLOS ONE	10.1371/journal.pone.0108490
+10.1101/014654	Bioinformatics	10.1093/bioinformatics/btw445
+10.1101/018549	PLOS ONE	10.1371/journal.pone.0134639
+10.1101/031476	Ecology	10.1890/15-2026.1
+10.1101/032409	Journal Of Computational Neuroscience	10.1007/s10827-016-0611-y
+10.1101/029009	BMC Systems Biology	10.1186/s12918-016-0261-8
+10.1101/010561	Scientific Reports	10.1038/srep10950
+10.1101/043349	Journal of Theoretical Biology	10.1016/j.jtbi.2016.07.024
+10.1101/024208	F1000Research	10.12688/f1000research.7221.1
+10.1101/067744	eLife	10.7554/eLife.20390
+10.1101/018762	Nature Communications	10.1038/ncomms12915
+10.1101/018093	Scientific Reports	10.1038/srep10576
+10.1101/022335	PLOS Computational Biology	10.1371/journal.pcbi.1004573
+10.1101/028977	Genome Biology and Evolution	10.1093/gbe/evw138
+10.1101/016808	Genome Medicine	10.1186/s13073-015-0195-6
+10.1101/008649	PLOS ONE	10.1371/journal.pone.0130356
+10.1101/002675	Biology Open	10.1242/bio.20147955
+10.1101/000414	Trends in Genetics	10.1016/j.tig.2014.08.006
+10.1101/004788	Development	10.1242/dev.117796
+10.1101/046086	Bioinformatics	10.1093/bioinformatics/btw569
+10.1101/001321	Oncogene	10.1038/onc.2014.279
+10.1101/002923	Frontiers in Computational Neuroscience	10.3389/fncom.2014.00172
+10.1101/042432	PNAS	10.1073/pnas.1605038113
+10.1101/027516	Frontiers in Neuroscience	10.3389/fnins.2016.00108
+10.1101/020230	Genome Biology	10.1186/s13059-016-0951-y
+10.1101/003780	Journal of Mathematical Biology	10.1007/s00285-014-0824-5
+10.1101/030916	Frontiers in Marine Science	10.3389/fmars.2016.00006
+10.1101/014092	NeuroImage	10.1016/j.neuroimage.2015.03.067
+10.1101/023523	Brain Topography	10.1007/s10548-015-0450-6
+10.1101/019380	Journal of Experimental Zoology Part B: Molecular and Developmental Evolution	10.1002/jez.b.22636
+10.1101/011577	BMC Evolutionary Biology	10.1186/s12862-015-0454-6
+10.1101/003335	ACS Synthetic Biology	10.1021/sb400206c
+10.1101/006973	Nature Genetics	10.1038/ng.3257
+10.1101/044487	Scientific Reports	10.1038/srep34705
+10.1101/033621	Genome Biology and Evolution	10.1093/gbe/evw258
+10.1101/079764	ACS Synthetic Biology	10.1021/acssynbio.6b00264
+10.1101/062257	eLife	10.7554/eLife.18805
+10.1101/019968	Behavioral Ecology	10.1093/beheco/arv184
+10.1101/016246	Nucleic Acids Research	10.1093/nar/gkv756
+10.1101/022699	American Journal Of Human Genetics	10.1016/j.ajhg.2015.11.015
+10.1101/065201	Molecular Ecology Resources	10.1111/1755-0998.12621
+10.1101/021006	Genetics	10.1534/genetics.115.179473
+10.1101/010710	BMC Genomics	10.1186/s12864-015-1264-3
+10.1101/055012	The ISME Journal	10.1038/ismej.2016.99
+10.1101/056275	Nature Communications	10.1038/ncomms12477
+10.1101/009472	PLOS Genetics	10.1371/journal.pgen.1005206
+10.1101/031666	Nature Plants	10.1038/nplants.2016.84
+10.1101/007492	Bioinformatics	10.1093/bioinformatics/btu802
+10.1101/039479	MSphere	10.1128/mSphere.00132-16
+10.1101/029967	Molecular Systems Biology	10.15252/msb.20156663
+10.1101/035741	Scientific Reports	10.1038/srep27859
+10.1101/008789	PLOS Genetics	10.1371/journal.pgen.1005541
+10.1101/028845	F1000Research	10.12688/f1000research.7302.1
+10.1101/008250	PNAS	10.1073/pnas.1415895112
+10.1101/006361	F1000Research	10.12688/f1000research.4669.1
+10.1101/001404	PLOS ONE	10.1371/journal.pone.0119789
+10.1101/034561	Scientific Data	10.1038/sdata.2016.44
+10.1101/017830	Scientific Reports	10.1038/srep19233
+10.1101/032219	BMC Systems Biology	10.1186/s12918-016-0313-0
+10.1101/042085	G3: Genes|Genomes|Genetics	10.1534/g3.116.028878
+10.1101/059816	Environmental Microbiology	10.1111/1462-2920.13633
+10.1101/018374	PLOS Computational Biology	10.1371/journal.pcbi.1004411
+10.1101/042663	Nature Communications	10.1038/ncomms11159
+10.1101/042887	Biology Direct	10.1186/s13062-016-0117-6
+10.1101/000752	American Journal of Human Genetics	10.1016/j.ajhg.2014.03.004
+10.1101/000208	Genome Research	10.1101/gr.169292.113
+10.1101/026344	Genetics	10.1534/genetics.115.183152
+10.1101/015602	Mitochondrial DNA	10.3109/19401736.2015.1022732
+10.1101/007963	Bioinformatics	10.1093/bioinformatics/btv002
+10.1101/041285	G3: Genes|Genomes|Genetics	10.1534/g3.116.028324
+10.1101/024851	Molecular Biology And Evolution	10.1093/molbev/msw036
+10.1101/011296	PLOS Computational Biology	10.1371/journal.pcbi.1004640
+10.1101/060665	G3: Genes|Genomes|Genetics	10.1534/g3.116.032797
+10.1101/058024	PLOS Biology	10.1371/journal.pbio.2000744
+10.1101/041061	G3: Genes|Genomes|Genetics	10.1534/g3.116.028472
+10.1101/019596	PLOS ONE	10.1371/journal.pone.0139516
+10.1101/025452	eLife	10.7554/eLife.15802
+10.1101/037333	Evolution	10.1111/evo.12875
+10.1101/014514	Brain Topography	10.1007/s10548-015-0434-6
+10.1101/011031	eLife	10.7554/eLife.05457
+10.1101/014910	Molecular Biology and Evolution	10.1093/molbev/msv103
+10.1101/050492	PNAS	10.1073/pnas.1610391113
+10.1101/055467	Genome Biology	10.1186/s13059-016-1029-6
+10.1101/012211	BMC Genomics	10.1186/s12864-015-1540-2
+10.1101/038687	Genome Research	10.1101/gr.205070.116
+10.1101/006171	PLOS Genetics	10.1371/journal.pgen.1004663
+10.1101/064949	eLife	10.7554/eLife.19874
+10.1101/005140	eLife	10.7554/eLife.04811
+10.1101/013847	PLOS Computational Biology	10.1371/journal.pcbi.1004511
+10.1101/038463	Nature Communications	10.1038/ncomms12797
+10.1101/033811	The ISME Journal	10.1038/ismej.2016.68
+10.1101/084889	Scientific Reports	10.1038/srep37366
+10.1101/018564	Nature Communications	10.1038/ncomms10063
+10.1101/007773	PeerJ	10.7717/peerj.597
+10.1101/021618	Oncotarget	10.18632/oncotarget.6811
+10.1101/010504	Bioinformatics	10.1093/bioinformatics/btv013
+10.1101/004234	Genetics	10.1534/genetics.114.168948
+10.1101/028738	Systematic Biology	10.1093/sysbio/syw040
+10.1101/018747	Gastric Cancer	10.1007/s10120-015-0566-0
+10.1101/002691	Biological Psychiatry	10.1016/j.biopsych.2015.02.010
+10.1101/003285	Genome Research	10.1101/gr.174920.114
+10.1101/000927	PLOS ONE	10.1371/journal.pone.0097272
+10.1101/024083	Nature Genetics	10.1038/ng.3506
+10.1101/035220	BMC Genomics	10.1186/s12864-016-3314-x
+10.1101/010173	Genome Research	10.1101/gr.185488.114
+10.1101/046714	The American Naturalist	10.1086/688658
+10.1101/001347	Molecular Biology and Evolution	10.1093/molbev/msu269
+10.1101/032680	Frontiers in Neuroscience	10.3389/fnins.2016.00016
+10.1101/027755	Briefings In Bioinformatics	10.1093/bib/bbw008
+10.1101/042416	Scientific Reports	10.1038/srep31693
+10.1101/007922	PNAS	10.1073/pnas.1413877112
+10.1101/026484	Biophysical Journal	10.1016/j.bpj.2015.11.013
+10.1101/020255	Bioinformatics	10.1093/bioinformatics/btv546
+10.1101/003277	eLife	10.7554/eLife.02409
+10.1101/048389	Microbiome	10.1186/s40168-016-0205-y
+10.1101/003319	PLOS Genetics	10.1371/journal.pgen.1004692
+10.1101/026625	G3: Genes|Genomes|Genetics	10.1534/g3.115.024349
+10.1101/004846	Cell Reports	10.1016/j.celrep.2014.12.035
+10.1101/041491	Physica A	10.1016/j.physa.2016.09.002
+10.1101/019901	PLoS Genetics	10.1371/journal.pgen.1005657
+10.1101/047894	Genetics	10.1534/genetics.116.193334
+10.1101/007161	Evolution	10.1111/evo.12627
+10.1101/037812	Journal of Theoretical Biology	10.1016/j.jtbi.2016.05.029
+10.1101/047761	BMC Developmental Biology	10.1186/s12861-016-0113-1
+10.1101/030668	mBio	10.1128/mBio.02162-15
+10.1101/038091	PLOS Pathogens	10.1371/journal.ppat.1005535
+10.1101/031641	Science	10.1126/science.aac8624
+10.1101/013888	PLOS Genetics	10.1371/journal.pgen.1005793
+10.1101/017178	Scientific Reports	10.1038/srep22248
+10.1101/014852	Ecology And Evolution	10.1002/ece3.2314
+10.1101/020735	BMC Bioinformatics	10.1186/s12859-016-0944-6
+10.1101/015537	Bioinformatics	10.1093/bioinformatics/btv523
+10.1101/035949	Genome Biology	10.1186/s13059-016-0930-3
+10.1101/006692	Genome Biology	10.1186/s13059-015-0602-8
+10.1101/005082	Bioinformatics	10.1093/bioinformatics/btu563
+10.1101/005330	Current Opinion in Genetics & Development	10.1016/j.gde.2014.09.005
+10.1101/017509	Bioinformatics	10.1093/bioinformatics/btw085
+10.1101/008235	PLOS Genetics	10.1371/journal.pgen.1005404
+10.1101/028936	PLOS Computational Biology	10.1371/journal.pcbi.1004889
+10.1101/029637	Bioinformatics	10.1093/bioinformatics/btw438
+10.1101/023291	PLoS Computational Biology	10.1371/journal.pcbi.1005180
+10.1101/059238	Lab On A Chip	10.1039/C6LC00764C
+10.1101/006346	Neuron	10.1016/j.neuron.2016.06.012
+10.1101/076398	EBioMedicine	10.1016/j.ebiom.2016.11.003
+10.1101/074773	Nature Communications	10.1038/ncomms13855
+10.1101/024414	PeerJ	10.7717/peerj.1845
+10.1101/021428	PLOS Computational Biology	10.1371/journal.pcbi.1004648
+10.1101/018358	ACS Synthetic Biology	10.1021/acssynbio.5b00077
+10.1101/000778	PLOS Computational Biology	10.1371/journal.pcbi.1003871
+10.1101/012849	Cell Reports	10.1016/j.celrep.2015.09.032
+10.1101/000984	PLOS ONE	10.1371/journal.pone.0098122
+10.1101/015628	EMBO Reports	10.15252/embr.201439110
+10.1101/053462	Bioinformatics	10.1093/bioinformatics/btw542
+10.1101/012906	BMC Genomics	10.1186/s12864-015-1650-x
+10.1101/007906	IEEE/ACM Transactions On Computational Biology And Bioinformatics	10.1109/TCBB.2015.2509992
+10.1101/062422	Proteomics	10.1002/pmic.201500528
+10.1101/016030	Genetics	10.1534/genetics.115.178053
+10.1101/019752	Genome Biology	10.1186/s13059-015-0777-z
+10.1101/046961	PLOS Genetics	10.1371/journal.pgen.1006357
+10.1101/004457	Physical Review Letters	10.1103/PhysRevLett.112.208102
+10.1101/044032	Archives of Clinical Microbiology	10.4172/1989-8436.100058
+10.1101/063081	Journal Of Computer-Aided Molecular Design	10.1007/s10822-016-9971-7
+10.1101/085894	Molecular Plant Pathology	10.1111/mpp.12520
+10.1101/025437	Bioinformatics	10.1093/bioinformatics/btw004
+10.1101/077115	Annual Review Of Pharmacology And Toxicology	10.1146/annurev-pharmtox-010716-104659
+10.1101/017343	American Journal of Physical Anthropology	10.1002/ajpa.22985
+10.1101/037317	G3: Genes|Genomes|Genetics	10.1534/g3.116.028001
+10.1101/005850	PLOS Genetics	10.1371/journal.pgen.1005068
+10.1101/014530	Human Genetics	10.1007/s00439-015-1596-8
+10.1101/055442	Molecular Ecology	10.1111/mec.13955
+10.1101/055194	Nature Neuroscience	10.1038/nn.4406
+10.1101/057976	Bioinformatics	10.1093/bioinformatics/btw390
+10.1101/034371	Royal Society Open Science	10.1098/rsos.150562
+10.1101/037176	Human Brain Mapping	10.1002/hbm.23208
+10.1101/088161	Open Biology	10.1098/rsob.160315
+10.1101/038406	eLife	10.7554/eLife.15266
+10.1101/033878	Brain Structure and Function	10.1007/s00429-016-1277-y
+10.1101/048520	Scientific Reports	10.1038/srep31879
+10.1101/070235	G3: Genes|Genomes|Genetics	10.1534/g3.116.034744
+10.1101/034157	Frontiers in Microbiology	10.3389/fmicb.2016.00215
+10.1101/018507	Integrative Biology : Quantitative Biosciences From Nano To Macro	10.1039/C5IB00029G
+10.1101/007757	Molecular Ecology	10.1111/mec.12977
+10.1101/021634	Scientific Reports	10.1038/srep16780
+10.1101/014951	Human Immunology	10.1016/j.humimm.2015.08.001
+10.1101/039206	Human Mutation	10.1002/humu.22972
+10.1101/053876	BMC Bioinformatics	10.1186/s12859-016-1191-6
+10.1101/053694	PLOS ONE	10.1371/journal.pone.0166602
+10.1101/028241	Genetics in Medicine	10.1038/gim.2015.161
+10.1101/063537	Molecular Biology And Evolution	10.1093/molbev/msw195
+10.1101/027771	Nature Genetics	10.1038/ng.3529
+10.1101/064212	NeuroImage	10.1016/j.neuroimage.2016.09.066
+10.1101/023465	BMC Bioinformatics	10.1186/s12859-015-0721-y
+10.1101/067090	Bioinformatics	10.1093/bioinformatics/btw512
+10.1101/067546	Malaria Journal	10.1186/s12936-016-1641-7
+10.1101/025601	G3: Genes|Genomes|Genetics	10.1534/g3.115.022129
+10.1101/024604	ACS Synthetic Biology	10.1021/acssynbio.6b00017
+10.1101/020271	Molecular Ecology Resources	10.1111/1755-0998.12466
+10.1101/014050	American Journal Of Human Genetics	10.1016/j.ajhg.2015.11.005
+10.1101/041921	BMC Genomics	10.1186/s12864-016-2742-y
+10.1101/028860	BMC Genomics	10.1186/s12864-016-2755-6
+10.1101/032003	The Annals of Applied Statistics	10.1214/16-AOAS952
+10.1101/036830	Bioinformatics	10.1093/bioinformatics/btw245
+10.1101/036780	Current Opinion in Microbiology	10.1016/j.mib.2016.03.013
+10.1101/022731	BMC Genomics	10.1186/s12864-015-2313-7
+10.1101/019257	BMC Biology	10.1186/s12915-015-0146-0
+10.1101/066050	MSystems	10.1128/mSystems.00117-16
+10.1101/045799	Molecular Biology Of The Cell	10.1091/mbc.E16-02-0123
+10.1101/037788	PLOS ONE	10.1371/journal.pone.0159595
+10.1101/044198	Neuroscience & Biobehavioral Reviews	10.1016/j.neubiorev.2016.07.029
+10.1101/010751	Neuron	10.1016/j.neuron.2015.03.028
+10.1101/040295	Nature Communications	10.1038/ncomms11693
+10.1101/055053	Scientific Reports	10.1038/srep35363
+10.1101/041749	Journal of Neuroscience	10.1523/JNEUROSCI.0659-16.2016
+10.1101/047746	Developmental Cell	10.1016/j.devcel.2016.07.025
+10.1101/013318	PLOS Currents	10.1371/currents.outbreaks.c7fd7946ba606c982668a96bcba43c90
+10.1101/017152	eLife	10.7554/eLife.09977
+10.1101/049825	PNAS	10.1073/pnas.1608795113
+10.1101/039925	Journal Of Antimicrobial Chemotherapy	10.1093/jac/dkw173
+10.1101/011809	Nature Genetics	10.1038/ng.3464
+10.1101/064519	eLife	10.7554/eLife.19669
+10.1101/039693	Cell Reports	10.1016/j.celrep.2016.06.048
+10.1101/020719	Nature Communications	10.1038/ncomms11307
+10.1101/044966	PLOS ONE	10.1371/journal.pone.0155743
+10.1101/003848	Molecular Biology and Evolution	10.1093/molbev/msu220
+10.1101/009431	Genome Medicine	10.1186/s13073-015-0177-8
+10.1101/028522	eLife	10.7554/eLife.11994
+10.1101/017566	Genetics	10.1534/genetics.115.178095
+10.1101/008748	BMC Medical Genomics	10.1186/s12920-015-0095-z
+10.1101/002717	PeerJ	10.7717/peerj.434
+10.1101/029652	Bioinformatics	10.1093/bioinformatics/btw277
+10.1101/043240	BMC Genomics	10.1186/s12864-016-2966-x
+10.1101/001198	Molecular Psychiatry	10.1038/mp.2014.99
+10.1101/034520	PLOS ONE	10.1371/journal.pone.0165561
+10.1101/015586	Biological Reviews	10.1111/brv.12232
+10.1101/028381	Advanced Science, Engineering and Medicine	10.1166/asem.2015.1813
+10.1101/057364	Journal of Neurophysiology	10.1152/jn.00275.2016
+10.1101/040923	G3: Genes|Genomes|Genetics	10.1534/g3.116.030536
+10.1101/016782	Scientific Reports	10.1038/srep09607
+10.1101/018333	Bioinformatics	10.1093/bioinformatics/btv383
+10.1101/026831	PLOS Genetics	10.1371/journal.pgen.1006338
+10.1101/012864	Genetics	10.1534/genetics.115.178384
+10.1101/015040	Frontiers in Computational Neuroscience	10.3389/fncom.2015.00027
+10.1101/037671	BMC Bioinformatics	10.1186/s12859-016-1140-4
+10.1101/054866	Ecology and Evolution	10.1002/ece3.2370
+10.1101/004002	The American Naturalist	10.1086/682022
+10.1101/060517	Genome Biology and Evolution	10.1093/gbe/evw219
+10.1101/041244	PLOS Genetics	10.1371/journal.pgen.1006122
+10.1101/007294	F1000Research	10.12688/f1000research.4529.1
+10.1101/019000	Genome Biology	10.1186/s13059-015-0741-y
+10.1101/049221	Current Biology	10.1016/j.cub.2016.07.039
+10.1101/004473	PLOS Computational Biology	10.1371/journal.pcbi.1004390
+10.1101/044503	Investigative Opthalmology & Visual Science	10.1167/iovs.16-19541
+10.1101/073585	NeuroImage	10.1016/j.neuroimage.2016.12.048
+10.1101/040998	Genome Biology and Evolution	10.1093/gbe/evw094
+10.1101/040196	Journal of Computational Biology	10.1089/cmb.2015.0160
+10.1101/061002	PLOS ONE	10.1371/journal.pone.0162639
+10.1101/017368	Diversity and Distributions	10.1111/ddi.12369
+10.1101/011072	Ecology and Evolution	10.1002/ece3.1529
+10.1101/011783	PLOS ONE	10.1371/journal.pone.0121802
+10.1101/048173	G3: Genes|Genomes|Genetics	10.1534/g3.116.034827
+10.1101/023713	G3: Genes|Genomes|Genetics	10.1534/g3.115.023358
+10.1101/059733	Scientific Data	10.1038/sdata.2016.110
+10.1101/051235	Scientific Reports	10.1038/srep31066
+10.1101/038646	mBio	10.1128/mBio.00201-16
+10.1101/021246	PLOS ONE	10.1371/journal.pone.0148203
+10.1101/051508	Journal Of Proteome Research	10.1021/acs.jproteome.6b00815
+10.1101/033852	PLOS ONE	10.1371/journal.pone.0160413
+10.1101/069450	Cell Reports	10.1016/j.celrep.2016.11.028
+10.1101/050633	Biomaterials	10.1016/j.biomaterials.2016.10.018
+10.1101/012526	PLOS ONE	10.1371/journal.pone.0155740
+10.1101/037192	Current Opinion in Neurobiology	10.1016/j.conb.2016.01.011
+10.1101/036657	American Journal of Human Genetics	10.1016/j.ajhg.2016.05.001
+10.1101/016410	Journal of Plant Pathology	10.4454/JPP.V97I2.028
+10.1101/021659	Journal Of Chemical Theory And Computation	10.1021/acs.jctc.5b00784
+10.1101/013128	Insect Biochemistry and Molecular Biology	10.1016/j.ibmb.2015.04.004
+10.1101/064980	Plant Physiology	10.1104/pp.16.00984

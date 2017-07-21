@@ -1,5 +1,16 @@
-## Overview: 
-This assignment is aimed at using our workflow (Collect, Clean, Analyze) to prepare data for analysis. 
+## Web scraping with Import.io
+
+**Outline:**
+
+* Web-Interface
+* Desktop version of Import.io: Connector
+* Desktop version of Import.io: Extractor
+* Web-Scraping with Python (demo)
+
+**What you will need:**
+Install Import.io
+
+*Overview*: This assignment is aimed at using our workflow (Collect, Clean, Analyze) to prepare data for analysis. 
 
 *Scenario*: A musicology researcher is interested in the locations of dance clubs in Los Angeles and wants to create a map of these; she is particularly interested in genres, so if you can get location and genre, that would be very nice. You've discovered that Yelp is a pretty up-to-date source of information.
 
@@ -22,3 +33,16 @@ https://www.yelp.com/search?find_desc=dance+clubs+&find_loc=Los+Angeles,+CA&star
 30, 40, 50, etc.
 
 When you've added a whole batch of URLs, you save them, and then run the entire query. After extracting data from each one, you'll be able to save the csv file. The video above shows the process.
+
+----------
+**Other Resources:**
+
+[Google doc][1] (brainstorming)
+
+[Another Google doc][2] (from last  year's summer DResSUP mini-workshop on web scraping with Python)
+
+[An older Google doc with Import.io screenshots][3]
+
+  [1]: https://docs.google.com/document/d/1lwRgtBcBrTjbOzUNpeQYKMOA6DwM8uUlfsDhDoVMwbE/edit?usp=sharing
+  [2]: https://docs.google.com/document/d/1evvpLe5gky0hhx53PRsi8KDs11PmQDghgzttFAXrWZg/edit?usp=sharing
+  [3]: https://docs.google.com/document/d/1j4T6fHxZMX1aRWsV4J15DU-A_gPqDHq9vCRvI4KnCA4/edit
